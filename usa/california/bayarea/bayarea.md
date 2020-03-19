@@ -5,7 +5,7 @@ parent: California
 ---
 
 # Bay Area
-[Notice: Shelter in place is in effect. Learn more.](https://www.sfchronicle.com/local-politics/article/Bay-Area-must-shelter-in-place-Only-15135014.php){: .btn .btn-red }
+[Notice: Shelter in place is in effect. Learn more.](https://www.sfchronicle.com/local-politics/article/Bay-Area-must-shelter-in-place-Only-15135014.php){: .btn .btn-purple }
 {: .no_toc }
 
 ## Table of contents
