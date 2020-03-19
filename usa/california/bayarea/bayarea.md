@@ -1,8 +1,18 @@
-# Bay Area
+---
+layout: default
+title: Bay Area
+---
 
-<ol>
+# Bay Area
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
-</ol>
+
+---
 
 ## Food for all:
 
@@ -133,7 +143,7 @@ Students can also go to any one of these convenient locations:
 
 - **Womxn, BIQTPOC, disable, and/or chronically ill:** Jihan McDonald is offering Pay What You Can coaching & counseling sessions for cis and trans womxn as well as the BIQTPOC, disabled, and/or chronically ill community. More info [here](https://www.facebook.com/analogmojo/posts/10100687395635787).
 
-**Food**
+### Food
 
 - **All:** As of 3/16/2020, [Uber is waiving delivery fees for over 100K restaurants](https://www.uber.com/newsroom/food-not-finances/)
 - **All:** [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant women and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers.
@@ -161,12 +171,12 @@ Students can also go to any one of these convenient locations:
   - Downtown Berkeley (MLK & Center): Saturdays, 10-3p
   - Montclair Village: Sundays, 9a-1p
 
-**Housing:
+### Housing:
 
 - **All:** STUDENTS/ FOSTER YOUTH
   - If you are or know of a foster youth that is staying at a college dorm room that is going to be closed due to the coronavirus, please email [info@togetherwerise.org](mailto:info@togetherwerise.org)  and they will provide or help you find housing during this transition.
 
-**Employment**
+### Employment
 
 - **** [**The Safety Net Fund**](https://medium.com/@safetynet/the-safety-net-fund-20040273d291?fbclid=IwAR2y4jy-P7tMmd9Aws1gsgrG-7OZLvc9BzcCyFxGAGJtyg2vgnzQoqzCOCg) **for Bay Area Artists:**
   - The grantee must reside in the Bay Area (See attached list of eligible zip codes)
@@ -181,9 +191,9 @@ Students can also go to any one of these convenient locations:
 - **** For resources for **freelance artists** , click [_here_](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)!
 - **** For resources for **bartenders** , click [_here_](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)!
 
-**Elderly (65+)**
+## Elderly (65+)
 
-**Food**
+### Food
 
 - ****** All:  **[Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant women and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers. [Zanotto's Family Markets](https://www.facebook.com/ZanottosFamilyMarkets/?hc_location=ufi) are doing morning hours particularly for seniors. They are also providing daily updates on the stock levels in their stores, so you don't even have to risk going there to know if they have something like milk and eggs. 
 - ****** Oakland:** East Oakland Collective is offering supplies and food for seniors, unhoused folks, people with compromised immune systems. Please contact EOC for availability of supplies and food at 510-990-0775 or [info@eastoaklandcollective.com](mailto:info@eastoaklandcollective.com)[https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
@@ -198,7 +208,7 @@ Students can also go to any one of these convenient locations:
   - Hours may change, so check back for updates. You can also call 510.616.5383 for updated hours information.
   - The Berkeley Food Network's on-site pantry will remain open during this period of COVID-19 containment as long as we are able to source food. Anyone in need of free food is welcome to visit. BFN's food distributions are open to Bekeley and Albany residents only.
 
-# **Specialized Health Resources for Communities:**
+## Specialized Health Resources for Communities:
 
 - ****** Womxn, BIQTPOC, disable, and/or chronically ill:** Jihan McDonald is offering Pay What You Can coaching & counseling sessions for cis and trans womxn as well as the BIQTPOC, disabled, and/or chronically ill community. More info [here](https://www.facebook.com/analogmojo/posts/10100687395635787).
 - ****** For Unhoused Communities:**
@@ -225,7 +235,7 @@ Students can also go to any one of these convenient locations:
   - **○○** [**CLICK HERE**](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/You-Have-Rights-Protect-Your-Health-Updated-February-2020-ENGLISH.pdf) **to learn more about your rights when accessing health services.**
 - If you feel your rights or the rights of someone you know have been violated, you can file an immigration enforcement civil rights complaint. To learn more about filing a complaint, [click here](https://www.nilc.org/issues/education/complaint-form-violations-of-sensitive-locations-policy-school/).
 
-# **Safety for Survivors of Violence**
+## Safety for Survivors of Violence
 
 - ****** San Francisco:** La Casa de Las Madres in SOMA announced that their drop in center is closed until April 7th. Services available include confidential emergency shelter, 24/7 crisis line, safety planning, advocacy & information and referral. For support, please call La Casa's 24/7 hotline at 877-503-1850, or message our text line at 415-200-3575: [https://www.instagram.com/p/B9sNSyfBhSM/](https://www.instagram.com/p/B9sNSyfBhSM/)
 - ****** All:**A huge list of Bay Area resources from Leap SF addressing family violence including reporting lines for abuse, crisis intervention, crisis shelters, counseling resources/referrals, legal resources:[**https://www.leapsf.org/pdf/family-violence-resources.pdf**](https://www.leapsf.org/pdf/family-violence-resources.pdf)
@@ -241,7 +251,7 @@ From Futures Without Violence (more links [here](https://www.futureswithoutviole
 - [National Parent Helpline](http://www.nationalparenthelpline.org/) Monday -Friday 12pm-9am CT emotional support and advocacy for parents: **1-855-2736**.
 - **Community United Against Violence (CUAV)** is providingremote counseling available for LGBTQI+ survivors of violence, domestic violence, hate violence and police violence -- [cuav.org](http://www.cuav.org).
 
-# **Mental Health**
+## Mental Health
 
 - Crisis Support Services of Alameda County is available 24/7 at **1-800-309-2131.** Callers do not have to be experiencing suicidal thoughts or feelings to call.
   - Crisis Support Services of Alameda County has a free Text Line Program available 4:00 p.m. -- 11:00 p.m. 7 days. Text SHARE to 20121. Standard text message rates apply. Texters do not have to be experiencing suicidal thoughts or feelings to text. More info:  [https://www.crisissupport.org/programs/text-line/](https://www.crisissupport.org/programs/text-line/)
@@ -250,24 +260,24 @@ From Futures Without Violence (more links [here](https://www.futureswithoutviole
 - Jihan McDonald is offering Pay What You Can coaching & counseling sessions for cis and trans womxn as well as the BIQTPOC, disabled, and/or chronically ill community. More info [here](https://www.facebook.com/analogmojo/posts/10100687395635787).
 - Parentline University of San Francisco - free counseling service for parents of children from pregnancy to 3 years old. Info can be found [here](https://parentlineusf.com/).
 
-# **Employment**
+## Employment
 
 Copy and pasted from [Los Angeles County](https://docs.google.com/document/d/1S-WJaMa4q3yNrEBfSFKEdSQArcNc_MTI2LiUA63Ycyg/preview?fbclid=IwAR2gOzWoZzTOVSnW-UZkG9TIV5LW8ZcM1qkQMoVQH8g5iDThcDA_o2s39z0#).
 
-**Employment Issues**
+### Employment Issues
 
 - Please visit [https://www.edd.ca.gov/about\_edd/coronavirus-2019.htm](https://www.edd.ca.gov/about_edd/coronavirus-2019.htm) for BENEFITS FOR WORKERS IMPACTED BY COVID-19 and also read the heck out the EDD's Frequently Asked Questions: [https://edd.ca.gov/about\_edd/coronavirus-2019/faqs.htm](https://edd.ca.gov/about_edd/coronavirus-2019/faqs.htm)
 - For a run-down of labor laws in California, please visit: [https://www.latimes.com/business/story/2020-03-12/coronavirus-labor-law-know-your-rights-california-worker](https://www.latimes.com/business/story/2020-03-12/coronavirus-labor-law-know-your-rights-california-worker?fbclid=IwAR2BQXmV_NhVf-y4CcGwkSSl4DlmTOBokgBSXSbDDIk-l4i9bBt5zb8BESU)
 
-**Paid Family Leave**
+### Paid Family Leave
 
-**Paid family leave** is available for those who stay home because they need to take care of someone who has contracted the virus (Covid-19) or who has been quarantined (must be certified by a medical professional). [Learn how to file a Paid Family Leave Claim HERE](https://edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm).
+### Paid family leave** is available for those who stay home because they need to take care of someone who has contracted the virus (Covid-19) or who has been quarantined (must be certified by a medical professional). [Learn how to file a Paid Family Leave Claim HERE](https://edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm).
 
-**Disability Benefits/Paid Sick Leave**
+### Disability Benefits/Paid Sick Leave
 
 **Disability benefits /paid sick leave** are available for those who have actually contracted the virus themselves or who have been exposed to it and are quarantined (must be certified by a medical professional in the case of Disability Benefits). [Learn how to file a Disability Insurance Claim HERE](https://edd.ca.gov/Disability/How_to_File_a_DI_Claim_in_SDI_Online.htm).
 
-**Unemployment Benefits**
+### Unemployment Benefits**
 
 **Unemployment benefits** are available to those whose hours have been reduced or who have lost their job due to coronavirus measures (and it also applies to those who choose to stay home due to underlying health issues making them more vulnerable). The Governor has waived the 1 week wait time and the person may not be required to be actively looking for work (as is usually required). [Learn how to file an Unemployment Insurance Claim HERE](https://edd.ca.gov/Unemployment/Filing_a_Claim.htm).
 
