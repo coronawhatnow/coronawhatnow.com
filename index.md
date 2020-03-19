@@ -8,7 +8,7 @@ This a free, open, and collaborative website for collecting actionable resources
 
 Choose your region from the menu or use search to get started.
 
-Currently [Bay Area](usa/california/bayarea/bayarea.html) is available. Please help us by adding more regions.
+Currently [Bay Area](usa/california/bayarea/bayarea.html) is available. [Please help us by adding more regions.](https://www.facebook.com/groups/coronawhatnow/announcements/)
 
 # I want to help or I don't see my city/state/country
 [Help us! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
