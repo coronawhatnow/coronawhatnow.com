@@ -163,7 +163,7 @@ Students can also go to any one of these convenient locations:
   - Downtown Berkeley (MLK & Center): Saturdays, 10-3p
   - Montclair Village: Sundays, 9a-1p
 
-### Housing:
+### Housing
 
 - **All:** STUDENTS/ FOSTER YOUTH
   - If you are or know of a foster youth that is staying at a college dorm room that is going to be closed due to the coronavirus, please email [info@togetherwerise.org](mailto:info@togetherwerise.org)  and they will provide or help you find housing during this transition.
@@ -326,3 +326,5 @@ _General Bay Area_
 - **Little Brothers Friends of the Elderly:** Help An Elderly SF Citizen with Care Kits: [https://littlebrotherssf.networkforgood.com/projects/95387-help-an-elderly-sf-citizen-during-the-covid19-outbreak?fbclid=IwAR20P3y8RzShNumCW-AESOn-mNAQadKJl41M7U0btNdYHHeMrUykExqxgDk](https://littlebrotherssf.networkforgood.com/projects/95387-help-an-elderly-sf-citizen-during-the-covid19-outbreak?fbclid=IwAR20P3y8RzShNumCW-AESOn-mNAQadKJl41M7U0btNdYHHeMrUykExqxgDk)
 - **East Oakland Collective** is searching for the following donations to help unhoused, elderly, and immunocompromised people hand sanitizer, disinfect wipes (Clorox or off brand), disinfect spray (Lysol or off brand), baby/body wipes (perhaps with Aloe), rubbing alcohol, Aloe Vera gel, gloves, vitamin C drink packets, water bottles, masks, heavy duty tarps, shoe slip covers, drinking water jugs: [https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
 - **SparkSF:** Donate to support meals and other consequences for our families of the COVID-19 school closures through SparkSF, a nonprofit that supports partnerships between SFUSD and philanthropic organizations.  [https://www.sparksfpublicschools.org](https://www.sparksfpublicschools.org/checkout/donation-confirmed?donationId=5e6c30893fe9f4022dfbdbc0&authCode=NWU2YzMwODkzZmU5ZjQwMjJkZmJkYmMwOjIwMjAtMDMtMTRUMDE6MTY6NTQuOTEzWgp38Q4tx2gGix1cHaTZYwCmzhSFBUV6KrlQ-fVw7DVq)   You can choose 'student nutrition services' or 'Covid19 response fund' under 'additional information' (after you choose a donation amount, on the website) or under step 4 (if using a phone).
+
+Credit to [the Freedom Community Clinic](https://docs.google.com/document/d/1R9y8KLbU-oZTJheoqobmqg6TJxkwSjTkJvm6WywHURk/preview?usp=drivesdk&fbclid=IwAR0CTBDo_iqIJHvw3ygZM9JM8tgxdvbts_Xy-73EI4oH28wzK4GLo057Q9I&sle=true) for sourcing much of this initial doc.
