@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
 # Coronavirus is impacting your life. Now what?
 This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
 
