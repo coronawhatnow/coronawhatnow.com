@@ -16,3 +16,5 @@ parent: Washington
 ---
 
 Coming soon
+
+[Help us! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
