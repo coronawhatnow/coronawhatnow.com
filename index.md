@@ -19,4 +19,4 @@ Here are examples of types of info we're collecting, each on a country/state/loc
 
 Ideally information from state, local, federal governments and reputable companies and non-profits only.
 
-Join [our Facebook group to get started](https://www.facebook.com/groups/coronawhatnow/announcements/).
+[Join our Facebook group to get started](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
