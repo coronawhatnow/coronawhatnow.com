@@ -6,7 +6,7 @@ nav_order: 0
 # Coronavirus is impacting your life. What now?
 This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
 
-Currently [Bay Area](usa/california/bayarea/bayarea.html) is available. [Please help us by adding more regions.](https://www.facebook.com/groups/coronawhatnow/announcements/)
+[Bay Area](usa/california/bayarea/bayarea.html) and [Seattle](usa/washington/seattle/seattle.html)are available. [Please help us by adding more regions.](https://www.facebook.com/groups/coronawhatnow/announcements/)
 
 # I want to help or I don't see my city/state/country
 [Help us! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
