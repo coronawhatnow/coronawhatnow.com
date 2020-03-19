@@ -6,7 +6,7 @@ nav_order: 0
 # Coronavirus is impacting your life. What now?
 This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
 
-Click your region or use search to get started.
+Choose your region from the menu or use search to get started.
 
 # I want to help / I don't see my city/state/country
 This will always be free for everyone. The only thing we ask is for you to contribute time, if you can. We're building an open directory of information that helps people and businesses get actionable understanding and help for the affects of coronavirus.
