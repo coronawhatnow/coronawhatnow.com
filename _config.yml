@@ -1,1 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
+aux_links:
+  "GitHub":
+    - "//github.com/coronawhatnow/coronawhatnow.com"
+  "Help Us":
+    - "//www.facebook.com/groups/coronawhatnow/edit"
