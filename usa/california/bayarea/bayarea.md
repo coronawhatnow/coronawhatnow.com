@@ -14,12 +14,12 @@ title: Bay Area
 
 ---
 
-## Food for all:
+## Food for all
 
 - **SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [com](http://mixt.com/) or on MIXT app for pick up orders.
 - **Oakland:** La SantaTorta Food Truck; 333 Broadway Oakland; Free hot meals 12-2p
 - **March 19:** SF/Marin Food Bank distributing free fresh groceries 9a-1p outside Mission High on Dolores St.
-- **List of Alameda County food banks: [https://www.needhelppayingbills.com/html/alameda\_county\_food\_banks.html](https://www.needhelppayingbills.com/html/alameda_county_food_banks.html)
+- **List of Alameda County food banks:** [https://www.needhelppayingbills.com/html/alameda\_county\_food\_banks.html](https://www.needhelppayingbills.com/html/alameda_county_food_banks.html)
 - Expensify.org is matching $50 towards SNAP grocery purchases
   - Purchase food as normal with your SNAP card
   - [Download](https://community.expensify.com/discussion/4699/how-to-download-the-mobile-app/p1?new=1) Expensify on iOS or Android, for free
@@ -29,13 +29,12 @@ title: Bay Area
   - Set up your [bank account](https://community.expensify.com/discussion/5864/how-to-add-a-personal-bank-account-to-receive-reimbursement) to receive the funds
   - So long as we have funds available, we will reimburse up to $50 per family (one time), the very next day.
 
-## Self-Care for all:
+## Self-Care for all
 
 - East Bay Meditation Center has created online Sangha Self-Care Groups (special groups for POC, folks with disability, etc):[https://eastbaymeditation.org/programs/zoom-links/](https://eastbaymeditation.org/programs/zoom-links/)
 - Headspaceprovides free meditations: [https://www.headspace.com/covid-19](https://www.headspace.com/covid-19)
-- **** Peloton(yoga, meditation, and exercise classes for home):
 
-## Volunteer Opportunities/How to Help:
+## Volunteer Opportunities/How to Help
 
 - For those able to offer services to community members in Oakland: [https://localwiki.org/oakland/COVID-19/How\_to\_Help](https://localwiki.org/oakland/COVID-19/How_to_Help)
 - Community foundations with rapid response funds to support community services across nine Bay Area counties: [https://www.siliconvalleycf.org/coronavirus-fund](https://www.siliconvalleycf.org/coronavirus-fund)
@@ -62,7 +61,7 @@ title: Bay Area
 - **Overview for all Bay Area free lunch distribution centers:** [https://www.sfgate.com/coronavirus/article/kids-students-free-lunches-coronavirus-covid-15134702.php](https://www.sfgate.com/coronavirus/article/kids-students-free-lunches-coronavirus-covid-15134702.php)
 - **San Francisco:** Beginning March 17, SFUSD will provide free breakfast and lunch to all children 18 and younger at 14 pick-up sites Monday-Friday. No identification or proof of school enrollment is required, but a child must be present. Breakfast, lunch, fresh fruit, vegetables, and milk will be provided to take home. Shelf-stable meals will also be available. Families will not need to enter the school building for pick-up.
   - [https://www.sfusd.edu/services/health-wellness/nutrition-school-meals](https://www.sfusd.edu/services/health-wellness/nutrition-school-meals)
-- ****** Berkeley:** The Berkeley Unified School District Nutrition Department is serving FREE BREAKFAST AND LUNCH as take-away meals for school-age children 18 and younger. [https://www.berkeleyschools.net/2020/03/while-school-is-closed-food-is-available-mientras-que-la-escuela-esta-cerrada-hay-alimentos-disponibles/](https://www.berkeleyschools.net/2020/03/while-school-is-closed-food-is-available-mientras-que-la-escuela-esta-cerrada-hay-alimentos-disponibles/)
+- **Berkeley:** The Berkeley Unified School District Nutrition Department is serving FREE BREAKFAST AND LUNCH as take-away meals for school-age children 18 and younger. [https://www.berkeleyschools.net/2020/03/while-school-is-closed-food-is-available-mientras-que-la-escuela-esta-cerrada-hay-alimentos-disponibles/](https://www.berkeleyschools.net/2020/03/while-school-is-closed-food-is-available-mientras-que-la-escuela-esta-cerrada-hay-alimentos-disponibles/)
 
 Monday-Friday, March 16-27
 
@@ -120,7 +119,7 @@ Students can also go to any one of these convenient locations:
 
 ### Childcare
 
-- ****** San Francisco:** Department of Children, Youth, and their Families offering free childcare to healthcare workers, city & county SF employees who have been activated as disaster service workers, and families on the SF Recreation & Parks Department Scholarship list. If you did not receive an invitation, but qualify, you can apply here: [https://www.dcyf.org/care](https://www.dcyf.org/care)
+- **San Francisco:** Department of Children, Youth, and their Families offering free childcare to healthcare workers, city & county SF employees who have been activated as disaster service workers, and families on the SF Recreation & Parks Department Scholarship list. If you did not receive an invitation, but qualify, you can apply here: [https://www.dcyf.org/care](https://www.dcyf.org/care)
 
 ### Housing
 
@@ -156,7 +155,7 @@ Students can also go to any one of these convenient locations:
       - Cal Community will be encouraged to take what they need for the week. We will order additional inventory to account for the need.
       - The pop-up will be continuously stocked and replenished throughout the day to assure there is food for the entire population we see.
       - You are encouraged to pick up food for a student that is self-quarantined or cannot make our pop-up pantry in person. All you need is their Cal ID or Cal ID #.
-- ****** Most Farmers Markets Stay Open****https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/**](https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/)
+- **Most Farmers Markets Stay Open**https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/**](https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/)
   - SF Ferry Plaza: Tues & Thurs (10a-2p), Sat 8a-2p
   - Heart of the City at UN Civic Center Plaza: Wed, Fri, Sun 7-4:30/5p
   - South Berkeley (Adeline & 63rd): Tuesdays,: 2-6:30p
@@ -171,37 +170,37 @@ Students can also go to any one of these convenient locations:
 
 ### Employment
 
-- **** [**The Safety Net Fund**](https://medium.com/@safetynet/the-safety-net-fund-20040273d291?fbclid=IwAR2y4jy-P7tMmd9Aws1gsgrG-7OZLvc9BzcCyFxGAGJtyg2vgnzQoqzCOCg) **for Bay Area Artists:**
+- **[The Safety Net Fund](https://medium.com/@safetynet/the-safety-net-fund-20040273d291?fbclid=IwAR2y4jy-P7tMmd9Aws1gsgrG-7OZLvc9BzcCyFxGAGJtyg2vgnzQoqzCOCg)for Bay Area Artists:**
   - The grantee must reside in the Bay Area (See attached list of eligible zip codes)
   - The grantee must provide proof of artistic endeavor within the last 6 months
   - The grantee must not be eligible for unemployment
   - The grantee must have less than $1000 of income within the last 30 days
   - Grants will be evaluated in the order received.
-- ****** The Creator Fund**: Convertkit has established a $50K fund to help creators in need. [https://creatorfund.ck.page/](https://creatorfund.ck.page/)
-- ****** Disability Insurance (DI) Claim**: For those unable to work due to having or being exposed to COVID-19. You can collect the first week that you are out of work. [https://www.edd.ca.gov/Disability/How\_to\_File\_a\_DI\_Claim\_in\_SDI\_Online.htm](https://www.edd.ca.gov/Disability/How_to_File_a_DI_Claim_in_SDI_Online.htm)
-- ****** Paid Family Leave Claim**: If you are unable to work because you are caring for an ill or quarantined family member with COVID-19. Benefit amounts are approximately 60=70% of wages. [https://www.edd.ca.gov/Disability/How\_to\_File\_a\_PFL\_Claim\_in\_SDI\_Online.htm](https://www.edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm)
-- ****** Unemployment Insurance Claim**: For those whose employer has reduced hours or shut down operations due to COVID-19. Provides partial wage replacement. Parents taking care of kids whose schools have closed may be eligible for benefits. [https://www.edd.ca.gov/Unemployment/Filing\_a\_Claim.htm](https://www.edd.ca.gov/Unemployment/Filing_a_Claim.htm)
-- **** For resources for **freelance artists** , click [_here_](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)!
-- **** For resources for **bartenders** , click [_here_](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)!
+- **The Creator Fund**: Convertkit has established a $50K fund to help creators in need. [https://creatorfund.ck.page/](https://creatorfund.ck.page/)
+- **Disability Insurance (DI) Claim**: For those unable to work due to having or being exposed to COVID-19. You can collect the first week that you are out of work. [https://www.edd.ca.gov/Disability/How\_to\_File\_a\_DI\_Claim\_in\_SDI\_Online.htm](https://www.edd.ca.gov/Disability/How_to_File_a_DI_Claim_in_SDI_Online.htm)
+- **Paid Family Leave Claim**: If you are unable to work because you are caring for an ill or quarantined family member with COVID-19. Benefit amounts are approximately 60=70% of wages. [https://www.edd.ca.gov/Disability/How\_to\_File\_a\_PFL\_Claim\_in\_SDI\_Online.htm](https://www.edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm)
+- **Unemployment Insurance Claim**: For those whose employer has reduced hours or shut down operations due to COVID-19. Provides partial wage replacement. Parents taking care of kids whose schools have closed may be eligible for benefits. [https://www.edd.ca.gov/Unemployment/Filing\_a\_Claim.htm](https://www.edd.ca.gov/Unemployment/Filing_a_Claim.htm)
+- **For resources for **freelance artists** , click [_here_](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)!
+- **For resources for **bartenders** , click [_here_](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)!
 
 ## Elderly (65+)
 
 ### Food
 
-- ****** All:  **[Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant women and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers. [Zanotto's Family Markets](https://www.facebook.com/ZanottosFamilyMarkets/?hc_location=ufi) are doing morning hours particularly for seniors. They are also providing daily updates on the stock levels in their stores, so you don't even have to risk going there to know if they have something like milk and eggs. 
-- ****** Oakland:** East Oakland Collective is offering supplies and food for seniors, unhoused folks, people with compromised immune systems. Please contact EOC for availability of supplies and food at 510-990-0775 or [info@eastoaklandcollective.com](mailto:info@eastoaklandcollective.com)[https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
-- ****** San Francisco and Oakland:**Project Open Hand still serving and delivering meals
+- **All:**[Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant women and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers. [Zanotto's Family Markets](https://www.facebook.com/ZanottosFamilyMarkets/?hc_location=ufi) are doing morning hours particularly for seniors. They are also providing daily updates on the stock levels in their stores, so you don't even have to risk going there to know if they have something like milk and eggs. 
+- **Oakland:** East Oakland Collective is offering supplies and food for seniors, unhoused folks, people with compromised immune systems. Please contact EOC for availability of supplies and food at 510-990-0775 or [info@eastoaklandcollective.com](mailto:info@eastoaklandcollective.com)[https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
+- **San Francisco and Oakland:**Project Open Hand still serving and delivering meals
 [https://www.openhand.org/](https://www.openhand.org/)
-- ****** San Francisco:** [Clarity Burke](https://missionlocal.org/2020/03/money-equals-power-a-john-oconnell-high-school-teacher-uses-finance-to-teach-students-about-social-justice/), a social science teacher at John O'Connell, started a free delivery volunteer service for the immunosuppressed. She has several volunteers ready to work. To receive help:[com/deliveryneeded](http://tinyurl.com/deliveryneeded)
-- ****** San Francisco:** Meals on Wheels will continue operation [https://www.mowsf.org/coronavirus](https://www.mowsf.org/coronavirus)
-- ****** North Berkeley Senior Center Lunch Pick-Up Service:** 1900 Sixth St. M-F 11a-12p
-- ****** South Berkeley Senior Center Lunch Pick-Up Service:** 2939 Ellis St. M-F 11a-12p
-- ****** Berkeley & Albany:** Berkeley Food Network On-Site Food Pantry; 1925 Ninth St.
+- **San Francisco:** [Clarity Burke](https://missionlocal.org/2020/03/money-equals-power-a-john-oconnell-high-school-teacher-uses-finance-to-teach-students-about-social-justice/), a social science teacher at John O'Connell, started a free delivery volunteer service for the immunosuppressed. She has several volunteers ready to work. To receive help:[com/deliveryneeded](http://tinyurl.com/deliveryneeded)
+- **San Francisco:** Meals on Wheels will continue operation [https://www.mowsf.org/coronavirus](https://www.mowsf.org/coronavirus)
+- **North Berkeley Senior Center Lunch Pick-Up Service:** 1900 Sixth St. M-F 11a-12p
+- **South Berkeley Senior Center Lunch Pick-Up Service:** 2939 Ellis St. M-F 11a-12p
+- **Berkeley & Albany:** Berkeley Food Network On-Site Food Pantry; 1925 Ninth St.
   - Hours: Monday – Thursday 10am – 2pm; Monday and Wednesday 5 – 7pm; First and third Saturdays 10am – 12pm
   - Hours may change, so check back for updates. You can also call 510.616.5383 for updated hours information.
   - The Berkeley Food Network's on-site pantry will remain open during this period of COVID-19 containment as long as we are able to source food. Anyone in need of free food is welcome to visit. BFN's food distributions are open to Bekeley and Albany residents only.
 
-## Specialized Health Resources for Communities:
+## Specialized Health Resources for Communities
 
 - **Womxn, BIQTPOC, disable, and/or chronically ill:** Jihan McDonald is offering Pay What You Can coaching & counseling sessions for cis and trans womxn as well as the BIQTPOC, disabled, and/or chronically ill community. More info [here](https://www.facebook.com/analogmojo/posts/10100687395635787).
 - **For Unhoused Communities:**
@@ -209,22 +208,22 @@ Students can also go to any one of these convenient locations:
   - **For People Who Use Substances:**
 - COVID-19 Guidance for People Who Use Drugs and Harm Reduction Programs: [https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/)
 - **Trans Communities:** The Coronavirus (COVID-19): What Trans People Need to Know
-  - **[https://transequality.org/covid19?fbclid=IwAR0OBW\_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p\_8T\_NdmqOSGm39MzM](https://transequality.org/covid19?fbclid=IwAR0OBW_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p_8T_NdmqOSGm39MzM)
+  - [https://transequality.org/covid19?fbclid=IwAR0OBW\_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p\_8T\_NdmqOSGm39MzM](https://transequality.org/covid19?fbclid=IwAR0OBW_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p_8T_NdmqOSGm39MzM)
 - **LGBTQI+:**Community United Against Violence (CUAV) is providingremote counseling available for LGBTQI+ survivors of violence, domestic violence, hate violence and police violence -- [cuav.org](http://www.cuav.org).
-  - **Relief Fund for LGBTQI+ BIPOC folks who are self-employed or in the service economy [https://www.surveymonkey.com/r/QTIBIPOCCOVID19](https://www.surveymonkey.com/r/QTIBIPOCCOVID19)
-- **For Sex Workers in the Bay Area:** Emergency Grants for Bay Area sex workers [ ](https://bayareaworkerssupport.org/grants)[org/grants](https://bayareaworkerssupport.org/grants)
-  - **Online mental health services for sex workers[org](https://pineapplesupport.org/)
+  - Relief Fund for LGBTQI+ BIPOC folks who are self-employed or in the service economy [https://www.surveymonkey.com/r/QTIBIPOCCOVID19](https://www.surveymonkey.com/r/QTIBIPOCCOVID19)
+- **For Sex Workers in the Bay Area:** Emergency Grants for Bay Area sex workers [ ](https://bayareaworkerssupport.org/grants)[bayareaworkerssupport.org/grants](https://bayareaworkerssupport.org/grants)
+  - Online mental health services for sex workers[org](https://pineapplesupport.org/)
 - **For Disabled Folks in the East Bay:** The Disability Justice Culture Club is working hard to just to meet our own basic needs, but know that disabled and/or elder Black, Brown and people of color are most at risk of being harmed by COVID19. If you are a disabled person with needs right now that aren't being met with your immediate support system, please complete this form:[East Bay Disabled Folks COVID19 Support Request Form](https://docs.google.com/forms/d/e/1FAIpQLSc7LLhYN243k6xFlmQH26lAN9EoRXgEQGrghbqL8Ttc1K8YNA/viewform)
 - **Undocumented Communities:**
-  - **[East Oakland DREAMer](https://eastoaklanddreamers.org/) emergency fund (up to $250, applicants must be migrant youth 15-30 years old or migrant guardian of youth aged 0-20)  [ ](https://tinyurl.com/COVIDMigrantYouthRelief)[https://tinyurl.com/COVIDMigrantYouthRelief](https://tinyurl.com/COVIDMigrantYouthRelief)
+  - [East Oakland DREAMer](https://eastoaklanddreamers.org/) emergency fund (up to $250, applicants must be migrant youth 15-30 years old or migrant guardian of youth aged 0-20)  [ ](https://tinyurl.com/COVIDMigrantYouthRelief)[https://tinyurl.com/COVIDMigrantYouthRelief](https://tinyurl.com/COVIDMigrantYouthRelief)
   - **Undocumented families who plan to apply for documentation in the future should still seek testing/treatment for COVID. COVID is public charge exempt. Read more [here](http://www.uscis.gov/greencard/public-charge).
 
-- **On March 13, U.S. Customs and Immigration Services announced that testing, prevention, or treatment for COVID-19 will**  **NOT**  **be used against immigrants in a public charge test.**** This means that immigrant families should seek the care they need during this difficult time.**  Below is some information about the rights of immigrants' rights in health care settings:
+- **On March 13, U.S. Customs and Immigration Services announced that testing, prevention, or treatment for COVID-19 will**  **NOT**  **be used against immigrants in a public charge test.** This means that immigrant families should seek the care they need during this difficult time.  Below is some information about the rights of immigrants' rights in health care settings:
   - **It is safe and smart to see the doctor if you need care**. Your doctor is required to honor your right to privacy. You do not need to share any information about your immigration status unless you apply for Medicaid or other health coverage.
   - **You can still see a doctor without medical insurance**. This includes care you receive in the emergency room, at community and migrant health centers, free clinics, and public hospitals. If you don't have a doctor, call a local community health center for assistance. You can find a health center here: [https://findahealthcenter.hrsa.gov/](https://findahealthcenter.hrsa.gov/)
   - **Hospitals and health care spaces are safe to visit**. Federal guidelines prohibit immigration agents from conducting arrests or other enforcement actions at health care facilities, such as hospitals, doctors' offices, health clinics, and urgent care facilities.
   - **California residents can access**[**Keep Your Benefits**](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/Public-Charge-Does-This-Apply-To-Me-February-2020-ENGLISH.pdf)**for more information** about how their use of public benefits may effect their documentation status. [Informed Immigrant](https://www.informedimmigrant.com/) also provides resources and accurate information for immigrant families with questions about their benefits.
-  - **[**CLICK HERE**](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/You-Have-Rights-Protect-Your-Health-Updated-February-2020-ENGLISH.pdf) **to learn more about your rights when accessing health services.**
+  - **[CLICK HERE](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/You-Have-Rights-Protect-Your-Health-Updated-February-2020-ENGLISH.pdf)** to learn more about your rights when accessing health services.**
 - If you feel your rights or the rights of someone you know have been violated, you can file an immigration enforcement civil rights complaint. To learn more about filing a complaint, [click here](https://www.nilc.org/issues/education/complaint-form-violations-of-sensitive-locations-policy-school/).
 
 ## Safety for Survivors of Violence
@@ -237,7 +236,7 @@ If you are concerned about being quarantined in an unsafe home situation or need
 From Futures Without Violence (more links [here](https://www.futureswithoutviolence.org/get-updates-information-covid-19/)):
 
 - The National Domestic Violence Hotline is also available 24/7 at 1-800-799-7233 (SAFE) or 1-800-787-3223 (TTY)
-- The National Sexual Assault Hotline is 24/7, confidential and free: **800.656.HOPE (4673)** and through[**chat**](https://hotline.rainn.org/online?_ga=2.1272049.1121455869.1584120887-1734706098.1584120887) **.**
+- The National Sexual Assault Hotline is 24/7, confidential and free: **800.656.HOPE (4673)** and  [**chat**](https://hotline.rainn.org/online?_ga=2.1272049.1121455869.1584120887-1734706098.1584120887) **.**
 - The [StrongHearts Native Helpline](https://www.strongheartshelpline.org/get-help/) for domestic/sexual violence is available 7am-10pm CT, confidential, and specifically for Native communities: **1−844-762-8483**.
 - The [Trans LifeLine](https://www.translifeline.org/hotline) for peer support for trans folks 9am-3am CT: **1-877-565-8860** _This hotline is staffed exclusively by trans operators is the only crisis line with a policy against non-consensual active rescue._
 - [National Parent Helpline](http://www.nationalparenthelpline.org/) Monday -Friday 12pm-9am CT emotional support and advocacy for parents: **1-855-2736**.
@@ -254,7 +253,7 @@ From Futures Without Violence (more links [here](https://www.futureswithoutviole
 
 ## Employment
 
-Copy and pasted from [Los Angeles County](https://docs.google.com/document/d/1S-WJaMa4q3yNrEBfSFKEdSQArcNc_MTI2LiUA63Ycyg/preview?fbclid=IwAR2gOzWoZzTOVSnW-UZkG9TIV5LW8ZcM1qkQMoVQH8g5iDThcDA_o2s39z0#).
+Source: [Los Angeles County](https://docs.google.com/document/d/1S-WJaMa4q3yNrEBfSFKEdSQArcNc_MTI2LiUA63Ycyg/preview?fbclid=IwAR2gOzWoZzTOVSnW-UZkG9TIV5LW8ZcM1qkQMoVQH8g5iDThcDA_o2s39z0#).
 
 ### Employment Issues
 
@@ -263,24 +262,24 @@ Copy and pasted from [Los Angeles County](https://docs.google.com/document/d/1S-
 
 ### Paid Family Leave
 
-### Paid family leave** is available for those who stay home because they need to take care of someone who has contracted the virus (Covid-19) or who has been quarantined (must be certified by a medical professional). [Learn how to file a Paid Family Leave Claim HERE](https://edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm).
+**Paid family leave is available for those who stay home because they need to take care of someone who has contracted the virus (Covid-19) or who has been quarantined (must be certified by a medical professional). [Learn how to file a Paid Family Leave Claim HERE](https://edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm).**
 
 ### Disability Benefits/Paid Sick Leave
 
 **Disability benefits /paid sick leave** are available for those who have actually contracted the virus themselves or who have been exposed to it and are quarantined (must be certified by a medical professional in the case of Disability Benefits). [Learn how to file a Disability Insurance Claim HERE](https://edd.ca.gov/Disability/How_to_File_a_DI_Claim_in_SDI_Online.htm).
 
-### Unemployment Benefits**
+### Unemployment Benefits
 
 **Unemployment benefits** are available to those whose hours have been reduced or who have lost their job due to coronavirus measures (and it also applies to those who choose to stay home due to underlying health issues making them more vulnerable). The Governor has waived the 1 week wait time and the person may not be required to be actively looking for work (as is usually required). [Learn how to file an Unemployment Insurance Claim HERE](https://edd.ca.gov/Unemployment/Filing_a_Claim.htm).
 
   - Unfortunately though, this benefit is not available to undocumented persons whose hours are reduced or lose their job for reasons related to COVID-19, etc.
   - SCHOOL CLOSURES: If your child's school is closed and you have to miss work to care for them. You might qualify for Unemployment Insurance benefits. [Learn how to file an Unemployment Insurance Claim HERE](https://edd.ca.gov/Unemployment/Filing_a_Claim.htm).
 
-**Worker's Compensation**
+### Worker's Compensation
 
 **Worker's comp** is available for those who are unable to do their usual job because they were exposed to and contracted Covid-19 while in the regular course of their job (i.e. healthcare workers)
 
-**Tax Assistance**
+### Tax Assistance
 
 Directly from the [Employment Development Department](https://edd.ca.gov/about_edd/coronavirus-2019.htm?fbclid=IwAR3vS9NqAlxiZJtKT21dJSoMSvV-klMlSK2nvPGzA2v8FHeglkS4YKrLh78): 'Employers experiencing a hardship as a result of COVID-19 may request up to a 60-day extension of time from the EDD to file their state payroll reports and/or deposit state payroll taxes without penalty or interest. A written request for extension must be received within 60 days from the original delinquent date of the payment or return.
 
@@ -292,7 +291,7 @@ For questions, employers may call the EDD Taxpayer Assistance Center.
 
 (For more information, click [_here_](https://edd.ca.gov/about_edd/coronavirus-2019.htm?fbclid=IwAR3vS9NqAlxiZJtKT21dJSoMSvV-klMlSK2nvPGzA2v8FHeglkS4YKrLh78)!)
 
-**Small Business Assistance**
+### Small Business Assistance
 
 [Oakland](http://oaklandbusinesscenter.com)
 
@@ -322,7 +321,7 @@ _General Bay Area_
 - [Bay Area COVID-19 Resources](https://docs.google.com/document/d/1SIwgRAnzLvfwF1IYq_KT78CWPODCJOfILAMvaPL34YQ/edit#)
 - Links for psychologists transitioning to telepsychological services, [here](https://www.apaservices.org/practice/news/covid19-psychology-services-protection) and [here](https://www.apa.org/practice/programs/dmhi/research-information/telepsychological-services-checklist).
 
-## Donate Your Items or Money!
+## Donate Your Items or Money
 
 - **Little Brothers Friends of the Elderly:** Help An Elderly SF Citizen with Care Kits: [https://littlebrotherssf.networkforgood.com/projects/95387-help-an-elderly-sf-citizen-during-the-covid19-outbreak?fbclid=IwAR20P3y8RzShNumCW-AESOn-mNAQadKJl41M7U0btNdYHHeMrUykExqxgDk](https://littlebrotherssf.networkforgood.com/projects/95387-help-an-elderly-sf-citizen-during-the-covid19-outbreak?fbclid=IwAR20P3y8RzShNumCW-AESOn-mNAQadKJl41M7U0btNdYHHeMrUykExqxgDk)
 - **East Oakland Collective** is searching for the following donations to help unhoused, elderly, and immunocompromised people hand sanitizer, disinfect wipes (Clorox or off brand), disinfect spray (Lysol or off brand), baby/body wipes (perhaps with Aloe), rubbing alcohol, Aloe Vera gel, gloves, vitamin C drink packets, water bottles, masks, heavy duty tarps, shoe slip covers, drinking water jugs: [https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
