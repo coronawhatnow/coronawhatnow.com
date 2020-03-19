@@ -20,26 +20,19 @@ title: Bay Area
 - **Oakland:** La SantaTorta Food Truck; 333 Broadway Oakland; Free hot meals 12-2p
 - **March 19:** SF/Marin Food Bank distributing free fresh groceries 9a-1p outside Mission High on Dolores St.
 - **List of Alameda County food banks: [https://www.needhelppayingbills.com/html/alameda\_county\_food\_banks.html](https://www.needhelppayingbills.com/html/alameda_county_food_banks.html)
-- ****Expensify.org is matching $50 towards SNAP grocery purchases
-
-1. Purchase food as normal with your SNAP card
-
-1. [Download](https://community.expensify.com/discussion/4699/how-to-download-the-mobile-app/p1?new=1) Expensify on iOS or Android, for free
-
-1. Join the [Expensify.org/hunger](https://www.expensify.org/hunger#reimbursement) policy
-
-1. [SmartScan](https://community.expensify.com/discussion/5541/deep-dive-what-is-smartscan-and-how-it-works/p1?new=1) the receipt, which will tell us how much you paid and show that it was paid for with an Electronic Benefits Transfer (EBT) card
-
-1. Submit it to volunteer@expensify.org
-
-1. Set up your [bank account](https://community.expensify.com/discussion/5864/how-to-add-a-personal-bank-account-to-receive-reimbursement) to receive the funds
-
-1. So long as we have funds available, we will reimburse up to $50 per family (one time), the very next day.
+- Expensify.org is matching $50 towards SNAP grocery purchases
+  - Purchase food as normal with your SNAP card
+  - [Download](https://community.expensify.com/discussion/4699/how-to-download-the-mobile-app/p1?new=1) Expensify on iOS or Android, for free
+  - Join the [Expensify.org/hunger](https://www.expensify.org/hunger#reimbursement) policy
+  - [SmartScan](https://community.expensify.com/discussion/5541/deep-dive-what-is-smartscan-and-how-it-works/p1?new=1) the receipt, which will tell us how much you paid and show that it was paid for with an Electronic Benefits Transfer (EBT) card
+  - Submit it to volunteer@expensify.org
+  - Set up your [bank account](https://community.expensify.com/discussion/5864/how-to-add-a-personal-bank-account-to-receive-reimbursement) to receive the funds
+  - So long as we have funds available, we will reimburse up to $50 per family (one time), the very next day.
 
 ## Self-Care for all:
 
-- **** East Bay Meditation Center has created online Sangha Self-Care Groups (special groups for POC, folks with disability, etc):[https://eastbaymeditation.org/programs/zoom-links/](https://eastbaymeditation.org/programs/zoom-links/)
-- **** Headspaceprovides free meditations: [https://www.headspace.com/covid-19](https://www.headspace.com/covid-19)
+- East Bay Meditation Center has created online Sangha Self-Care Groups (special groups for POC, folks with disability, etc):[https://eastbaymeditation.org/programs/zoom-links/](https://eastbaymeditation.org/programs/zoom-links/)
+- Headspaceprovides free meditations: [https://www.headspace.com/covid-19](https://www.headspace.com/covid-19)
 - **** Peloton(yoga, meditation, and exercise classes for home):
 
 ## Volunteer Opportunities/How to Help:
@@ -210,35 +203,34 @@ Students can also go to any one of these convenient locations:
 
 ## Specialized Health Resources for Communities:
 
-- ****** Womxn, BIQTPOC, disable, and/or chronically ill:** Jihan McDonald is offering Pay What You Can coaching & counseling sessions for cis and trans womxn as well as the BIQTPOC, disabled, and/or chronically ill community. More info [here](https://www.facebook.com/analogmojo/posts/10100687395635787).
-- ****** For Unhoused Communities:**
-  - **○○**** Oakland:** East Oakland Collective is offering supplies and food for seniors, unhoused folks, people with compromised immune systems. Please contact EOC for availability of supplies and food at 510-990-0775 or [info@eastoaklandcollective.com](mailto:info@eastoaklandcollective.com)[https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
-- ****** For People Who Use Substances:**
-  -
-# **○○** COVID-19 Guidance for People Who Use Drugs and Harm Reduction Programs: [https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/)
-- ****** Trans Communities:** The Coronavirus (COVID-19): What Trans People Need to Know
-  - **○○** [https://transequality.org/covid19?fbclid=IwAR0OBW\_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p\_8T\_NdmqOSGm39MzM](https://transequality.org/covid19?fbclid=IwAR0OBW_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p_8T_NdmqOSGm39MzM)
-- ****** LGBTQI+:  **Community United Against Violence (CUAV) is providingremote counseling available for LGBTQI+ survivors of violence, domestic violence, hate violence and police violence -- [cuav.org](http://www.cuav.org).
-  - **○○** Relief Fund for LGBTQI+ BIPOC folks who are self-employed or in the service economy [https://www.surveymonkey.com/r/QTIBIPOCCOVID19](https://www.surveymonkey.com/r/QTIBIPOCCOVID19)
-- ****** For Sex Workers in the Bay Area:** Emergency Grants for Bay Area sex workers [ ](https://bayareaworkerssupport.org/grants)[org/grants](https://bayareaworkerssupport.org/grants)
-  - **○○** Online mental health services for sex workers[org](https://pineapplesupport.org/)
-- ****** For Disabled Folks in the East Bay:** The Disability Justice Culture Club is working hard to just to meet our own basic needs, but know that disabled and/or elder Black, Brown and people of color are most at risk of being harmed by COVID19. If you are a disabled person with needs right now that aren't being met with your immediate support system, please complete this form:[East Bay Disabled Folks COVID19 Support Request Form](https://docs.google.com/forms/d/e/1FAIpQLSc7LLhYN243k6xFlmQH26lAN9EoRXgEQGrghbqL8Ttc1K8YNA/viewform)
-- ****** Undocumented Communities:**
-  - **○○** [East Oakland DREAMer](https://eastoaklanddreamers.org/) emergency fund (up to $250, applicants must be migrant youth 15-30 years old or migrant guardian of youth aged 0-20)  [ ](https://tinyurl.com/COVIDMigrantYouthRelief)[https://tinyurl.com/COVIDMigrantYouthRelief](https://tinyurl.com/COVIDMigrantYouthRelief)
-  - **○○** Undocumented families who plan to apply for documentation in the future should still seek testing/treatment for COVID. COVID is public charge exempt. Read more [here](http://www.uscis.gov/greencard/public-charge).
+- **Womxn, BIQTPOC, disable, and/or chronically ill:** Jihan McDonald is offering Pay What You Can coaching & counseling sessions for cis and trans womxn as well as the BIQTPOC, disabled, and/or chronically ill community. More info [here](https://www.facebook.com/analogmojo/posts/10100687395635787).
+- **For Unhoused Communities:**
+  - **Oakland:** East Oakland Collective is offering supplies and food for seniors, unhoused folks, people with compromised immune systems. Please contact EOC for availability of supplies and food at 510-990-0775 or [info@eastoaklandcollective.com](mailto:info@eastoaklandcollective.com)[https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
+  - **For People Who Use Substances:**
+- COVID-19 Guidance for People Who Use Drugs and Harm Reduction Programs: [https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/](https://harmreduction.org/miscellaneous/covid-19-guidance-for-people-who-use-drugs-and-harm-reduction-programs/)
+- **Trans Communities:** The Coronavirus (COVID-19): What Trans People Need to Know
+  - **[https://transequality.org/covid19?fbclid=IwAR0OBW\_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p\_8T\_NdmqOSGm39MzM](https://transequality.org/covid19?fbclid=IwAR0OBW_R9FDNktB7fj78nW4sQsCqJTCVOkC1F65c8p_8T_NdmqOSGm39MzM)
+- **LGBTQI+:**Community United Against Violence (CUAV) is providingremote counseling available for LGBTQI+ survivors of violence, domestic violence, hate violence and police violence -- [cuav.org](http://www.cuav.org).
+  - **Relief Fund for LGBTQI+ BIPOC folks who are self-employed or in the service economy [https://www.surveymonkey.com/r/QTIBIPOCCOVID19](https://www.surveymonkey.com/r/QTIBIPOCCOVID19)
+- **For Sex Workers in the Bay Area:** Emergency Grants for Bay Area sex workers [ ](https://bayareaworkerssupport.org/grants)[org/grants](https://bayareaworkerssupport.org/grants)
+  - **Online mental health services for sex workers[org](https://pineapplesupport.org/)
+- **For Disabled Folks in the East Bay:** The Disability Justice Culture Club is working hard to just to meet our own basic needs, but know that disabled and/or elder Black, Brown and people of color are most at risk of being harmed by COVID19. If you are a disabled person with needs right now that aren't being met with your immediate support system, please complete this form:[East Bay Disabled Folks COVID19 Support Request Form](https://docs.google.com/forms/d/e/1FAIpQLSc7LLhYN243k6xFlmQH26lAN9EoRXgEQGrghbqL8Ttc1K8YNA/viewform)
+- **Undocumented Communities:**
+  - **[East Oakland DREAMer](https://eastoaklanddreamers.org/) emergency fund (up to $250, applicants must be migrant youth 15-30 years old or migrant guardian of youth aged 0-20)  [ ](https://tinyurl.com/COVIDMigrantYouthRelief)[https://tinyurl.com/COVIDMigrantYouthRelief](https://tinyurl.com/COVIDMigrantYouthRelief)
+  - **Undocumented families who plan to apply for documentation in the future should still seek testing/treatment for COVID. COVID is public charge exempt. Read more [here](http://www.uscis.gov/greencard/public-charge).
 
 - **On March 13, U.S. Customs and Immigration Services announced that testing, prevention, or treatment for COVID-19 will**  **NOT**  **be used against immigrants in a public charge test.**** This means that immigrant families should seek the care they need during this difficult time.**  Below is some information about the rights of immigrants' rights in health care settings:
-  - **○○**** It is safe and smart to see the doctor if you need care**. Your doctor is required to honor your right to privacy. You do not need to share any information about your immigration status unless you apply for Medicaid or other health coverage.
-  - **○○**** You can still see a doctor without medical insurance**. This includes care you receive in the emergency room, at community and migrant health centers, free clinics, and public hospitals. If you don't have a doctor, call a local community health center for assistance. You can find a health center here: [https://findahealthcenter.hrsa.gov/](https://findahealthcenter.hrsa.gov/)
-  - **○○**** Hospitals and health care spaces are safe to visit**. Federal guidelines prohibit immigration agents from conducting arrests or other enforcement actions at health care facilities, such as hospitals, doctors' offices, health clinics, and urgent care facilities.
-  - **○○**** California residents can access**[**Keep Your Benefits**](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/Public-Charge-Does-This-Apply-To-Me-February-2020-ENGLISH.pdf)**for more information** about how their use of public benefits may effect their documentation status. [Informed Immigrant](https://www.informedimmigrant.com/) also provides resources and accurate information for immigrant families with questions about their benefits.
-  - **○○** [**CLICK HERE**](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/You-Have-Rights-Protect-Your-Health-Updated-February-2020-ENGLISH.pdf) **to learn more about your rights when accessing health services.**
+  - **It is safe and smart to see the doctor if you need care**. Your doctor is required to honor your right to privacy. You do not need to share any information about your immigration status unless you apply for Medicaid or other health coverage.
+  - **You can still see a doctor without medical insurance**. This includes care you receive in the emergency room, at community and migrant health centers, free clinics, and public hospitals. If you don't have a doctor, call a local community health center for assistance. You can find a health center here: [https://findahealthcenter.hrsa.gov/](https://findahealthcenter.hrsa.gov/)
+  - **Hospitals and health care spaces are safe to visit**. Federal guidelines prohibit immigration agents from conducting arrests or other enforcement actions at health care facilities, such as hospitals, doctors' offices, health clinics, and urgent care facilities.
+  - **California residents can access**[**Keep Your Benefits**](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/Public-Charge-Does-This-Apply-To-Me-February-2020-ENGLISH.pdf)**for more information** about how their use of public benefits may effect their documentation status. [Informed Immigrant](https://www.informedimmigrant.com/) also provides resources and accurate information for immigrant families with questions about their benefits.
+  - **[**CLICK HERE**](https://protectingimmigrantfamilies.org/wp-content/uploads/2020/02/You-Have-Rights-Protect-Your-Health-Updated-February-2020-ENGLISH.pdf) **to learn more about your rights when accessing health services.**
 - If you feel your rights or the rights of someone you know have been violated, you can file an immigration enforcement civil rights complaint. To learn more about filing a complaint, [click here](https://www.nilc.org/issues/education/complaint-form-violations-of-sensitive-locations-policy-school/).
 
 ## Safety for Survivors of Violence
 
-- ****** San Francisco:** La Casa de Las Madres in SOMA announced that their drop in center is closed until April 7th. Services available include confidential emergency shelter, 24/7 crisis line, safety planning, advocacy & information and referral. For support, please call La Casa's 24/7 hotline at 877-503-1850, or message our text line at 415-200-3575: [https://www.instagram.com/p/B9sNSyfBhSM/](https://www.instagram.com/p/B9sNSyfBhSM/)
-- ****** All:**A huge list of Bay Area resources from Leap SF addressing family violence including reporting lines for abuse, crisis intervention, crisis shelters, counseling resources/referrals, legal resources:[**https://www.leapsf.org/pdf/family-violence-resources.pdf**](https://www.leapsf.org/pdf/family-violence-resources.pdf)
+- **San Francisco:** La Casa de Las Madres in SOMA announced that their drop in center is closed until April 7th. Services available include confidential emergency shelter, 24/7 crisis line, safety planning, advocacy & information and referral. For support, please call La Casa's 24/7 hotline at 877-503-1850, or message our text line at 415-200-3575: [https://www.instagram.com/p/B9sNSyfBhSM/](https://www.instagram.com/p/B9sNSyfBhSM/)
+- **All:**A huge list of Bay Area resources from Leap SF addressing family violence including reporting lines for abuse, crisis intervention, crisis shelters, counseling resources/referrals, legal resources:[**https://www.leapsf.org/pdf/family-violence-resources.pdf**](https://www.leapsf.org/pdf/family-violence-resources.pdf)
 
 If you are concerned about being quarantined in an unsafe home situation or need help, all DV shelter resources are generally available on: [domesticshelters.org](https://www.domesticshelters.org/?fbclid=IwAR3OlDY-FZfEdC9i4koF4EJRFKfDur8z7FCd4nDLDIQ_p2wd55sI8GZwzgg).
 
@@ -317,7 +309,7 @@ _General Bay Area_
 
 - Facebook small business grants for businesses experiencing hardship due to COVID-19. [https://www.facebook.com/business/boost/grants](https://www.facebook.com/business/boost/grants)
 
-# **Other Resources**
+## Other Resources
 
 - [Mutual Aid and Advocacy Resources Google Doc](https://docs.google.com/document/d/1dpMzMzsA83jbVEXS8m7QKOtK4nj6gIUk1U1t6P4wShY/edit?fbclid=IwAR2AAxtC-PRDQc1mUmX3yNTT7wsgCLjGBbjUVpK578owu3_hecKcfAkATfE)
 
@@ -330,7 +322,7 @@ _General Bay Area_
 - [Bay Area COVID-19 Resources](https://docs.google.com/document/d/1SIwgRAnzLvfwF1IYq_KT78CWPODCJOfILAMvaPL34YQ/edit#)
 - Links for psychologists transitioning to telepsychological services, [here](https://www.apaservices.org/practice/news/covid19-psychology-services-protection) and [here](https://www.apa.org/practice/programs/dmhi/research-information/telepsychological-services-checklist).
 
-# **Donate Your Items or Money!**
+## Donate Your Items or Money!
 
 - **Little Brothers Friends of the Elderly:** Help An Elderly SF Citizen with Care Kits: [https://littlebrotherssf.networkforgood.com/projects/95387-help-an-elderly-sf-citizen-during-the-covid19-outbreak?fbclid=IwAR20P3y8RzShNumCW-AESOn-mNAQadKJl41M7U0btNdYHHeMrUykExqxgDk](https://littlebrotherssf.networkforgood.com/projects/95387-help-an-elderly-sf-citizen-during-the-covid19-outbreak?fbclid=IwAR20P3y8RzShNumCW-AESOn-mNAQadKJl41M7U0btNdYHHeMrUykExqxgDk)
 - **East Oakland Collective** is searching for the following donations to help unhoused, elderly, and immunocompromised people hand sanitizer, disinfect wipes (Clorox or off brand), disinfect spray (Lysol or off brand), baby/body wipes (perhaps with Aloe), rubbing alcohol, Aloe Vera gel, gloves, vitamin C drink packets, water bottles, masks, heavy duty tarps, shoe slip covers, drinking water jugs: [https://www.instagram.com/p/B9zMHKrhAgn/](https://www.instagram.com/p/B9zMHKrhAgn/)
