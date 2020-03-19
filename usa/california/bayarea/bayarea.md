@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bay Area
+parent: California
 ---
 
 # Bay Area
