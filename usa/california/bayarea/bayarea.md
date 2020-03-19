@@ -1,18 +1,8 @@
----
-layout: default
-title: Bay Area
----
-
 # Bay Area
-{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
+<ol>
 {:toc}
-
----
+</ol>
 
 ## Food for all:
 
@@ -36,13 +26,13 @@ title: Bay Area
 
 1. So long as we have funds available, we will reimburse up to $50 per family (one time), the very next day.
 
-**Self-Care for all:**
+## Self-Care for all:
 
 - **** East Bay Meditation Center has created online Sangha Self-Care Groups (special groups for POC, folks with disability, etc):[https://eastbaymeditation.org/programs/zoom-links/](https://eastbaymeditation.org/programs/zoom-links/)
 - **** Headspaceprovides free meditations: [https://www.headspace.com/covid-19](https://www.headspace.com/covid-19)
 - **** Peloton(yoga, meditation, and exercise classes for home):
 
-**Volunteer Opportunities/How to Help:**
+## Volunteer Opportunities/How to Help:
 
 - For those able to offer services to community members in Oakland: [https://localwiki.org/oakland/COVID-19/How\_to\_Help](https://localwiki.org/oakland/COVID-19/How_to_Help)
 - Community foundations with rapid response funds to support community services across nine Bay Area counties: [https://www.siliconvalleycf.org/coronavirus-fund](https://www.siliconvalleycf.org/coronavirus-fund)
@@ -51,23 +41,23 @@ title: Bay Area
 - Many more volunteer opportunities in San Francisco [are available in this spreadsheet](https://docs.google.com/spreadsheets/d/13FrbHy3BemYarJtyANDynq37lNfIIuJ5ec6Q13E9OSg/edit?fbclid=IwAR1MCodqGs6uCMTjN7nCx8SyD3poZ4Bd1IFpr3Iq_wbATzBq_7VJ2DNrZjE#gid=0).
 - [Oakland At Risk Match](https://www.oaklandatrisk.com/) wants to spread a message of hope and compassion by serving and loving our neighbors who are at risk of COVID-19. If you are a healthy young adult with low-risk factors for getting COVID-19, sign up today to be paired with an elder or immunocompromised member of our community who could use your help over the next several weeks.
 
-**Families, Children, and Youth (0-17)**
+## Families, Children, and Youth (0-17)
 
-**Emergency Funds**
+### Emergency Funds
 
 - **Oakland:** [East Oakland DREAMer](https://eastoaklanddreamers.org/) emergency fund (up to $250, applicants must be migrant youth 15-30 years old or migrant guardian of youth aged 0-20)  [https://tinyurl.com/COVIDMigrantYouthRelief](https://tinyurl.com/COVIDMigrantYouthRelief)[https://tinyurl.com/COVIDMigrantYouthRelief](https://tinyurl.com/COVIDMigrantYouthRelief)
 
-**Health**
+### Health
 
 - **San Francisco** : Free counseling service for parents of children from pregnancy to 3 years old Parentline University of San Francisco. Info can be found [here](https://parentlineusf.com/).
 - **Oakland:** Dream Youth Clinic (583 5th St) continues to be open during shelter in place. Services are for youth ages 12-24 and include medical evaluations, HIV/STD testing, birth control, and immunizations. Call 510-839-0929 ext.3 to make an appointment. Walk-ins welcome. Hours: Mon and Wed 1-5pm, Thurs 2-6pm:[https://www.instagram.com/p/B916c1RFuU4/](https://www.instagram.com/p/B916c1RFuU4/)
 
-**Food**
+### Food
 
-- ****** All:** [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant people and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers.
-- ****** SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [mixt.com](http://mixt.com/) or on MIXT app for pick up orders.
-- ****** Overview for all Bay Area free lunch distribution centers:** [https://www.sfgate.com/coronavirus/article/kids-students-free-lunches-coronavirus-covid-15134702.php](https://www.sfgate.com/coronavirus/article/kids-students-free-lunches-coronavirus-covid-15134702.php)
-- ****** San Francisco:** Beginning March 17, SFUSD will provide free breakfast and lunch to all children 18 and younger at 14 pick-up sites Monday-Friday. No identification or proof of school enrollment is required, but a child must be present. Breakfast, lunch, fresh fruit, vegetables, and milk will be provided to take home. Shelf-stable meals will also be available. Families will not need to enter the school building for pick-up.
+- **All:** [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant people and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers.
+- **SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [mixt.com](http://mixt.com/) or on MIXT app for pick up orders.
+- **Overview for all Bay Area free lunch distribution centers:** [https://www.sfgate.com/coronavirus/article/kids-students-free-lunches-coronavirus-covid-15134702.php](https://www.sfgate.com/coronavirus/article/kids-students-free-lunches-coronavirus-covid-15134702.php)
+- **San Francisco:** Beginning March 17, SFUSD will provide free breakfast and lunch to all children 18 and younger at 14 pick-up sites Monday-Friday. No identification or proof of school enrollment is required, but a child must be present. Breakfast, lunch, fresh fruit, vegetables, and milk will be provided to take home. Shelf-stable meals will also be available. Families will not need to enter the school building for pick-up.
   - [https://www.sfusd.edu/services/health-wellness/nutrition-school-meals](https://www.sfusd.edu/services/health-wellness/nutrition-school-meals)
 - ****** Berkeley:** The Berkeley Unified School District Nutrition Department is serving FREE BREAKFAST AND LUNCH as take-away meals for school-age children 18 and younger. [https://www.berkeleyschools.net/2020/03/while-school-is-closed-food-is-available-mientras-que-la-escuela-esta-cerrada-hay-alimentos-disponibles/](https://www.berkeleyschools.net/2020/03/while-school-is-closed-food-is-available-mientras-que-la-escuela-esta-cerrada-hay-alimentos-disponibles/)
 
@@ -89,7 +79,7 @@ Students can also go to any one of these convenient locations:
 - Willard Middle School, 2425 Stuart Street
 - Berkeley High School, 1980 Allston Way
 
-- ****** Oakland:** During the COVID-19 closure, the OUSD Nutrition Services Department will open twelve schools throughout the city where 'Grab and Go' breakfast and lunch meals will be available for all OUSD students or families and any Oakland child under 18. To ensure the least amount of contact, students do not need to be present to pick up food. The sites listed below will be open on Mondays and Thursdays from 8:00am to 12:00pm. Multiple days worth of food can be picked up to take home.
+- **Oakland:** During the COVID-19 closure, the OUSD Nutrition Services Department will open twelve schools throughout the city where 'Grab and Go' breakfast and lunch meals will be available for all OUSD students or families and any Oakland child under 18. To ensure the least amount of contact, students do not need to be present to pick up food. The sites listed below will be open on Mondays and Thursdays from 8:00am to 12:00pm. Multiple days worth of food can be picked up to take home.
 
 - Northwest/West Oakland: Sankofa Elementary, West Oakland Middle School and Hoover Elementary
 - Central Oakland: Oakland High School and Garfield Elementary
@@ -103,7 +93,7 @@ Students can also go to any one of these convenient locations:
 - District 6: (510) 384-9032 or (626) 272-4477
 - District 7: (786) 474-5600 or (415) 283-9173
 
-**Education**
+### Education
 
 - **All:** Free access to Spectrum Broadband and Wi-Fi For 60 Days For New K-12 and College Student Households
 
@@ -117,7 +107,7 @@ Students can also go to any one of these convenient locations:
 
 (For more information, click [_here_](https://www.pbssocal.org/pbs-news/at-home-learning/)!)
 
-- ****** All:  **MIND Research Institute is offering no cost access to a free math instructional program for students in grades K-8
+- **All:**MIND Research Institute is offering no cost access to a free math instructional program for students in grades K-8
 
 (For more information, click [_here_](https://www.stmath.com/coronavirus?fbclid=IwAR2Z9kqIE7kBcVq7YdAEYuvWQEW2quTvZ6m9KS_zMeyeiT9wHYcwgpmeRv0)!)
 
@@ -125,11 +115,11 @@ Students can also go to any one of these convenient locations:
 
 (For more information, click [_here_](https://classroommagazines.scholastic.com/support/learnathome.html)!)
 
-**Childcare**
+### Childcare
 
 - ****** San Francisco:** Department of Children, Youth, and their Families offering free childcare to healthcare workers, city & county SF employees who have been activated as disaster service workers, and families on the SF Recreation & Parks Department Scholarship list. If you did not receive an invitation, but qualify, you can apply here: [https://www.dcyf.org/care](https://www.dcyf.org/care)
 
-**Housing**
+### Housing
 
 - **San Francisco:** Hamilton Families will continue their programs for unhoused families: [https://www.hamiltonfamilies.org/blog/hamilton-families-response-to-covid-19](https://www.hamiltonfamilies.org/blog/hamilton-families-response-to-covid-19)
   - The [Shelter Program](https://www.hamiltonfamilies.org/programs#shelter-program) in the Tenderloin provides safe shelter, three meals a day, and critical social services for 60 to 70 families a night for up to six months.
@@ -137,29 +127,26 @@ Students can also go to any one of these convenient locations:
   - [Housing Services](https://www.hamiltonfamilies.org/programs#housing-services) subsidy programs prevent homelessness whenever possible and assists families who have become homeless with housing search assistance, temporary rent assistance, case management, job search assistance, and other services for 12 to 20 months to help them find and retain a permanent home.
   - The [Real Estate](https://www.hamiltonfamilies.org/programs#real-estate) professionals identifies available housing and works with landlords to accept housing applications from housing subsidy participants. This team also serves as a liaison with landlords throughout our Housing Services subsidy programs.
 
-**Adults (18-64)**
+## Adults (18-64)
 
-**Health**
+### Health
 
 - **Womxn, BIQTPOC, disable, and/or chronically ill:** Jihan McDonald is offering Pay What You Can coaching & counseling sessions for cis and trans womxn as well as the BIQTPOC, disabled, and/or chronically ill community. More info [here](https://www.facebook.com/analogmojo/posts/10100687395635787).
 
 **Food**
 
-- ****** All:** As of 3/16/2020, [Uber is waiving delivery fees for over 100K restaurants](https://www.uber.com/newsroom/food-not-finances/)
-- ****** All:** [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant women and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers.
-- ****** SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [mixt.com](http://mixt.com/) or on MIXT app for pick up orders.
-- ****** San Francisco:** [Clarity Burke](https://missionlocal.org/2020/03/money-equals-power-a-john-oconnell-high-school-teacher-uses-finance-to-teach-students-about-social-justice/), a social science teacher at John O'Connell, started a free delivery volunteer service for the immunosuppressed. She has several volunteers ready to work. To receive help:[tinyurl.com/deliveryneeded](http://tinyurl.com/deliveryneeded)
-- ****** Berkeley & Albany:** Berkeley Food Network On-Site Food Pantry; 1925 Ninth St.
+- **All:** As of 3/16/2020, [Uber is waiving delivery fees for over 100K restaurants](https://www.uber.com/newsroom/food-not-finances/)
+- **All:** [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/), [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19), [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) and several other markets and retail stores are setting aside hours just for 'at-risk' shoppers, including senior citizens, pregnant women and other people with vulnerable immune systems. [Safeway](https://www.usatoday.com/story/money/2020/03/17/coronavirus-shopping-stores-introduce-time-for-vulnerable-elderly-pregnant/5074064002/) invites 'at-risk' shoppers from 7-9 a.m. Tuesday and Thursday; [Whole Foods](https://media.wholefoodsmarket.com/news/how-whole-foods-market-is-responding-to-covid-19) invites customers 60 and older to stores one hour before opening to the public; [Target](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd) reserves the first hour on Wednesdays to 'vulnerable guests;' [Dollar General](https://newscenter.dollargeneral.com/news/dollar-general-announces-first-hour-of-operations-to-be-dedicated-to-senior-customers.htm?view_id=3828) reserves the first hour of every business day to senior shoppers.
+- **SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [mixt.com](http://mixt.com/) or on MIXT app for pick up orders.
+- **San Francisco:** [Clarity Burke](https://missionlocal.org/2020/03/money-equals-power-a-john-oconnell-high-school-teacher-uses-finance-to-teach-students-about-social-justice/), a social science teacher at John O'Connell, started a free delivery volunteer service for the immunosuppressed. She has several volunteers ready to work. To receive help:[tinyurl.com/deliveryneeded](http://tinyurl.com/deliveryneeded)
+- **Berkeley & Albany:** Berkeley Food Network On-Site Food Pantry; 1925 Ninth St.
   - Hours: Monday – Thursday 10am – 2pm; Monday and Wednesday 5 – 7pm; First and third Saturdays 10am – 12pm
   - Hours may change, so check back for updates. You can also call 510.616.5383 for updated hours information.
   - The Berkeley Food Network's on-site pantry will remain open during this period of COVID-19 containment as long as we are able to source food. Anyone in need of free food is welcome to visit. BFN's food distributions are open to Bekeley and Albany residents only.
   - [https://berkeleyfoodnetwork.org/bfn-on-site-pantry-remains-open-during-covid-19-containment-period/](https://berkeleyfoodnetwork.org/bfn-on-site-pantry-remains-open-during-covid-19-containment-period/)
-- ****** Food: Berkeley Students:** The Basic Needs Center is currently open through Wednesday (M-W 12 pm - 5pm), due to an MLK Student Union leadership request. We will keep days/times and location up to date. More info [here](https://docs.google.com/document/d/1WwPF-Q3Z8EXBfM-Wf_WwBzdTU39hfz85JL2F8Z5IfDE/edit#). Now it is located at 103 Sproul Hall.
+- **Food: Berkeley Students:** The Basic Needs Center is currently open through Wednesday (M-W 12 pm - 5pm), due to an MLK Student Union leadership request. We will keep days/times and location up to date. More info [here](https://docs.google.com/document/d/1WwPF-Q3Z8EXBfM-Wf_WwBzdTU39hfz85JL2F8Z5IfDE/edit#). Now it is located at 103 Sproul Hall.
   - Food Pantry:
     - In order to minimize the amplification of health risks in a small space, we will transition from our daily food pantry operations to a weekly food pantry pop-up for the next two weeks. If you cannot make it to the weekly pop-up, there will be non-perishable items in the BNC, open 12pm-5pm.
-
--
-  -
     - For the next two weeks, we will have a [food pantry pop-up](https://docs.google.com/document/d/1WwPF-Q3Z8EXBfM-Wf_WwBzdTU39hfz85JL2F8Z5IfDE/edit#bookmark=id.lreqsb3zod6b) in lower-Sproul/first floor of the MLK Student Union:
       - Tuesday, March 10th, 10-6 PM
       - Tuesday, March 17th, 10AM - 5PM
@@ -174,7 +161,7 @@ Students can also go to any one of these convenient locations:
   - Downtown Berkeley (MLK & Center): Saturdays, 10-3p
   - Montclair Village: Sundays, 9a-1p
 
-**Housing:**
+**Housing:
 
 - **All:** STUDENTS/ FOSTER YOUTH
   - If you are or know of a foster youth that is staying at a college dorm room that is going to be closed due to the coronavirus, please email [info@togetherwerise.org](mailto:info@togetherwerise.org)  and they will provide or help you find housing during this transition.
