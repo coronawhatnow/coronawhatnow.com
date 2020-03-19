@@ -15,8 +15,7 @@ parent: Washington
 
 ---
 
-[Help us! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
-
+[Help us make this better! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
 
 ### COVID-19 Relief Funds
 - [Communities in Schools Greenlight Fund](https://l.workplace.com/l.php?u=https%3A%2F%2Fseaciti.org%2Fgreenlight-covid-19%2F&amp;h=AT0Vz0d_pgaX0lnx0NqAbqx3Zn6nIIUhjREjOPZeiGdrDph3GuWqpH6wyfSgtzr8BNmi9nqQDCmaA60lYPef7mWrcDoai0uqSCCYsdxkFL9xZ3gSv1IdMIP4LCU09ZvnNyIau3d9G7Y9bkd6IwVKcSXESvJtIfBeukwE_Q): Tech workers from around the region are supporting the Greenlight Fund, a partnership of sea.citi and Communities in Schools. The fund provides small cash stipends, supplies, and other resources directly to families from ten low-income schools around Seattle. Communities in Schools has existing relationships with students and families. They can quickly identify needs &#39;on-the-ground&#39; and react fast. Clients do not need to fill out an application. No review boards or hoops. Just small direct cash transfers or goods where they&#39;re needed most.
@@ -30,7 +29,7 @@ parent: Washington
 - [FEEST Seattle](https://www.feestseattle.org/)
 - Or any local foodbank in a community you would like to support!
 
-### **STUDENT / FAMILY RESOURCES:**
+### Student/Family Resources
 
 - [Boys and Girls Club Bellevue](http://www.bgcbellevue.org/)
 - [Boys and Girls Club King County](https://positiveplace.org/)
