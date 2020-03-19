@@ -1,4 +1,8 @@
-#Bay Area
+# Bay Area
+
+<ol>
+{:toc}
+</ol>
 
 # **Populations**
 
