@@ -1,8 +1,6 @@
 # Bay Area
 
-<ol>
-{:toc}
-</ol>
+<ol>{:toc}
 
 ## Food for all:
 
