@@ -1,18 +1,16 @@
 #Bay Area
 
-# [Notice: Shelter in place is in effect.](https://www.sfchronicle.com/local-politics/article/Bay-Area-must-shelter-in-place-Only-15135014.php){: .label .label-red } 
-
 # **Populations**
 
 Categories under this heading include: **food\***** , **** housing ****,**  **health**** , **** transportation ****,** and **education,** and **self-care** and are separated into three general categories: **children and youth, adults,** and **elderly.** In addition, there is a section of **specialized community resources for communities who hold intersectional identities** (unhoused, undocumented, LGBTQ+, people with disabilities, people who use substances, etc).
 
 **Food for all:**
 
-- ****** SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [com](http://mixt.com/) or on MIXT app for pick up orders.
-- ****** Oakland:** La SantaTorta Food Truck; 333 Broadway Oakland; Free hot meals 12-2p
-- ****** March 19:** SF/Marin Food Bank distributing free fresh groceries 9a-1p outside Mission High on Dolores St.
-- **** List of Alameda County food banks: [https://www.needhelppayingbills.com/html/alameda\_county\_food\_banks.html](https://www.needhelppayingbills.com/html/alameda_county_food_banks.html)
-- **** Expensify.org is matching $50 towards SNAP grocery purchases
+- ******SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [com](http://mixt.com/) or on MIXT app for pick up orders.
+- ******Oakland:** La SantaTorta Food Truck; 333 Broadway Oakland; Free hot meals 12-2p
+- ******March 19:** SF/Marin Food Bank distributing free fresh groceries 9a-1p outside Mission High on Dolores St.
+- ****List of Alameda County food banks: [https://www.needhelppayingbills.com/html/alameda\_county\_food\_banks.html](https://www.needhelppayingbills.com/html/alameda_county_food_banks.html)
+- ****Expensify.org is matching $50 towards SNAP grocery purchases
 
 1. Purchase food as normal with your SNAP card
 
