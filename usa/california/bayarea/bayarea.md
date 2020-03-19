@@ -1,6 +1,18 @@
-# Bay Area
+---
+layout: default
+title: Bay Area
+---
 
-<ol>{:toc}
+# Bay Area
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Food for all:
 
