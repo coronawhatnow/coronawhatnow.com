@@ -1,6 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/logo.png"
 og_image: "/assets/images/facebook.png"
+header:
+  og_image: "/assets/images/facebook.png"
 aux_links:
   "Home":
     - "//coronawhatnow.com"
