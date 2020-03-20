@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Seattle
-parent: Washington
+title: New York City
+parent: New York
 ---
 
-# Seattle
+# New York City
 {: .no_toc }
 
 ## Table of contents
