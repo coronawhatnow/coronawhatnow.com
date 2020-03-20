@@ -3,6 +3,11 @@ logo: "/assets/images/logo.png"
 og_image: "/assets/images/facebook.png"
 header:
   og_image: "/assets/images/facebook.png"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/facebook.png"
 aux_links:
   "Home":
     - "//coronawhatnow.com"
