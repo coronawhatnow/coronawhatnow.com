@@ -1,6 +1,6 @@
 ---
 title: Coronavirus is impacting your life. What now?
-description: "A free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19."
+description: "Helpful resources for people and businesses affected by coronavirus."
 layout: default
 title: Home
 image: "https://coronawhatnow.com/assets/images/facebook.png"
