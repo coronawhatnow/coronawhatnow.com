@@ -18,7 +18,6 @@ parent: New York
 
 [Help us make this better! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
 
-##
 # Staying Informed
 
 - Text COVID to 692-692 to stay informed via text in English.
@@ -28,7 +27,6 @@ parent: New York
 
 - Visit the Attorney General&#39;s [website on scams](https://ag.ny.gov/coronavirus) to learn about ways of protecting yourself.
 
-##
 # Education
 
 - **Kids Activities**
@@ -112,19 +110,18 @@ parent: New York
 
 - [com](https://www.care.com/): Please visit their website to find care or learn about potential job opportunities providing care to others.
 
-##
 # Food Assistance
 
-- **** [**City Meals on Wheels**](https://www.citymeals.org/get-meals)
+-  [**City Meals on Wheels**](https://www.citymeals.org/get-meals)
   - Please insert your Zip Code on the [website &quot;Get Meals&quot; search bar](https://www.citymeals.org/) to learn about the programs near you.
-- ****** Foodbank NYC**
+- ** Foodbank NYC**
   - https://www.foodbanknyc.org/get-help/
   - [https://www.needhelppayingbills.com/html/new\_york\_food\_banks.html](https://www.needhelppayingbills.com/html/new_york_food_banks.html)
-- ****** Lunch provided outside of every school:**
+- ** Lunch provided outside of every school:**
   - [https://twitter.com/NYCMayorsOffice/status/1239891481202212865](https://twitter.com/NYCMayorsOffice/status/1239891481202212865)
-- ****** NYC grab-n-go school lunch sites for students:** [https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites\_Update-No-2\_03-19-20.pdf](https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites_Update-No-2_03-19-20.pdf)
-- **** Individuals at risk can request groceries to be delivered: [https://www.invisiblehandsdeliver.com/](https://www.invisiblehandsdeliver.com/)
-- **** [**FoodHelp NYC**](http://foodhelp.nyc/en/)
+- ** NYC grab-n-go school lunch sites for students:** [https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites\_Update-No-2\_03-19-20.pdf](https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites_Update-No-2_03-19-20.pdf)
+-  Individuals at risk can request groceries to be delivered: [https://www.invisiblehandsdeliver.com/](https://www.invisiblehandsdeliver.com/)
+-  [**FoodHelp NYC**](http://foodhelp.nyc/en/)
 
 - **Visit the ** [**FoodHelp NYC map**](https://maps.nyc.gov/foodhelp/#map-page) for an interactive map of food pantries and community kitchens in NYC.
 - [**Grab and Go Breakfast and Lunch**](https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update)
@@ -181,7 +178,6 @@ parent: New York
 - **Morrisania Air Rights Senior Center/Andrew Jackson Senior Center, 3135 Park Avenue,**  Bronx, NY 10451/ 325 E 156th St, Bronx, NY 10451 after 11:45am
 - **More food banks: https://www.needhelppayingbills.com/html/new\_york\_food\_banks.html**
 
-##
 # Debt Repayment
 
 - **Federal Tax payments**
@@ -208,12 +204,10 @@ parent: New York
 - **Marblegate Asset Management**
 - According to Crain&#39;s New York Business: Marblegate will hold off on collecting mortgage payments as taxi drivers are crushed by the coronavirus. To learn more about this initiative, please read the [_Crain&#39;s New York Business_](https://www.crainsnewyork.com/coronavirus/largest-taxi-medallion-loan-creditor-pauses-collections-shaken-industry)[ article](https://www.crainsnewyork.com/coronavirus/largest-taxi-medallion-loan-creditor-pauses-collections-shaken-industry).
 
-##
 # Legal Services
 
 - [Legal Services of New York City](https://www.legalservicesnyc.org/our-program) will continue to take cases remotely. You can contact them at 917-661-4500 for further information.
 
-##
 # Domestic Violence
 
 - [**National Domestic Violence Hotline**](https://www.thehotline.org/)
@@ -223,7 +217,6 @@ parent: New York
 - Please refer to their [press release](https://www.thehotline.org/2020/03/13/staying-safe-during-covid-19/) to learn about how the Coronavirus may impact intimate partner violence survivors an
 - Para español visite su página web [aqui](https://espanol.thehotline.org/).
 
-##
 # Alternative Transportation
 
 - [**Reduced Fare Bike Share**](https://www.citibikenyc.com/pricing/reducedfare)
@@ -233,7 +226,6 @@ parent: New York
 - [**Metrocard Balance Protection Program**](https://new.mta.info/fares/subway-and-bus/balance-protection-program)
 - Per the MTA: &quot;MTA New York City Transit provides a Balance Protection Program for its 30-Day Unlimited Ride and 7-Day Express Bus Plus MetroCard that protects you from loss or theft of the card as long as you purchase it with a credit or debit/ ATM card from a MetroCard Vending Machine.&quot; To learn more, please visit their [website](https://new.mta.info/fares/subway-and-bus/balance-protection-program).
 
-##
 # Help with Utility Bills
 
 - [**Federal Communications Commission**](https://www.fcc.gov/coronavirus)
@@ -284,7 +276,6 @@ parent: New York
 - pen their WiFi hotspots to any American who needs them.
 - You can visit their [website](https://www.alticeusa.com/news/articles/feature/corporate/altice-usa-brings-free-broadband-k-12-and-college-students-during-coronavirus-pandemic) for more information.
 
-##
 # Rental Assistance
 
 - [**New York City Housing Court**](https://www.nycourts.gov/courts/nyc/housing/)
@@ -300,24 +291,22 @@ parent: New York
 
 - This is an emergency assistance program for individuals who cannot meet an expense due to an unexpected event or situation. You can call (718) 557-1399 (Monday- Friday 8am-5pm) or visit the [website](https://portal.311.nyc.gov/article/?kanumber=KA-01104) for more information.
 
-##
 # Homeownership Assistance
 
 - [**Department of Housing and Urban Development.**](https://www.hud.gov/)
 
 - HUD will suspend all foreclosures and evictions from March 18, 2020 until May 17, 2020. To learn more about this initiative, please read their [press release](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_20_042).
 
-##
 # Human Resources Administration
 
 - Per the [Access HRA website](https://a069-access.nyc.gov/accesshra/): HRA&#39;s Offices remain open and ready to serve those in need. For individuals or families unable to come to our offices for scheduled appointments, NO NEGATIVE CASE ACTIONS WILL BE TAKEN. This includes, but is not limited to, appointments for services such as with the Office of Child Support Services as well as appointments or assigned activities with Career Service providers.
 
-##
+
 # Access to Doctors
 
 - Sinai is offering virtual consultations for $25. To learn more, please visit [their website](https://www.mountsinai.org/care/mount-sinai-now?fbclid=IwAR0f91g5oGX4ynR_PxU_TafCSVMoXRwh3I0LOkacyCW44pXP5X1BJ8dLX-Y).
 
-##
+
 # Mental Health
 
 - Per the [NYC Well](https://nycwell.cityofnewyork.us/en/) is your connection to free, confidential crisis counseling, mental health and substance misuse support, information and referral. You can reach the toll-free help line 24 hours a day, 7 days a week by phone, text and online chat. Mental health professionals there can link you to the services you need.
@@ -327,12 +316,12 @@ parent: New York
 - you can also reach NYC Well by texting &quot;WELL&quot; to 651-73, or visit their [website](https://nycwell.cityofnewyork.us/en/) for more information.
 - **Health insurance is not required.**   **Depending on your phone/text service, **** you may be charged a fee ****.**
 
-##
+
 # Online Workouts
 
 - Planet Fitness is offering free online workout tutorials. To learn learn more, please visit their [Facebook page](https://www.facebook.com/planetfitness/).
 
-##
+
 # For Educators and Organizations
 
 - [COVID-19 resources for US local groups](https://docs.google.com/document/d/1PCt80z2NqDXjbKnQvBmcU2jfbjo1r_ZdQmYvHiRyCQA/edit)
@@ -340,7 +329,6 @@ parent: New York
 - TechSoup: Managing the Impact of COVID 19 on Nonprofits ([Video](https://www.youtube.com/watch?v=wJzqiR95B7M&amp;feature=youtu.be&amp;utm_campaign=2020-03-12+WNR%3A++Virtual+Workshop%3A+Managing+the+Impact+of+COVID-19+on+Nonprofits&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9bOWEjjYo3gZ8W09lH3ErQKVwSnRJuTKdQpxSC_OkZoWKKzy-wfeLqV7tq7L4KUoEvEOnrW9OtLqodEL1GWk0ok6s321WnEXukiFY8YVjgpnzoQXA&amp;_hsmi=84674724&amp;utm_source=hs_automation&amp;utm_content=84674724&amp;hsCtaTracking=4cf08a63-d88b-439a-8c56-a83e034abe5b%7Ce878c2e7-ea71-4467-b006-9ae799e39247) and [Slides](https://pages.techsoup.org/hubfs/Managing%20the%20Impact%20of%20COVID-19%20on%20Nonprofits%20Slides.pdf?utm_campaign=2020-03-12%20WNR%3A%20%20Virtual%20Workshop%3A%20Managing%20the%20Impact%20of%20COVID-19%20on%20Nonprofits&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9bOWEjjYo3gZ8W09lH3ErQKVwSnRJuTKdQpxSC_OkZoWKKzy-wfeLqV7tq7L4KUoEvEOnrW9OtLqodEL1GWk0ok6s321WnEXukiFY8YVjgpnzoQXA&amp;_hsmi=84674724&amp;utm_source=hs_automation&amp;utm_content=84674724&amp;hsCtaTracking=75f0a0e9-f3e3-4c16-97b8-74953da575c4%7C0cae58ea-3ac4-48f3-932f-56f4913e6748))
 - [Getting Started with Online Training &amp; Facilitation](https://www.trainingforchange.org/training_tools/getting-started-with-online-training-facilitation/)
 
-##
 # Volunteer and Donate
 
 - Relief BK: [https://www.reliefbk.org](https://www.reliefbk.org)
@@ -349,21 +337,19 @@ parent: New York
 - [https://www.gofundme.com/f/helping-new-york-city-during-covid19](https://www.gofundme.com/f/helping-new-york-city-during-covid19)
 - [https://www.facebook.com/1586278984927579/posts/2693321307556669](https://www.facebook.com/1586278984927579/posts/2693321307556669)
 
-##
+
 # Childcare
 
 - Places children of critical city workers can go during the day: [https://www.nydailynews.com/new-york/education/ny-coronavirus-school-shutdown-contingency-20200317-dnvmrlzmt5eyrmyu37v4rnixde-story.html](https://www.nydailynews.com/new-york/education/ny-coronavirus-school-shutdown-contingency-20200317-dnvmrlzmt5eyrmyu37v4rnixde-story.html)
 
 
-
-##
 # Small Business Assisstance
 
 - NYC Employee Retention Grant Program - Established NYC businesses with fewer than five employees: [https://www1.nyc.gov/site/sbs/businesses/covid19-business-financial-assistance.page](https://www1.nyc.gov/site/sbs/businesses/covid19-business-financial-assistance.page)
 - Low-interest loan for small business, small agricultural cooperative, or private nonprofit organization in a declared disaster area: [https://disasterloan.sba.gov/ela/Information/EIDLLoans](https://disasterloan.sba.gov/ela/Information/EIDLLoans)
 - Small business grants for businesses experiencing hardship due to COVID-19: [https://www.facebook.com/business/boost/grants](https://www.facebook.com/business/boost/grants)
 
-##
+
 # Other Resources
 
 - Huge repository of NYC resources: https://mytrustplus.org/resources/nyc-coronavirus-resources/
