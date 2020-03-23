@@ -47,7 +47,7 @@ parent: New York
 - Per the Department of Labor&#39;s [website](https://www.labor.ny.gov/home/): Unemployment Insurance benefits will NOT be impacted and customers should continue to file for weekly benefits as normal.
 - Please visit their [How to file a claim for unemployment insurance benefit website](https://applications.labor.ny.gov/IndividualReg/) to learn more about how to submit an application or call 1-888-209-8124 (Monday to Friday 8:00am-5:00pm.
 - [**One Fair Wage**](https://ofwemergencyfund.org/about)
-- Per their [website](https://ofwemergencyfund.org/help): ** &quot;** We are providing free, cash assistance to restaurant workers, delivery drivers and other tipped workers and service workers—who are seeing their income decline during this disaster, or aren&#39;t able to work because of quarantines or other health concerns.&quot; To learn more, please submit [their online form](https://ofwemergencyfund.org/help).
+- Per their [website](https://ofwemergencyfund.org/help): We are providing free, cash assistance to restaurant workers, delivery drivers and other tipped workers and service workers—who are seeing their income decline during this disaster, or aren&#39;t able to work because of quarantines or other health concerns.&quot; To learn more, please submit [their online form](https://ofwemergencyfund.org/help).
 - Financial planning non-profit offering free / discounted services to NYers: [https://mytrustplus.org/statement-from-justine-zinkin-on-neighborhood-trusts-covid-19-response/](https://mytrustplus.org/statement-from-justine-zinkin-on-neighborhood-trusts-covid-19-response/)
 - Healthcare funds for visual and media artists and choreographers: [https://www.nyfa.org/Content/Show/Rauschenberg-Emergency-Grants](https://www.nyfa.org/Content/Show/Rauschenberg-Emergency-Grants)
 - Cinema Worker Solidarity Fund - Hourly workers at cinemas in New York City who are experiencing wage disruption because of COVID-19 closures: [https://www.gofundme.com/f/cinema-worker-solidarity-fund](https://www.gofundme.com/f/cinema-worker-solidarity-fund)
@@ -114,16 +114,16 @@ parent: New York
 
 -  [**City Meals on Wheels**](https://www.citymeals.org/get-meals)
   - Please insert your Zip Code on the [website &quot;Get Meals&quot; search bar](https://www.citymeals.org/) to learn about the programs near you.
-- ** Foodbank NYC**
+- **Foodbank NYC**
   - https://www.foodbanknyc.org/get-help/
   - [https://www.needhelppayingbills.com/html/new\_york\_food\_banks.html](https://www.needhelppayingbills.com/html/new_york_food_banks.html)
-- ** Lunch provided outside of every school:**
+- **Lunch provided outside of every school:**
   - [https://twitter.com/NYCMayorsOffice/status/1239891481202212865](https://twitter.com/NYCMayorsOffice/status/1239891481202212865)
-- ** NYC grab-n-go school lunch sites for students:** [https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites\_Update-No-2\_03-19-20.pdf](https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites_Update-No-2_03-19-20.pdf)
+- **NYC grab-n-go school lunch sites for students:** [https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites\_Update-No-2\_03-19-20.pdf](https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites_Update-No-2_03-19-20.pdf)
 -  Individuals at risk can request groceries to be delivered: [https://www.invisiblehandsdeliver.com/](https://www.invisiblehandsdeliver.com/)
 -  [**FoodHelp NYC**](http://foodhelp.nyc/en/)
 
-- **Visit the ** [**FoodHelp NYC map**](https://maps.nyc.gov/foodhelp/#map-page) for an interactive map of food pantries and community kitchens in NYC.
+- Visit the [**FoodHelp NYC map**](https://maps.nyc.gov/foodhelp/#map-page) for an interactive map of food pantries and community kitchens in NYC.
 - [**Grab and Go Breakfast and Lunch**](https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update)
 
 - Per the March 16, 2020 NYC Department of Education [communique:](https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update) The program will be available at the entrance of every school building from 7:30 am-1:30 pm. Any student can pick up breakfast and lunch at any school building tomorrow [3/17] and until further notice.
@@ -165,7 +165,7 @@ parent: New York
 - To go plates available everyday from 12:30pm – 3:30pm
 - Pantry registration available Monday-Saturday 9am – 12pm
 - To learn more about their services, please refer to their [flyer](https://mytrustplus.org/wp-content/uploads/2020/03/NTFP-Next-Step-Services-Remote-Flyer.pdf).
-- [**World Central Kitchen #ChefsforAmerica Initiative **](https://wck.org/news/thebronx)**(The Bronx)**
+- [World Central Kitchen #ChefsforAmerica Initiative](https://wck.org/news/thebronx)**(The Bronx)**
 - Per their [press release](https://wck.org/news/thebronx): Beginning Tuesday, March 17, in partnership with Bronx Assemblymember Michael Blake of the 79th District, WCK will distribute thousands of fresh, individually packaged grab-and-go meals to local families.
 
 - **Locations:**
@@ -245,7 +245,7 @@ parent: New York
 
 - [EnergyShare Program](https://www.coned.com/en/accounts-billing/payment-plans-assistance/help-paying-your-bill)
 
-- Per their website: If you&#39;re a residential customer with an active disconnect notice, you may qualify for up to $200 toward your bill once every five years. To qualify, you must have made at least one payment toward your bill and be eligible for government financial assistance and/or meet federal Home Energy Assistance Program (HEAP) income guidelines.
+- Per their website: If you're a residential customer with an active disconnect notice, you may qualify for up to $200 toward your bill once every five years. To qualify, you must have made at least one payment toward your bill and be eligible for government financial assistance and/or meet federal Home Energy Assistance Program (HEAP) income guidelines.
 
 - Seniors (Over the age of 62) or have a permanent disability:
 
