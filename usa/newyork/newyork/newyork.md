@@ -6,6 +6,7 @@ parent: New York
 
 # New York City
 {: .no_toc }
+[Notice: Shelter in place is in effect. Learn more.](https://ny.curbed.com/2020/3/20/21187022/coronavirus-new-york-shutdown-shelter-in-place){: .btn .btn-purple }
 
 ## Table of contents
 {: .no_toc .text-delta }
