@@ -18,7 +18,7 @@ parent: California
 
 [Help us make this better! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
 
-## Food for all
+# Food for all
 
 - **SF & Oakland:** MIXT is offering sliding scale discount codes for pick-up orders. Codes: wegotyou25 for 25% off, wegotyou50 for 50% off, wegotyou100 for a free meal. Use codes at [com](http://mixt.com/) or on MIXT app for pick up orders.
 - **Oakland:** La SantaTorta Food Truck; 333 Broadway Oakland; Free hot meals 12-2p
