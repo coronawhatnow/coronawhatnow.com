@@ -16,7 +16,12 @@ parent: New York
 
 ---
 
-[Help us make this better! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
+## Help us make this page better
+<span class="fs-5">
+[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/11JgMr4VAEC54sntUGGWGuaxkaL9wWXw4IkvLBSMsBYs/edit?usp=sharing){: .btn .btn-outline }
+</span>
+
+https://docs.google.com/document/d/11JgMr4VAEC54sntUGGWGuaxkaL9wWXw4IkvLBSMsBYs/edit?usp=sharing
 
 # Staying Informed
 
