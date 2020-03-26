@@ -21,8 +21,6 @@ parent: New York
 [Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/11JgMr4VAEC54sntUGGWGuaxkaL9wWXw4IkvLBSMsBYs/edit?usp=sharing){: .btn .btn-outline }
 </span>
 
-https://docs.google.com/document/d/11JgMr4VAEC54sntUGGWGuaxkaL9wWXw4IkvLBSMsBYs/edit?usp=sharing
-
 # Staying Informed
 
 - Text COVID to 692-692 to stay informed via text in English.
