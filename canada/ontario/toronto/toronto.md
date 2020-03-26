@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Toronto
+nav_order: 1
 parent: Canada
 ---
 
