@@ -15,8 +15,9 @@ parent: Canada
 
 ---
 
-<span class="fs-8">
-[Help us make this better, join our Facebook group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green }
+#### Help us make this better
+<span class="fs-5">
+[Join our Facebook group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green }
 </span>
 
 <span class="fs-3">
