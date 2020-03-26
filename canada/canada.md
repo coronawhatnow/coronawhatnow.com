@@ -1,3 +1,21 @@
+---
+layout: default
+title: Canada
+---
+
+# Canada
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+[Help us make this better! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
+
 ## Staying Informed
 
 
