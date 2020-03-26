@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Virginia
+nav_order: 2
 ---
 
 # Virginia
