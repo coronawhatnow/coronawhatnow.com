@@ -208,4 +208,3 @@ parent: Canada
 *   [https://info.volunteertoronto.ca/covid19](https://info.volunteertoronto.ca/covid19) - Join the Toronto COVID-19 Response Team 
 *   Facebook Group: [How can I help COVID 19 Toronto Public Group](https://www.facebook.com/groups/663734187714992/)
 *   [DAVENPORT HELPS – ](https://davenporthelps.ca/)community group offering general help to people who need it in the Davenport community 
-*   
