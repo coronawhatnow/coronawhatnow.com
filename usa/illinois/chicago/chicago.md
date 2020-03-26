@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chicago
+parent: Illinois
 nav_order: 2
 ---
 
