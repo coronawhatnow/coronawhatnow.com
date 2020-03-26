@@ -119,10 +119,8 @@ Health
 
 The 24-7 Client Care Centre can help:
 
-
-
-    *   With daily living needs, such as food and medicine, if you are self-isolating and need help 
-    *   Emergency repairs (all non-urgent repairs will be scheduled for a later date).
+*   With daily living needs, such as food and medicine, if you are self-isolating and need help 
+*   Emergency repairs (all non-urgent repairs will be scheduled for a later date).
 
 
 ### Who's hiring?
