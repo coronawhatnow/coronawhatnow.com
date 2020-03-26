@@ -116,11 +116,9 @@ Health
 
 *   [Landlord and Tenant Board (LTB) Suspends Issuing New Eviction Orders](http://www.sjto.gov.on.ca/en/latest-news/) - The LTB has declared that no new eviction orders can be issued in Ontario until further notice
 *   [Toronto Community Housing](https://www.torontohousing.ca/) - Walk-in visits are closed due to COVID-19. People in need can call 416-981-5500 or email help@torontohousing.ca at any time
-
-The 24-7 Client Care Centre can help:
-
-*   With daily living needs, such as food and medicine, if you are self-isolating and need help 
-*   Emergency repairs (all non-urgent repairs will be scheduled for a later date).
+  * The 24-7 Client Care Centre can help:
+  *   With daily living needs, such as food and medicine, if you are self-isolating and need help 
+  *   Emergency repairs (all non-urgent repairs will be scheduled for a later date).
 
 
 ### Who's hiring?
