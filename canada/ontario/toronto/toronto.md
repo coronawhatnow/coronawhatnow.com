@@ -17,11 +17,7 @@ parent: Canada
 
 #### Help us make this better
 <span class="fs-5">
-[Join our Facebook group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green }
-</span>
-
-<span class="fs-3">
-[Suggest links](https://docs.google.com/document/d/1swJ-qaDLR5cbnJLQwHroWJFhM2E7n_Qp8AzGwSOkJ8U/edit?usp=sharing){: .btn .btn-outline }
+[Join our Facebook group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest links](https://docs.google.com/document/d/1swJ-qaDLR5cbnJLQwHroWJFhM2E7n_Qp8AzGwSOkJ8U/edit?usp=sharing){: .btn .btn-outline }
 </span>
 
 ## Staying Informed
