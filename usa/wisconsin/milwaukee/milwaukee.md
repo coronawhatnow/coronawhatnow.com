@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Milwaukee
+parent: Wisconsin
 nav_order: 2
 ---
 
