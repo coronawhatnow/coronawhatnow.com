@@ -16,7 +16,10 @@ nav_order: 2
 
 ---
 
-[Help us make this better! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
+## Help us make this page better
+<span class="fs-5">
+[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1pQir0-VroO1SmmBxLTyQK_IxcqDbftEy44TbPyzOqmU/edit?usp=sharing){: .btn .btn-outline }
+</span>
 
 ### COVID-19 Relief Funds
 - [Communities in Schools Greenlight Fund](https://l.workplace.com/l.php?u=https%3A%2F%2Fseaciti.org%2Fgreenlight-covid-19%2F&amp;h=AT0Vz0d_pgaX0lnx0NqAbqx3Zn6nIIUhjREjOPZeiGdrDph3GuWqpH6wyfSgtzr8BNmi9nqQDCmaA60lYPef7mWrcDoai0uqSCCYsdxkFL9xZ3gSv1IdMIP4LCU09ZvnNyIau3d9G7Y9bkd6IwVKcSXESvJtIfBeukwE_Q): Tech workers from around the region are supporting the Greenlight Fund, a partnership of sea.citi and Communities in Schools. The fund provides small cash stipends, supplies, and other resources directly to families from ten low-income schools around Seattle. Communities in Schools has existing relationships with students and families. They can quickly identify needs &#39;on-the-ground&#39; and react fast. Clients do not need to fill out an application. No review boards or hoops. Just small direct cash transfers or goods where they&#39;re needed most.
