@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Virginia
-parent: USA
 ---
 
 # Virginia
