@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Seattle
+nav_order: 2
 ---
 
 # Seattle
