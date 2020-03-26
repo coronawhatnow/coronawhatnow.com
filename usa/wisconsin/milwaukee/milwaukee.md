@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Milwaukee
+nav_order: 2
 ---
 
 # Milwaukee
