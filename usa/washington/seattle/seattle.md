@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Seattle
-parent: Washington
 ---
 
 # Seattle
