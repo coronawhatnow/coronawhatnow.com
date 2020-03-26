@@ -44,9 +44,8 @@ parent: Canada
 
 
 *   [Daily Bread Food Bank](https://www.dailybread.ca/)
-*   [Second Harvest | Canada's largest food rescue charity ](https://secondharvest.ca/)
+*   [Second Harvest,  Canada's largest food rescue charity ](https://secondharvest.ca/)
 *   [North York Harvest Food Bank](https://northyorkharvest.com/)
-*   
 
 Health
 
