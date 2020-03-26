@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Milwaukee
-parent: Wisconsin
 ---
 
 # Milwaukee
