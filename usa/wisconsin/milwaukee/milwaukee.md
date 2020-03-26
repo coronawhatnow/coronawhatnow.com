@@ -16,7 +16,7 @@ title: Milwaukee
 
 ## Help us make this page better
 <span class="fs-5">
-[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1swJ-qaDLR5cbnJLQwHroWJFhM2E7n_Qp8AzGwSOkJ8U/edit?usp=sharing){: .btn .btn-outline }
+[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1vOWkkFvP_ZBaRfmOi47wFRJNsin15wLxQ3hvNR_1D-8/edit?usp=sharing){: .btn .btn-outline }
 </span>
 
 ## Food
