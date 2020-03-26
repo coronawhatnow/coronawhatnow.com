@@ -16,6 +16,7 @@ parent: Canada
 ---
 
 [Help us make this better! Join our Facebook group.](https://www.facebook.com/groups/coronawhatnow/announcements/){: .btn .btn-green }
+Or, suggest links directly in this [Google Doc](https://docs.google.com/document/d/1swJ-qaDLR5cbnJLQwHroWJFhM2E7n_Qp8AzGwSOkJ8U/edit?usp=sharing).
 
 ## Staying Informed
 
