@@ -2,7 +2,7 @@
 layout: default
 title: Countrywide Information
 nav_order: 0
-has_parent: Canada
+parent: Canada
 ---
 
 # Countrywide Information
