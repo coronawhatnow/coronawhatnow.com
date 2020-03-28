@@ -10,7 +10,7 @@ nav_order: 0
 This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
 
 # Start finding helpful resources by location
-Check our list of locations on the left.
+Check our list of locations by tapping "Menu" in the top right (mobile), or on the left (desktop).
 
 [Please help us by adding more regions](https://www.facebook.com/groups/coronawhatnow/)
 
