@@ -10,9 +10,7 @@ nav_order: 0
 This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
 
 # Start finding helpful resources by location
-[Bay Area](usa/california/bayarea/bayarea.html)
-
-[Seattle](usa/washington/seattle/seattle.html)
+Check our list of locations on the left.
 
 [Please help us by adding more regions](https://www.facebook.com/groups/coronawhatnow/)
 
