@@ -3,7 +3,6 @@ title: Coronavirus is impacting your life. What now?
 description: "Helpful resources for people and businesses affected by coronavirus."
 layout: default
 title: Home
-has_toc: true
 image: "https://coronawhatnow.com/assets/images/facebook.png"
 nav_order: 0
 ---
