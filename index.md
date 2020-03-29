@@ -3,6 +3,7 @@ title: Coronavirus is impacting your life. What now?
 description: "Helpful resources for people and businesses affected by coronavirus."
 layout: default
 title: Home
+has_toc: true
 image: "https://coronawhatnow.com/assets/images/facebook.png"
 nav_order: 0
 ---
@@ -26,9 +27,3 @@ Here are examples of types of info we're collecting, each on a country/state/loc
 - Healthcare (teledocs, drive throughs, etc)
 
 Ideally information from state, local, federal governments and reputable companies and non-profits only.
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
