@@ -26,3 +26,9 @@ Here are examples of types of info we're collecting, each on a country/state/loc
 - Healthcare (teledocs, drive throughs, etc)
 
 Ideally information from state, local, federal governments and reputable companies and non-profits only.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
