@@ -1,3 +1,26 @@
+---
+layout: default
+title: Countrywide Information
+nav_order: 0
+parent: Australia
+---
+
+# Countrywide Information
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Help us make this page better
+<span class="fs-5">
+[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/15fcUD4xi_IIQHweBS0aKDVPykB5MtRpYb5qBgKtmO4k/edit?usp=sharing){: .btn .btn-outline }
+</span>
+
 ## Staying Informed
 
 [Australian Government WhatsApp for Mobile Information](http://aus.gov.au/whatsapp)
