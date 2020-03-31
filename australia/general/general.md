@@ -18,7 +18,7 @@ parent: Australia
 
 ## Help us make this page better
 <span class="fs-5">
-[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/15fcUD4xi_IIQHweBS0aKDVPykB5MtRpYb5qBgKtmO4k/edit?usp=sharing){: .btn .btn-outline }
+[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1TRPlV9E3gWo9soPIPR4Cxr5dhdt2W6L0LFdTdnje_h0/edit?usp=sharing){: .btn .btn-outline }
 </span>
 
 ## Staying Informed
@@ -26,7 +26,7 @@ parent: Australia
 [Australian Government WhatsApp for Mobile Information](http://aus.gov.au/whatsapp)
 
 
-## [COVID19 - Current Situation and Case Numbers](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers) - Australian Government, Department of Health Website
+[COVID19 - Current Situation and Case Numbers](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers) - Australian Government, Department of Health Website
 
 [Australian Government Coronavirus (Covid-19)](https://www.australia.gov.au/?fbclid=IwAR1COwNeE_R1-IIlGFaLPFu0RQLDmefFrwvkTtD3pJpRNKxzLAA2WsrZ6VY)
 
