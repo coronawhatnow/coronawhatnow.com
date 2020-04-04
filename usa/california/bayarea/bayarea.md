@@ -84,7 +84,7 @@ parent: California
             *   Cal Community will be encouraged to take what they need for the week. We will order additional inventory to account for the need.
             *   The pop-up will be continuously stocked and replenished throughout the day to assure there is food for the entire population we see.
             *   You are encouraged to pick up food for a student that is self-quarantined or cannot make our pop-up pantry in person. All you need is their Cal ID or Cal ID #.
-*   **Most Farmers Markets Stay Open - **[https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/](https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/)
+*   **Most Farmers Markets Stay Open** - [https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/](https://sfist.com/2020/03/16/most-sf-farmers-markets-to-remain-open-as-essential-services/)
     *   SF Ferry Plaza: Tues & Thurs (10a-2p), Sat 8a-2p
     *   Heart of the City at UN Civic Center Plaza: Wed, Fri, Sun 7-4:30/5p
     *   South Berkeley (Adeline & 63rd): Tuesdays,: 2-6:30p
