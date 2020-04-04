@@ -95,7 +95,7 @@ Students can also go to any one of these convenient locations:
 - East Oakland: Bret Harte Middle School, Life Academy/United for Success, Coliseum College Preparatory Academy, Madison Park Upper, Fremont High School, Castlemont High School and Elmhurst United Middle School
 - **Oakland:** Points of Light will be delivering groceries to families with youth & children who do not have any means of transportation between the hours of 8am-12pm. Please call the designated youth director in your district
 - District 1: (850) 532-2376
-- District 2: (510) 789-9240
+- District 2: ?
 - District 3: (909) 800-2245
 - District 4: (909) 800-2245
 - District 5: (650) 720-1171
