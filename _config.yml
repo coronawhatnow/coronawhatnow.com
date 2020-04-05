@@ -15,5 +15,6 @@ aux_links:
     - "//www.facebook.com/groups/coronawhatnow"
   "GitHub":
     - "//github.com/coronawhatnow/coronawhatnow.com"
-footer_content: "This a free, open, and collaborate directory. Please help us improve it."
+footer_content: "This a free, open, and collaborate directory. Please help us improve it. Contact us at <a href=\"mailto:coronawhatnow@gmail.com\">coronawhatnow@gmail.com</a>."
 ga_tracking: UA-161488429-1
+
