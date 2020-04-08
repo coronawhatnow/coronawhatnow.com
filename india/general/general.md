@@ -207,9 +207,7 @@ Sharing links to a few fundraising campaigns to try and address this:
 
 2. Bengaluru organization, Hasiru Dala which does wonderful work in helping waste pickers is running a campaign to help waste pickers in Bengaluru whose livelihoods are similarly affected. [http://hasirudala.in/news/wastepickers-and-covid19/](http://hasirudala.in/news/wastepickers-and-covid19/)
 
-3. Zomato is running a campaign again to help daily wagers. Link below: (HT Anisha Sharma who's also crowdsourcing a list on her FB wall)
-
-[https://www.feedingindia.org/donate](https://www.feedingindia.org/donate)
+3. Zomato is running a campaign again to help daily wagers. Link below: (HT Anisha Sharma who's also crowdsourcing a list on her FB wall). [https://www.feedingindia.org/donate](https://www.feedingindia.org/donate)
 
 4. A campaign is also being run on Our Democracy to support Delhi Youth Welfare Association and people in the Old Delhi area [https://www.ourdemocracy.in/Campaign/covid19Delhi](https://www.ourdemocracy.in/Campaign/covid19Delhi)
 
