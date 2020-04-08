@@ -196,8 +196,6 @@ An article from UN women Organization
 
 [https://asiapacific.unwomen.org/en/news-and-events/stories/2020/03/statement-ed-phumzile-covid-19-women-front-and-centre](https://asiapacific.unwomen.org/en/news-and-events/stories/2020/03/statement-ed-phumzile-covid-19-women-front-and-centre)
 
-**Other resources**
-
 
 ## Donate Your Items or Money
 
@@ -205,13 +203,9 @@ An article from UN women Organization
 
 Sharing links to a few fundraising campaigns to try and address this:
 
-1. Here's Give India's campaign to support daily wagers' families hit by COVID-19.
+1. Here's Give India's campaign to support daily wagers' families hit by COVID-19 [https://indiafightscorona.giveindia.org/support-families/](https://indiafightscorona.giveindia.org/support-families/)
 
-[https://indiafightscorona.giveindia.org/support-families/](https://indiafightscorona.giveindia.org/support-families/)
-
-2. Bengaluru organization, Hasiru Dala which does wonderful work in helping waste pickers is running a campaign to help waste pickers in Bengaluru whose livelihoods are similarly affected.
-
-[http://hasirudala.in/news/wastepickers-and-covid19/](http://hasirudala.in/news/wastepickers-and-covid19/)
+2. Bengaluru organization, Hasiru Dala which does wonderful work in helping waste pickers is running a campaign to help waste pickers in Bengaluru whose livelihoods are similarly affected. [http://hasirudala.in/news/wastepickers-and-covid19/](http://hasirudala.in/news/wastepickers-and-covid19/)
 
 3. Zomato is running a campaign again to help daily wagers. Link below: (HT Anisha Sharma who's also crowdsourcing a list on her FB wall)
 
