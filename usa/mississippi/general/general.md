@@ -25,7 +25,7 @@ parent: Mississippi
 
 
 
-*   **School Districts: **[Many school districts will be providing meal services](https://schoolmealfinder.hoonuit.com/?filter_state=ms). Children will eat free, and must be present to claim their meal. They DO NOT have to be a student from that county. Costs of adult meals (if applicable) vary from district to district. Times vary from district to district.
+*   **School Districts:** [Many school districts will be providing meal services](https://schoolmealfinder.hoonuit.com/?filter_state=ms). Children will eat free, and must be present to claim their meal. They DO NOT have to be a student from that county. Costs of adult meals (if applicable) vary from district to district. Times vary from district to district.
 *   **YMCA:** Families can pick up their child’s free Grab & Go lunch at these locations from 12-1 p.m.:
     *   Clinton YMCA: 400 Lindale Street Clinton MS 39056
     *   Soul City Church: 242 Whitfield Street Jackson MS 39202
