@@ -21,8 +21,7 @@ parent: Mississippi
 [Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1kQwDsOE12MkENH092LUynnZrpqBnCBG01-qCy_Smq70/edit?usp=sharing){: .btn .btn-outline }
 </span>
 
-## 
-    Food
+## Food
 
 
 
