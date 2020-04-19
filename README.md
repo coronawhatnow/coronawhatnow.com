@@ -19,3 +19,11 @@ Ideally information from state, local, federal governments and reputable compani
 
 [Join our Facebook group to get started](https://www.facebook.com/groups/coronawhatnow/announcements/)
 
+
+
+
+
+{% embed url="https://ourworldindata.org/grapher/covid-confirmed-deaths-since-5th-death" %}
+
+
+
