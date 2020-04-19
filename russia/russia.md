@@ -6,4 +6,6 @@ has_children: true
 ---
 
 # Russia
-{: .no_toc }
+
+{: .no\_toc }
+

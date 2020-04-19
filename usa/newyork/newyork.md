@@ -7,4 +7,6 @@ parent: USA
 ---
 
 # New York
-{: .no_toc }
+
+{: .no\_toc }
+

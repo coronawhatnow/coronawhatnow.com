@@ -7,4 +7,6 @@ parent: USA
 ---
 
 # California
-{: .no_toc }
+
+{: .no\_toc }
+

@@ -6,51 +6,42 @@ parent: California
 ---
 
 # Los Angeles
-{: .no_toc }
+
+{: .no\_toc }
 
 ## Table of contents
-{: .no_toc .text-delta }
+
+{: .no\_toc .text-delta }
 
 1. TOC
-{:toc}
 
----
+   {:toc}
 
 ## Help us make this page better
-<span class="fs-5">
-[Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1sYjXiZYRfY-mcA-YtUrxgn6fXo8juGV32cwigM4UdRI/edit?usp=sharing){: .btn .btn-outline }
-</span>
 
+ [Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1sYjXiZYRfY-mcA-YtUrxgn6fXo8juGV32cwigM4UdRI/edit?usp=sharing){: .btn .btn-outline }
 
 ## Food
 
-Families, Children, and Youth (0-17)
+Families, Children, and Youth \(0-17\)
 
 [Latest News / Resources for Families During School Closures](https://achieve.lausd.net/resources)- Info on LAUSD Grab'n Go meals for students
 
-
 ## Health
-
 
 ### Specialized Health Resources for Communities
 
-
 ### Mental Health
-
 
 ### Self-Care
 
-
 ## Childcare
-
 
 ### Education
 
 [Latest News / Resources for Families During School Closures](https://achieve.lausd.net/resources)- Educational resources.
 
-
 ## Finances
-
 
 ### Income Relief
 
@@ -58,49 +49,39 @@ Families, Children, and Youth (0-17)
 
 [Relief Fund for Hollywood Support Staff organized by Liz Alper](https://www.gofundme.com/f/44ndst-relief-fund-for-hollywood-support-staff)- Hollywood Support Staff COVID-19 Relief Fund
 
-
 ### Housing
-
 
 ### Who's hiring?
 
 [LA Jobs Portal](https://lajobportal.com/)- Job leads and resources for the unemployed.
 
-
 ### Disability Benefits/Paid Sick Leave
-
 
 ### Unemployment Benefits
 
-
 ### Tax Assistance
-
 
 ### Small Business Assistance
 
+## Elderly \(65+\)
 
-## Elderly (65+)
-
-Food 
+Food
 
 [Grocery Stores Open Early for Seniors](https://i.redd.it/xvnd2x5f5nn41.jpg)- Approx. Guide to "Seniors Only" Grocery Store Shopping Hours’
 
-[COVID-19 Information | City of Los Angeles Department of Recreation and Parks](https://www.laparks.org/covid-19)- Info on Grab'n Go Meals for Seniors from LA Parks Dept.
+[COVID-19 Information \| City of Los Angeles Department of Recreation and Parks](https://www.laparks.org/covid-19)- Info on Grab'n Go Meals for Seniors from LA Parks Dept.
 
 [Senior Nutrition Dining Sites](https://www.laparks.org/sites/default/files/pdf/press/Senior%20Nutrition%20Dining%20Sites.pdf)- Direct PDF link of LA Parks Grab'n Go meal locations
 
-
 ## Safety for Survivors of Violence
-
 
 ## Other Resources
 
-
 ## Donate Your Items or Money
-
 
 ## Volunteer Opportunities/How to Help
 
 [American Red Cross Faces Severe Blood Shortage As Coronavirus Outbreak Threatens Availability of Nation's Supply](https://www.redcross.org/about-us/news-and-events/press-release/2020/american-red-cross-faces-severe-blood-shortage-as-coronavirus-outbreak-threatens-availability-of-nations-supply.html)- Red Cross call for blood donors
 
 [VolunteerLA](https://volunteer.lamayor.org/)- General Los Angeles Volunteer opportunities portal
+

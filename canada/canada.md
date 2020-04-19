@@ -6,4 +6,6 @@ has_children: true
 ---
 
 # Canada
-{: .no_toc }
+
+{: .no\_toc }
+

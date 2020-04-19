@@ -6,4 +6,6 @@ has_children: true
 ---
 
 # India
-{: .no_toc }
+
+{: .no\_toc }
+
