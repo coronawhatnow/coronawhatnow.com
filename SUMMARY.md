@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Home](README.md)
 * [USA](usa/README.md)
   * [California](usa/california/README.md)
     * [Los Angeles](usa/california/losangeles.md)

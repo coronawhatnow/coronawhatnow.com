@@ -1,6 +1,4 @@
-# README
-
-www.coronawhatnow.com
+# Home
 
 ## Coronavirus is impacting your life. What now?
 
