@@ -1,6 +1,6 @@
 # Home
 
-## Coronavirus is impacting your life. What now?
+## TestCoronavirus is impacting your life. What now?
 
 This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
 
@@ -18,6 +18,10 @@ Here are examples of types of info we're collecting, each on a country/state/loc
 Ideally information from state, local, federal governments and reputable companies and non-profits only.
 
 [Join our Facebook group to get started](https://www.facebook.com/groups/coronawhatnow/announcements/)
+
+
+
+Shelter in place
 
 {% embed url="https://ourworldindata.org/grapher/covid-confirmed-daily-deaths-epidemiological-trajectory" %}
 
