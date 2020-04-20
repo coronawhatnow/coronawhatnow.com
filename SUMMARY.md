@@ -28,5 +28,4 @@
   * [Wisconsin](usa/wisconsin/README.md)
     * [Milwaukee](usa/wisconsin/milwaukee.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
-* [Stay Informed with Data](stay-informed-with-data.md)
 

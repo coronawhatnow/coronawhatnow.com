@@ -1,2 +1,0 @@
-# Stay Informed with Data
-
