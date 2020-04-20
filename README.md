@@ -8,7 +8,7 @@ description: >-
 
 ## Select Your Country
 
-Recover from the impact of COVID-19 with helpful resources.
+Recover from the impact of COVID-19 with these helpful resources.
 
 {% page-ref page="australia.md" %}
 
