@@ -1,25 +1,26 @@
+---
+description: Coronavirus is impacting your life. What now?
+---
+
 # Home
 
-## Coronavirus is impacting your life. What now?
+Corona What Now is a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19. 
 
-This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
+## Select a country 
 
-## I want to help or I don't see my city/state/country
+View resources to help you, your family, and your business.
 
-This will always be free for everyone. The only thing we ask is for you to contribute time, if you can. We're building an open directory of information that helps people and businesses get actionable understanding and help for the affects of coronavirus.
+{% page-ref page="australia.md" %}
 
-Here are examples of types of info we're collecting, each on a country/state/local level:
+{% page-ref page="canada/" %}
 
-* Food access
-* Financial help
-* Quarantine details
-* Healthcare \(teledocs, drive throughs, etc\)
+{% page-ref page="india.md" %}
 
-Ideally information from state, local, federal governments and reputable companies and non-profits only.
+{% page-ref page="russia.md" %}
 
-[Join our Facebook group to get started](https://www.facebook.com/groups/coronawhatnow/announcements/)
+{% page-ref page="turkey.md" %}
 
-{% embed url="https://ourworldindata.org/grapher/covid-confirmed-daily-deaths-epidemiological-trajectory" %}
+{% page-ref page="usa/" %}
 
 
 
