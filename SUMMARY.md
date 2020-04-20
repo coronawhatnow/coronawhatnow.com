@@ -28,4 +28,5 @@
   * [Wisconsin](usa/wisconsin/README.md)
     * [Milwaukee](usa/wisconsin/milwaukee.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
+* [Japan](japan.md)
 
