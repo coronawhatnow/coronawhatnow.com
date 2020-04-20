@@ -1,6 +1,6 @@
 ---
 description: >-
-  Corona What Now is a hub for free resources that help people and businesses
+  Corona What Now is a hub of free resources that help people and businesses
   affected by coronavirus (COVID-19).
 ---
 
