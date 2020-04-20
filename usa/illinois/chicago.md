@@ -1,10 +1,3 @@
----
-layout: default
-title: Chicago
-parent: Illinois
-nav_order: 2
----
-
 # Chicago
 
 {: .no\_toc }

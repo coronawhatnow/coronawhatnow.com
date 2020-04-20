@@ -1,25 +1,14 @@
 ---
 layout: default
-title: Statewide Information
-nav_order: 1
-parent: Ohio
+title: Ohio
+nav_order: 2
+has_children: true
+parent: USA
 ---
 
-# general
+# Statewide Resources
 
-## Statewide Information
-
-{: .no\_toc }
-
-### Table of contents
-
-{: .no\_toc .text-delta }
-
-1. TOC
-
-   {:toc}
-
-### Help us make this page better
+Help us make this page better
 
  [Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1O3k6m7M0gDUW3PBleY4HEsCgZ24SBT5lh1O3Bwqfcss/edit?usp=sharing){: .btn .btn-outline }
 

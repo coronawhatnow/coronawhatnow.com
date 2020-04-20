@@ -1,11 +1,6 @@
----
-layout: default
-title: Milwaukee
-parent: Wisconsin
-nav_order: 2
----
-
 # Milwaukee
+
+
 
 {: .no\_toc }
 

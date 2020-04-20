@@ -1,2 +1,2 @@
-# pennsylvania
+# Pennsylvania
 

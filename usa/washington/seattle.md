@@ -1,10 +1,3 @@
----
-layout: default
-title: Seattle
-parent: Washington
-nav_order: 2
----
-
 # Seattle
 
 {: .no\_toc }
