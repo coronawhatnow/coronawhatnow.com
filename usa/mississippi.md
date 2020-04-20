@@ -1,12 +1,4 @@
----
-layout: default
-title: Mississippi
-nav_order: 2
-has_children: true
-parent: USA
----
-
-# Statewide Resources
+# Mississippi
 
 {% hint style="info" %}
 **Help us make this page better.** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
