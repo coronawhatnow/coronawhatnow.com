@@ -6,7 +6,9 @@ description: >-
 
 # Home
 
-## Select your country to get started
+## Select Your Country
+
+Recover from the impact of COVID-19 with helpful resources.
 
 {% page-ref page="australia.md" %}
 
@@ -20,5 +22,9 @@ description: >-
 
 {% page-ref page="usa/" %}
 
+{% hint style="info" %}
+**Is your country missing? We need help!** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
+{% endhint %}
 
+## 
 
