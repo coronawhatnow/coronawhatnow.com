@@ -1,10 +1,12 @@
+---
+description: >-
+  Corona What Now is a hub for free resources that can help people and
+  businesses affected by coronavirus aka COVID-19.
+---
+
 # Home
 
-Corona What Now is a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19. 
-
-## Select a country 
-
-View resources to help you, your family, and your business.
+## Select your country to get started
 
 {% page-ref page="australia.md" %}
 
