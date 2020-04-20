@@ -1,25 +1,8 @@
----
-layout: default
-title: Toronto
-nav_order: 1
-parent: Canada
----
-
 # Toronto
 
-{: .no\_toc }
-
-## Table of contents
-
-{: .no\_toc .text-delta }
-
-1. TOC
-
-   {:toc}
-
-## Help us make this page better
-
- [Join Our Facebook Group](https://www.facebook.com/groups/coronawhatnow){: .btn .btn-green } [Suggest Links](https://docs.google.com/document/d/1swJ-qaDLR5cbnJLQwHroWJFhM2E7n_Qp8AzGwSOkJ8U/edit?usp=sharing){: .btn .btn-outline }
+{% hint style="info" %}
+**Help us make this page better.** [Suggest links](https://docs.google.com/document/d/1sYjXiZYRfY-mcA-YtUrxgn6fXo8juGV32cwigM4UdRI/edit?usp=sharing) or [sign up as a volunteer](https://www.facebook.com/groups/coronawhatnow).
+{% endhint %}
 
 ## Staying Informed
 

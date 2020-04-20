@@ -21,9 +21,9 @@ Ideally information from state, local, federal governments and reputable compani
 
 
 
+Shelter in place
 
-
-{% embed url="https://ourworldindata.org/grapher/covid-confirmed-deaths-since-5th-death" %}
+{% embed url="https://ourworldindata.org/grapher/covid-confirmed-daily-deaths-epidemiological-trajectory" %}
 
 
 
