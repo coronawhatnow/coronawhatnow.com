@@ -1,7 +1,7 @@
 # Statewide Information
 
 {% hint style="info" %}
-**Help us make this page better.** [Suggest links](https://docs.google.com/document/d/1sYjXiZYRfY-mcA-YtUrxgn6fXo8juGV32cwigM4UdRI/edit?usp=sharing) or [sign up as a volunteer](https://www.facebook.com/groups/coronawhatnow).
+**Help us make this page better.** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
 {% endhint %}
 
 ## Stay Informed
