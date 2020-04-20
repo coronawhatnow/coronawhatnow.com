@@ -1,7 +1,3 @@
----
-description: Coronavirus is impacting your life. What now?
----
-
 # Home
 
 Corona What Now is a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19. 
