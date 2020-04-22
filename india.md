@@ -4,10 +4,6 @@
 **Help us make this page better.** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
 {% endhint %}
 
-## Stay Informed
-
-paste links
-
 ## Humanity Welfare Council of India
 
 Works on all the below mentioned columns and you can find, every independent project on a common website platform-[https://www.hwc.international/index.html](https://www.hwc.international/index.html)
