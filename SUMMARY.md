@@ -18,6 +18,7 @@
   * [Florida](usa/florida.md)
   * [Illinois](usa/illinois/README.md)
     * [Chicago](usa/illinois/chicago.md)
+  * [Kentucky](usa/kentucky.md)
   * [Mississippi](usa/mississippi.md)
   * [New York](usa/newyork/README.md)
     * [New York City](usa/newyork/newyork.md)
