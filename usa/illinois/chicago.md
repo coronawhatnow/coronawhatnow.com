@@ -58,7 +58,9 @@
 
 ### Small Business Assistance
 
-* [Small Business Loans and Financing Options](https://www2.illinois.gov/dceo/SmallBizAssistance/Financing/Pages/default.aspx): Resources published by the Illinois Department of Commerce and Economic Opportunity  
+* [Small Business Loans and Financing Options](https://www2.illinois.gov/dceo/SmallBizAssistance/Financing/Pages/default.aspx): Resources published by the Illinois Department of Commerce and Economic Opportunity
+* [Local Initiatives Support Corporation](https://www.lisc.org/covid-19/): Local business funding relief
+* [Accion Chicago](https://us.accion.org/news/emergency-capital/): Chicago-based emergency capital opportunities for entrepreneurs
 
 ## Families, Children and Youth
 
