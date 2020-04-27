@@ -24,13 +24,11 @@ parent: USA
 
 * [**City Meals on Wheels**](https://www.citymeals.org/get-meals)
 * Please insert your Zip Code on the [website "Get Meals" search bar](https://www.citymeals.org/) to learn about the programs near you.
-* **Foodbank NYC**
-  * [https://www.foodbanknyc.org/get-help/](https://www.foodbanknyc.org/get-help/)
-  * [https://www.needhelppayingbills.com/html/new\_york\_food\_banks.html](https://www.needhelppayingbills.com/html/new_york_food_banks.html)
-* **Lunch provided outside of every school:**
-  * [https://twitter.com/NYCMayorsOffice/status/1239891481202212865](https://twitter.com/NYCMayorsOffice/status/1239891481202212865)
-* **NYC grab-n-go school lunch sites for students:** [https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites\_Update-No-2\_03-19-20.pdf](https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites_Update-No-2_03-19-20.pdf)
-* Individuals at risk can request groceries to be delivered: [https://www.invisiblehandsdeliver.com/](https://www.invisiblehandsdeliver.com/)
+* \*\*\*\*[**Foodbank NYC**](https://www.needhelppayingbills.com/html/new_york_food_banks.html)\*\*\*\*
+  * [Get Help](%20https://www.foodbanknyc.org/get-help/)
+* \*\*\*\*[**Lunch provided outside of every school**](https://twitter.com/NYCMayorsOffice/status/1239891481202212865)\*\*\*\*
+* **NYC grab-n-go school** [**lunch sites**](https://catholicschoolsny.org/wp-content/uploads/2020/03/GrabNGoFoodPickupSites_Update-No-2_03-19-20.pdf) **for students**
+* Individuals at risk can [request groceries](https://www.invisiblehandsdeliver.com/) to be delivered
 * [**FoodHelp NYC**](http://foodhelp.nyc/en/)
 * Visit the [**FoodHelp NYC map**](https://maps.nyc.gov/foodhelp/#map-page) for an interactive map of food pantries and community kitchens in NYC.
 * [**Grab and Go Breakfast and Lunch**](https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update)
@@ -70,7 +68,8 @@ parent: USA
     * **William Hodson Senior Center,** 1320 Webster Ave, The Bronx, NY 10456 \([map](https://goo.gl/maps/A2xdjt87ncbHDkGL9)\) after 11:45am
     * **Greater Holy Tabernacle Church,** 3780 3rd Ave, The Bronx, NY 10456 \([map](https://goo.gl/maps/QQjpbyZDNKqUqtCM9)\) after 12:30pm
     * **Morrisania Air Rights Senior Center/Andrew Jackson Senior Center, 3135 Park Avenue,** Bronx, NY 10451/ 325 E 156th St, Bronx, NY 10451 after 11:45am
-  * **More food banks:** [https://www.needhelppayingbills.com/html/new\_york\_food\_banks.html](https://www.needhelppayingbills.com/html/new_york_food_banks.html)
+  * [More food banks](https://www.needhelppayingbills.com/html/new_york_food_banks.html)
+  * [List of free meal locations](https://slickdeals.net/f/13964108-nyc-long-island-nj-only-free-meals-available-daily-for-anyone?from_da_id=39194080&sdxt01=2020-04-07+14%3A57%3A34&sdxt06=%3A%3A%3A%3A%3A%3Ada_si_v2_fire2&sdxt07=91452&utm_source=dealalerts&utm_medium=email&utm_term=13964108&utm_content=31900&utm_campaign=39194080&p=136035776&src=da_daily_v2_39194080#post136035776)
 
 ## Health
 
@@ -85,22 +84,23 @@ parent: USA
 * Phone \(Espanol\): 1- 888-692-9355
 * you can also reach NYC Well by texting "WELL" to 651-73, or visit their [website](https://nycwell.cityofnewyork.us/en/) for more information.
 * **Health insurance is not required.** **Depending on your phone/text service,** you may be charged a fee**.**
+* [NYC Department of Health & Mental Hygiene:](https://www1.nyc.gov/site/mopd/resources/mental-health.page?utm_source=spoilednyc&utm_medium=email&utm_campaign=the-stoop&utm_medium=email) Resources available for individuals experiencing a mental health condition in their day to day lives
 
 ### Self-Care
 
 ## Childcare
 
-* Places children of critical city workers can go during the day: [https://www.nydailynews.com/new-york/education/ny-coronavirus-school-shutdown-contingency-20200317-dnvmrlzmt5eyrmyu37v4rnixde-story.html](https://www.nydailynews.com/new-york/education/ny-coronavirus-school-shutdown-contingency-20200317-dnvmrlzmt5eyrmyu37v4rnixde-story.html)
+* [Places](https://www.nydailynews.com/new-york/education/ny-coronavirus-school-shutdown-contingency-20200317-dnvmrlzmt5eyrmyu37v4rnixde-story.html) children of critical city workers can go during the day
 
 ## Education
 
 * **Kids Activities**
-* You can access a listing of education companies [ffering free subscriptions](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/) due to school closures [here](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/).
+* You can access a listing of education companies o[ffering free subscriptions](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/) due to school closures [here](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/).
 * [**The Metropolitan Opera**](https://www.metopera.org/)
 * Currently offering "a free series of encore Live in HD presentations streamed on the company website during the coronavirus closure." To learn more about this initiative, please read their [press release](https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/).
 * [**New York Public Library**](https://www.nypl.org/)
 * Anyone with an NYPL library card can access thousands of books remotely via their [SimplyE App](https://www.nypl.org/books-music-movies/ebookcentral/simplye) and [Overdrive](https://company.overdrive.com/?_ga=2.68759891.351182945.1584628523-431838017.1584628523).
-* **Official NYC child education resource, including Remote instructions and devices:** [https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update](https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update)
+* \*\*\*\*[**Official NYC child education resource**](https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update)**, including Remote instructions and devices**
 
 ## Finances
 
@@ -115,9 +115,10 @@ parent: USA
   * Please visit their [How to file a claim for unemployment insurance benefit website](https://applications.labor.ny.gov/IndividualReg/) to learn more about how to submit an application or call 1-888-209-8124 \(Monday to Friday 8:00am-5:00pm.
   * [**One Fair Wage**](https://ofwemergencyfund.org/about)
   * Per their [website](https://ofwemergencyfund.org/help): We are providing free, cash assistance to restaurant workers, delivery drivers and other tipped workers and service workers—who are seeing their income decline during this disaster, or aren't able to work because of quarantines or other health concerns." To learn more, please submit [their online form](https://ofwemergencyfund.org/help).
-  * Financial planning non-profit offering free / discounted services to NYers: [https://mytrustplus.org/statement-from-justine-zinkin-on-neighborhood-trusts-covid-19-response/](https://mytrustplus.org/statement-from-justine-zinkin-on-neighborhood-trusts-covid-19-response/)
-  * Healthcare funds for visual and media artists and choreographers: [https://www.nyfa.org/Content/Show/Rauschenberg-Emergency-Grants](https://www.nyfa.org/Content/Show/Rauschenberg-Emergency-Grants)
-  * Cinema Worker Solidarity Fund - Hourly workers at cinemas in New York City who are experiencing wage disruption because of COVID-19 closures: [https://www.gofundme.com/f/cinema-worker-solidarity-fund](https://www.gofundme.com/f/cinema-worker-solidarity-fund)
+  * Financial planning non-profit offering [free / discounted services](%20https://mytrustplus.org/statement-from-justine-zinkin-on-neighborhood-trusts-covid-19-response/) to NYers
+  * [Healthcare funds](https://www.nyfa.org/Content/Show/Rauschenberg-Emergency-Grants) for visual and media artists and choreographers
+  * [Cinema Worker Solidarity Fund](%20https://www.gofundme.com/f/cinema-worker-solidarity-fund) - Hourly workers at cinemas in New York City who are experiencing wage disruption because of COVID-19 closures
+  * [A List of Local Relief Funds](https://ny.eater.com/2020/3/20/21188159/donate-to-nyc-staff-funds-coronavirus) [for NYC Restaurant Workers](https://www.gofundme.com/f/cinema-worker-solidarity-fund)
 * **Loans**
   * [**Hebrew Free Loan Society**](https://hfls.org/)
     * They have a [Coronavirus Financial Impact Loan](https://hfls.org/loan-programs/coronavirusfinancialimpactloan/) to support individuals financially affected by the Coronavirus.
@@ -236,9 +237,9 @@ parent: USA
 
 ### Small Business Assistance
 
-* NYC Employee Retention Grant Program - Established NYC businesses with fewer than five employees: [https://www1.nyc.gov/site/sbs/businesses/covid19-business-financial-assistance.page](https://www1.nyc.gov/site/sbs/businesses/covid19-business-financial-assistance.page)
-* Low-interest loan for small business, small agricultural cooperative, or private nonprofit organization in a declared disaster area: [https://disasterloan.sba.gov/ela/Information/EIDLLoans](https://disasterloan.sba.gov/ela/Information/EIDLLoans)
-* Small business grants for businesses experiencing hardship due to COVID-19: [https://www.facebook.com/business/boost/grants](https://www.facebook.com/business/boost/grants)
+* [NYC Employee Retention Grant Program](https://www1.nyc.gov/site/sbs/businesses/covid19-business-financial-assistance.page) - Established NYC businesses with fewer than five employees
+* [Low-interest loan for small business](https://disasterloan.sba.gov/ela/Information/EIDLLoans), small agricultural cooperative, or private nonprofit organization in a declared disaster area
+* [Small business grants](%20https://www.facebook.com/business/boost/grants) for businesses experiencing hardship due to COVID-19
 
 ## Elderly \(65+\)
 
@@ -255,7 +256,7 @@ Food
 ## Other Resources
 
 * [Legal Services of New York City](https://www.legalservicesnyc.org/our-program) will continue to take cases remotely. You can contact them at 917-661-4500 for further information.
-* Huge repository of NYC resources: [https://mytrustplus.org/resources/nyc-coronavirus-resources/](https://mytrustplus.org/resources/nyc-coronavirus-resources/)
+* Huge repository of NYC[ resources](%20https://mytrustplus.org/resources/nyc-coronavirus-resources/)
 * [**New York City Emergency Management**](https://www1.nyc.gov/site/em/resources/covid-19-services-resources.page)
 * Please visit [their website](https://www1.nyc.gov/site/em/resources/covid-19-services-resources.page) for a comprehensive list of city resources for New Yorkers.
 * **Federal Student Loans**
@@ -286,9 +287,10 @@ Food
 
 ## Volunteer Opportunities/How to Help
 
-* Relief BK: [https://www.reliefbk.org](https://www.reliefbk.org/)
-* Brooklyn: Flatbush Mutual Aid Society: [https://www.facebook.com/groups/2775890899146167/](https://www.facebook.com/groups/2775890899146167/)
-* Free deliveries for the most at-risk community members facing COVID-19: [https://www.invisiblehandsdeliver.com/](https://www.invisiblehandsdeliver.com/)
+* [Relief BK](%20https://www.reliefbk.org)
+* [Brooklyn: Flatbush Mutual Aid Society](https://www.facebook.com/groups/2775890899146167/)
+* [Free deliveries](https://www.invisiblehandsdeliver.com/) for the most at-risk community members facing COVID-19
 * [https://www.gofundme.com/f/helping-new-york-city-during-covid19](https://www.gofundme.com/f/helping-new-york-city-during-covid19)
 * [https://www.facebook.com/1586278984927579/posts/2693321307556669](https://www.facebook.com/1586278984927579/posts/2693321307556669)
+* New York Cares is currently working with city agencies and Community Partners to assess our response to those most impacted by COVID-19. If you would like more information on projects addressing COVID-19 in the coming days and weeks, please [sign up.](https://www.newyorkcares.org/projects/sign-covid-19-relief-updates)
 
