@@ -8,41 +8,25 @@
 
 ## Staying Informed
 
-[Australian Government WhatsApp for Mobile Information](http://aus.gov.au/whatsapp)
-
 [COVID19 - Current Situation and Case Numbers](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers) - Australian Government, Department of Health Website
+
+[COVID19 Symptom Checker](https://www.healthdirect.gov.au/symptom-checker/tool/basic-details)
+
+[Coronavirus Australia App](https://www.health.gov.au/resources/apps-and-tools/coronavirus-australia-app) - iPhone and Android
+
+[COVIDSafe Contact Tracing App](https://www.health.gov.au/resources/apps-and-tools/covidsafe-app)
+
+[Australian Government WhatsApp for Mobile Information](http://aus.gov.au/whatsapp)
 
 [Australian Government Coronavirus \(Covid-19\)](https://www.australia.gov.au/?fbclid=IwAR1COwNeE_R1-IIlGFaLPFu0RQLDmefFrwvkTtD3pJpRNKxzLAA2WsrZ6VY)
 
 [ABC News Coronavirus Stream](https://www.abc.net.au/news/story-streams/coronavirus/)
 
-State specific resources:
 
-Victoria - [Victoria DHHS](https://www.dhhs.vic.gov.au/victorian-public-coronavirus-disease-covid-19)
-
-New South Wales - [NSW Health](https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx)
-
-South Australia -[South Australia](https://www.sa.gov.au/covid-19)
-
-Queensland - [Queensland](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19)
-
-Western Australia - [Western Australia](https://www.wa.gov.au/government/covid-19-coronavirus)
-
-Northern Territory - [https://coronavirus.nt.gov.au/](https://coronavirus.nt.gov.au/)
-
-Tasmania - [Tasmania DHHS](https://www.dhhs.tas.gov.au/publichealth/communicable_diseases_prevention_unit/infectious_diseases/coronavirus)
-
-Norfolk Island: [Norfolk Island](https://www.norfolkisland.com.au/covid-19)
-
-Cocos \(Keeling\) Islands: [Cocos Island](https://shire.cc/en/your-community/coronaviruscovid19.html)
-
-Christmas Island:
-
-Australian Antarctic Territories:
 
 ## Food
 
-## [FoodBank Australia - Food Assistance Resources by State.](https://www.foodbank.org.au/homepage/who-we-help/individuals/?state=wa)
+[FoodBank Australia - Food Assistance Resources by State.](https://www.foodbank.org.au/homepage/who-we-help/individuals/?state=wa)
 
 Advice for food businesses - [Public Health - Food Industry](https://www2.health.vic.gov.au/public-health/food-safety/food-businesses/covid-19-and-food-business)
 
@@ -52,7 +36,7 @@ What is causing food shortages - Distribution, not production.
 
 ## Health
 
-### Specialized Health Resources for Communities
+### Specialised Health Resources for Communities
 
 Advice for health and aged care sector - [Health & Aged Care Sector](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-advice-for-the-health-and-aged-care-sector)
 
@@ -114,25 +98,13 @@ Advice for schools -
 
 [Tasmanian Schools](https://www.education.tas.gov.au/parents-carers/novel-coronavirus-covid-19/)
 
-Advice for early childhood services -
-
-[Victorian Early Learning Centres](https://www.education.vic.gov.au/childhood/Pages/coronavirus-advice-early-childhood.aspx)
-
-Advice for parents, carers and guardians -
-
-[Victorian Parents & Guardians](https://www.education.vic.gov.au/parents/Pages/coronavirus-advice-parents.aspx)
-
-Advice for international students -
-
-[Victorian International Students](https://www.education.vic.gov.au/about/department/Pages/coronavirus-advice-international-students.aspx)
-
 ## Finances
 
 ### Income Relief
 
 [Centrelink](https://www.centrelink.gov.au)
 
-Covid-19 financial assistance resource -[Australian Financial Assistance](https://moneysmart.gov.au/covid-19-financial-assistance)
+Covid-19 financial assistance resource - [Australian Financial Assistance](https://moneysmart.gov.au/covid-19-financial-assistance)
 
 If you need a payment - Covid19 - Youth allowance, Jobseeker, Parent
 
