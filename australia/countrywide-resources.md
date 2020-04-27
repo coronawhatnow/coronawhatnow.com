@@ -8,6 +8,8 @@
 
 ## Staying Informed
 
+[Live COVID19 Numbers](https://www.bing.com/covid/local/australia)
+
 [COVID19 - Current Situation and Case Numbers](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers) - Australian Government, Department of Health Website
 
 [COVID19 Symptom Checker](https://www.healthdirect.gov.au/symptom-checker/tool/basic-details)
