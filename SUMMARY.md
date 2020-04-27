@@ -2,7 +2,6 @@
 
 * [Home](README.md)
 * [Australia](australia/README.md)
-  * [Victoria](australia/victoria.md)
   * [Countrywide Resources](australia/countrywide-resources.md)
   * [Australian Capital Territory](australia/australian-capital-territory.md)
   * [New South Wales](australia/new-south-wales.md)
@@ -10,6 +9,7 @@
   * [Queensland](australia/queensland.md)
   * [South Australia](australia/south-australia.md)
   * [Tasmania](australia/tasmania.md)
+  * [Victoria](australia/victoria.md)
   * [Western Australia](australia/western-australia.md)
   * [Other Territories](australia/other-territories.md)
 * [Canada](canada/README.md)
