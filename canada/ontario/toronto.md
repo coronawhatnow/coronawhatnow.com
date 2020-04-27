@@ -43,8 +43,6 @@
 * [Ontario Family Doctors now offering OHIP covered Phone Consultations in response to COVID-19 ](https://dialadoc.ca/)- Due to the COVID-19 pandemic, family doctors are now offering OHIP covered phone-in appointments to all Ontario residents.
 * [Cover Health – Virtual Walk-in Clinic](https://cover.health/) -  A digital doctor’s clinic that's free for Ontarians.
 
-### Specialized Health Resources for Communities
-
 ### Mental Health
 
 * [Massive Doc of Mental Health Resources](http://bit.ly/covid19-mentalhealth) - a crowd-sourced doc of free/low-cost mental health resources during COVID-19; includes resources around community support, meditation, arts, and therapy.
@@ -105,8 +103,6 @@
 ### Unemployment Benefits
 
 * [Application for Employment Insurance benefits online - Canada.ca](https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA)
-
-### Tax Assistance
 
 ### Small Business Assistance
 
