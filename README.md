@@ -26,5 +26,5 @@ Recover from the impact of COVID-19 with these helpful resources.
 **Is your country missing? We need help!** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
 {% endhint %}
 
-## 
+![](.gitbook/assets/output-onlinepngtools.png)
 
