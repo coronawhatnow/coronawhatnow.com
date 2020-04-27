@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [New Zealand](new-zealand.md)
 * [Australia](australia/README.md)
   * [Countrywide Resources](australia/countrywide-resources.md)
   * [Australian Capital Territory](australia/australian-capital-territory.md)
@@ -20,6 +19,7 @@
   * [Ontario](canada/ontario/README.md)
     * [Toronto](canada/ontario/toronto.md)
 * [India](india.md)
+* [New Zealand](new-zealand.md)
 * [Russia](russia.md)
 * [Turkey](turkey.md)
 * [USA](usa/README.md)
