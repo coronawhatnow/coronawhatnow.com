@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Australia](australia/README.md)
+  * [South Australia](australia/south-australia.md)
   * [Countrywide Resources](australia/countrywide-resources.md)
   * [Tasmania](australia/tasmania.md)
   * [Western Australia](australia/western-australia.md)
