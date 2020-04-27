@@ -4,7 +4,9 @@ description: 'Norfolk Island, Cocos Island, Christmas Island'
 
 # Other Territories
 
-**Have a suggestion? Add a comment by clicking the button above:**![](../.gitbook/assets/0%20%286%29.png)
+{% hint style="info" %}
+**Help us make this page better.** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
+{% endhint %}
 
 ## Staying Informed
 

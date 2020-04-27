@@ -6,7 +6,9 @@ description: >-
 
 # Home
 
-Select Your Country
+### [Live COVID numbers - World](https://www.bing.com/covid)
+
+### Select Your Country
 
 Recover from the impact of COVID-19 with these helpful resources.
 
