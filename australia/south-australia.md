@@ -1,6 +1,6 @@
 # South Australia
 
-**Have a suggestion? Add a comment by clicking the button above:**![](../.gitbook/assets/0%20%282%29.png)
+**Have a suggestion? Add a comment by clicking the button above:**![](../.gitbook/assets/0%20%283%29.png)
 
 ## Staying Informed
 

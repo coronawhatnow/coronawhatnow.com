@@ -15,6 +15,8 @@
   * [Other Territories](australia/other-territories.md)
 * [Canada](canada/README.md)
   * [Countrywide Resources](canada/general.md)
+  * [Manitoba](canada/manitoba/README.md)
+    * [Winnipeg](canada/manitoba/winnipeg.md)
   * [Ontario](canada/ontario/README.md)
     * [Toronto](canada/ontario/toronto.md)
 * [India](india.md)
