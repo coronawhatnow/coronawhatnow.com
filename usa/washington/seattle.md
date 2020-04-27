@@ -36,6 +36,7 @@
 
 * [Communities in Schools Greenlight Fund](https://l.workplace.com/l.php?u=https%3A%2F%2Fseaciti.org%2Fgreenlight-covid-19%2F&h=AT0Vz0d_pgaX0lnx0NqAbqx3Zn6nIIUhjREjOPZeiGdrDph3GuWqpH6wyfSgtzr8BNmi9nqQDCmaA60lYPef7mWrcDoai0uqSCCYsdxkFL9xZ3gSv1IdMIP4LCU09ZvnNyIau3d9G7Y9bkd6IwVKcSXESvJtIfBeukwE_Q): Tech workers from around the region are supporting the Greenlight Fund, a partnership of sea.citi and Communities in Schools. The fund provides small cash stipends, supplies, and other resources directly to families from ten low-income schools around Seattle. Communities in Schools has existing relationships with students and families. They can quickly identify needs 'on-the-ground' and react fast. Clients do not need to fill out an application. No review boards or hoops. Just small direct cash transfers or goods where they're needed most.
 * [Seattle Foundation COVID-19 Relief Fund](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.seattlefoundation.org%2Fcommunityimpact%2Fcivic-leadership%2Fcovid-19-response-fund&h=AT03nOnzpK5y9yzE-l7YFGWLwTF9k-cjlRkh7vP0Tubh-vhdlMRuCE-QWOWw9ECjnHU0BOMh15d56veLq6seDQiir_jxaqIw30DGprxtZl7Ki8T4lv8G8j3KzLefoOIGeCPX2-afA3NlrNTfzyGSYK_vZQCOpVbhOa6JVw): Hosted by Seattle Foundation, the COVID-19 Response Fund will provide flexible resources to organizations working with communities who are disproportionately impacted by coronavirus and the economic consequences of the outbreak. The Fund is designed to complement the work of public health officials and expand local capacity to address all aspects of the outbreak as efficiently as possible.
+* [Seattle Artist Relief Fund](https://www.gofundme.com/f/for-artists): Individual artists in the greater Seattle area with immediate financial need due to COVID-19
 
 ### Housing
 
@@ -53,6 +54,7 @@
 * Seattle Farmers Market Association list of [vendors and farmers providing delivery and online orders](http://www.sfmamarkets.com/?fbclid=IwAR1extoz7MdhmUKiUQ-x35se1RxeFQN9wtz0YmpI0TwH_gixPOMDxwwh0Aw)
 * Neighborhood Farmers Market Emergency Relief Fund via the [Good Farmers Fund](https://l.workplace.com/l.php?u=https%3A%2F%2Fseattlefarmersmarkets.org%2Fhelp-us-grow%2Fdonate&h=AT0NXGjs96e13vMcAMl_dJHzErlmQrrsEWS_QNX3YAU15wTNxW1htdxU7K0GfkTNdbXFtQgUyiLV4Tch6MAj0Prl2RhaLxkfselSBRg6iiqu-7jxXScUXO87NuzuwWwOj3KWS3rmD1-w2hQOlFiMGUHE-K0P-MoaWjIWdg)
 * [Seattle Hospitality Emergency Fund](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.gofundme.com%2Ff%2Fseattle-hospitality-emergency-fund&h=AT09QtXjlMwZwYGU47scYTDu4T-cDnYqkLhXEK-l4l1FEygMUEELK6dkFWH0ZHcLeAF7O81TrXYaaswc3SVS6x1R9j6iFBPW64fKwiFC-1skkq-LIWyYZAEU1_9iALL7HiTd1UxnVDg-2cDvgdgmO2NV7cwy3pNNGzG-GA)
+* [Seattle Office of Economic Development:](https://seattle.surveymonkey.com/r/RJ57GQN) Grants for small businesses with physical establishment in Seattle
 
 ## Elderly \(65+\)
 
