@@ -16,6 +16,8 @@ Recover from the impact of COVID-19 with these helpful resources.
 
 {% page-ref page="india.md" %}
 
+{% page-ref page="new-zealand.md" %}
+
 {% page-ref page="russia.md" %}
 
 {% page-ref page="turkey.md" %}
