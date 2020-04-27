@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
-* [Australia](australia.md)
+* [Australia](australia/README.md)
+  * [New South Wales](australia/new-south-wales.md)
 * [Canada](canada/README.md)
   * [Countrywide Resources](canada/general.md)
   * [Ontario](canada/ontario/README.md)

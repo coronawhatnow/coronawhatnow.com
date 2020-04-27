@@ -10,7 +10,7 @@ Select Your Country
 
 Recover from the impact of COVID-19 with these helpful resources.
 
-{% page-ref page="australia.md" %}
+{% page-ref page="australia/" %}
 
 {% page-ref page="canada/" %}
 
