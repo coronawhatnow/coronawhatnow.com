@@ -16,6 +16,8 @@
 
 [Steps to stop the spread](https://covid19.govt.nz/covid-19/how-were-uniting/)
 
+[New Zealand - Covid19 - FB Discussion Group](https://www.facebook.com/groups/1341471212699399/?ref=group_browse)
+
 ## Food
 
 [The Foodbank Project](https://www.foodbank.org.nz/)
@@ -119,6 +121,8 @@ Small Business - [Guidance for Employers](https://www.business.govt.nz/covid-19/
 
 [Business Finance Guarantee Scheme](https://www.business.govt.nz/covid-19/business-finance-guarantee-scheme/) - For businesses affected by Covid19
 
+[Business Owners and Managers](https://www.facebook.com/groups/2752265741516105/?ref=group_browse) - Covid19 Support Group - FB Page
+
 ## Elderly \(65+\)
 
 [COVID-19: Disability, aged care and hospice providers](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-resources-health-professionals/covid-19-disability-aged-care-and-hospice-providers#disability)
@@ -130,6 +134,8 @@ Small Business - [Guidance for Employers](https://www.business.govt.nz/covid-19/
 ## Other Resources
 
 [Grocery Delivery Service](https://shop.sva.org.nz/)
+
+[Helping Hand](https://helpinghand.nz/) - Volunteer initiative connecting people who need help with people who can help
 
 ## Donate Your Items or Money
 
