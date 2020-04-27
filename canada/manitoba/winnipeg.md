@@ -95,7 +95,31 @@
   * More details [here](https://www.canada.ca/en/department-finance/news/2020/03/canadas-covid-19-economic-response-plan-support-for-canadians-and-businesses.html#Flexibility_for_Tax-filers)
 * [COVID-19: Mortgage Payment Deferral](https://www.cmhc-schl.gc.ca/en/finance-and-investing/mortgage-loan-insurance/the-resource/covid19-understanding-mortgage-payment-deferral). Homeowners facing financial stress may be eligible for a mortgage payment deferral up to 6 months to help ease the financial burden.
 
-### **Housing**
+### Who's hiring?
+
+* [Directory of remote jobs](https://docs.google.com/spreadsheets/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview?fbclid=IwAR3ZaSqQPNqeGQSBgrcET629Zf5XJQqqg5P9Ry5EyAOgC2Ly5uPukF607Vk)
+
+### Unemployment Benefits
+
+* [Application for Employment Insurance benefits online - Canada.ca](https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA)
+
+### Small Business Assistance
+
+* [Master List of Government Resources to Support Small Business during COVID-19](https://ownrblog.com/covid19-support-for-small-business/?fbclid=IwAR1iOALY2Lx1EGRH_d5A_x43_NyOmE3YoSDQwyoUKQWxMGt8NOH22v2EiLc)
+
+### Information for Businesses
+
+* [Information for Businesses](https://manitoba.ca/covid19/business/index.html)
+
+### Help with Bills
+
+* [Bell](https://www.bell.ca/Covid-19-update), [Rogers, Telus, and TekkSavy](https://globalnews.ca/news/6673413/coronavirus-rogers-data-overage-fees/) are waiving extra internet usage fees
+
+### Loan Assistance
+
+* [Canada suspends federal student loan payments during COVID-19 crisis](https://www.cbc.ca/news/politics/covid-19-coronavirus-pandemic-student-loans-1.5502179). Students will be automatically enrolled into the six-month loan holiday program
+
+## Housing
 
 * [Rental Tenancy Branch](https://www.gov.mb.ca/cca/rtb/)
 * [SNA Spence Neighborhood Association](https://www.spenceneighbourhood.org/holisitc-housing) - Holistic Housing
@@ -118,24 +142,9 @@
 * [Willow Place](http://willowplaceshelter.ca/) - a family violence agency supporting transformation, healing, and healthy relationships, Call 204-615-0313 ext.0
 * [West End 24-Hour Safe Space for Youth](https://www.spenceneighbourhood.org/we24) at [430 Langside](https://www.google.ca/maps/place/430+Langside+St,+Winnipeg,+MB+R3B+2T5/data=!4m2!3m1!1s0x52ea73e4c2630ca1:0xff80a7c820f26acd?sa=X&ved=0ahUKEwir08P68qrXAhWD64MKHbwXAxsQ8gEIJzAA) - provides a safe space to hang out, not to sleep.
 
-### Who's hiring?
-
-* [Directory of remote jobs](https://docs.google.com/spreadsheets/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview?fbclid=IwAR3ZaSqQPNqeGQSBgrcET629Zf5XJQqqg5P9Ry5EyAOgC2Ly5uPukF607Vk)
-
-### Unemployment Benefits
-
-* [Application for Employment Insurance benefits online - Canada.ca](https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA)
-
-### Small Business Assistance
-
-* [Master List of Government Resources to Support Small Business during COVID-19](https://ownrblog.com/covid19-support-for-small-business/?fbclid=IwAR1iOALY2Lx1EGRH_d5A_x43_NyOmE3YoSDQwyoUKQWxMGt8NOH22v2EiLc)
-
-### Information for Businesses
+## Supports for non-profits
 
 * [Information for Businesses](https://manitoba.ca/covid19/business/index.html)
-
-### Supports for non-profits
-
 * [Winnipeg Arts Council FAQs](http://winnipegarts.ca/wac/news-article/covid-19-update)
 * [Manitoba Arts Council FAQs](https://artscouncil.mb.ca/2020/03/covid-19-frequently-asked-questions/)
 * [Canada Council for the Arts FAQs](https://canadacouncil.ca/covid-19-information)
@@ -143,14 +152,6 @@
 * [The Winnipeg Foundation statement](https://www.wpgfdn.org/the-winnipeg-foundation/statement-and-response-to-covid-19/)
 * [Manitoba Music](https://www.manitobamusic.com/coronavirus) - has established an emergency financial relief fund to help Manitoba’s music entrepreneurs, in addition to its pre-existing Unison Benevolent Fund.
 * [The Canadian Society of Association Executives](https://csae.com/) - dedicated to not-for-profit professionals, is hosting online videochats and providing additional assistance to its members.
-
-### Help with Bills
-
-* [Bell](https://www.bell.ca/Covid-19-update), [Rogers, Telus, and TekkSavy](https://globalnews.ca/news/6673413/coronavirus-rogers-data-overage-fees/) are waiving extra internet usage fees
-
-### Loan Assistance
-
-* [Canada suspends federal student loan payments during COVID-19 crisis](https://www.cbc.ca/news/politics/covid-19-coronavirus-pandemic-student-loans-1.5502179). Students will be automatically enrolled into the six-month loan holiday program
 
 ## Elderly \(65+\)
 
