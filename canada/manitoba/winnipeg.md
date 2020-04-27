@@ -80,10 +80,6 @@
   * [Breath Exercises to strengthen lungs](https://www.youtube.com/watch?v=qViH3a4S-Uk&feature=share&fbclid=IwAR25oDm7PvxDsEGHkqGjyc9dlZeHarxYbEAB7F1QQ_IcJCE8O1LdW4YJQvQ)
   * [Yoga Public](https://yogapublic.com/)
 
-### Childcare
-
-#### 
-
 ## Finances
 
 #### **Debt Repayment**
