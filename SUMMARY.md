@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Australia](australia/README.md)
+  * [Tasmania](australia/tasmania.md)
   * [Western Australia](australia/western-australia.md)
   * [Queensland](australia/queensland.md)
   * [Other Territories](australia/other-territories.md)
