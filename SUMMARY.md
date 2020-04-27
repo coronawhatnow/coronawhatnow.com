@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Australia](australia/README.md)
+  * [Northern Territory](australia/northern-territory.md)
   * [Australian Capital Territory](australia/australian-capital-territory.md)
   * [New South Wales](australia/new-south-wales.md)
 * [Canada](canada/README.md)
