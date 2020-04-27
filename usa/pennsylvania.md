@@ -9,6 +9,8 @@
 * [Greater Pittsburgh Community Food Bank](https://www.pittsburghfoodbank.org/covid19/)
 * [Care packages for LGBTQ+ individuals in need](https://www.facebook.com/permalink.php?story_fbid=639852246585968&id=215363125701551&__tn__=-R)
 * [Arnold’s Tea - hosting food events every week](https://www.facebook.com/arnoldsteapittsburgh/)
+* [The Supplemental Nutrition Assistance Program \(SNAP\)](https://www.dhs.pa.gov/Services/Assistance/Pages/SNAP.aspx)
+* [Map of Feeding Pennsylvania Food Banks ](https://www.feedingpa.org/find-assistance/)
 
 ## Health
 
@@ -24,6 +26,7 @@
 
 * [Resolve Crisis Services - 24-hour crisis counseling](https://www.upmc.com/services/behavioral-health/resolve-crisis-services)
 * [Peer Support and Advocacy Network - 866-661-9726](http://www.peer-support.org/)
+* [Crisis Text Line](https://www.crisistextline.org/)
 
 #### Self-Care
 
@@ -32,7 +35,8 @@
 
 ### Childcare
 
-* 
+* [Map of Open Child Care Centers](https://www.dhs.pa.gov/providers/Providers/Pages/Coronavirus-Child-Care.aspx)
+
 #### Food
 
 * [Pittsburgh Public Schools - free food to students Monday-Friday](https://www.pghschools.org/grabandgo)
@@ -58,7 +62,8 @@
 
 #### Who's hiring?
 
-* 
+* [Open Jobs with Commonwealth of Pennsylvania](https://www.governmentjobs.com/careers/pabureau)
+
 #### Disability Benefits/Paid Sick Leave
 
 * 
@@ -74,6 +79,7 @@
 * [SBA Disaster Relief Program](http://SBA.gov/disaster)
 * [URA offering resources for small businesses](https://www.ura.org/news/ura-offering-resources-to-help-small-businesses-potentially-impacted-by-coronavirus)
 * [Honeycomb Credit: low interest community-sourced loans](https://www.honeycombcredit.com/relief)
+* [Bryn Mawr Trust: COVID-19 Personal Relief Loan](https://www.bmt.com/bmt-covid-19-personal-relief-loan/)
 
 ### Elderly \(65+\)
 
