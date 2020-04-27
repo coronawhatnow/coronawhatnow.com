@@ -10,14 +10,14 @@
 
 ## Food
 
-* [Second Harvest ](https://secondharvest.ca/) - Canada’s largest food rescue charity. 
+* [Second Harvest](https://secondharvest.ca/)  - Canada’s largest food rescue charity. 
+* [Find a Food Bank](https://www.foodbankscanada.ca/utility-pages/find-a-food-bank.aspx) - The Food Banks Canada network is made up of ten Members \(Provincial Associations\) and their approximately 450 affiliated food banks \(Affiliate Members\).
+* [Share the Goods -](https://www.sharethegoods.ca.) Canadian-wide, the site connects people who need food, with people who want to help. You provide your contact information, and are matched with someone who wants to provide a one-time food delivery.
 
 ## Health
 
 * [Coronavirus in Canada: how to get tested, what the symptoms are, where to get help](https://www.macleans.ca/society/health/coronavirus-in-canada-how-to-get-tested-what-the-symptoms-are-where-to-get-help/?fbclid=IwAR2DU2ER4axgdowHLdz4aV2fGwLvyIds1OVmXC0JJbmYOQGzjWSgMXR2Rvw)
 * [Babylon by TELUS Health](https://www.telus.com/en/on/health/personal/babylon) -  A free healthcare mobile app that allows you to check symptoms, consult with doctors, and access your health records \(only available for Alberta and BC\).
-
-### Specialized Health Resources for Communities
 
 ### Physical Health
 
@@ -30,12 +30,14 @@
 
 ### Mental Health
 
-* [Text4Hope program](https://www.albertahealthservices.ca/topics/Page17019.aspx), an Alberta-based service where residents can text COVID19HOPE to the number 393939 and receive daily messages focused on healthy thinking and managing emotions
-* [Bliss](https://cimhs.com/) - Free 8-week online therapy course for depression
-* [Headspace](https://www.headspace.com/covid-19) provides free meditation sessions 
-* [BetterHealth](https://www.betterhelp.com/) offers affordable online therapy 
-* [The Centre for Addiction and Mental Health ](https://www.camh.ca/en/health-info/mental-health-and-covid-19)has a number of resources directed at COVID-19 anxiety and stress
-* [Free Live Vitral Meditation Classes](https://peakwellnessco.com/free-live-meditations/) - Offered every Wednesday 
+* [Massive Doc of Mental Health Resources](http://bit.ly/covid19-mentalhealth) - a crowd-sourced doc of free/low-cost mental health resources during COVID-19; includes resources around community support, meditation, arts, and therapy
+* [Jack.Org Youth Mental Health Resource Hub](https://jack.org/covid?fbclid=IwAR2_HkI2n0CSKaSPv8I45pB4vVMed5YboCX8aGPXZGsdsLp9fg_QTk5dAw4) - Jack.org, School Mental Health Ontario and Kids Help Phone have partnered to bring you all the information needed in one easy-to-access hub so that youth mental health remains top of mind.
+* [Text4Hope program](https://www.albertahealthservices.ca/topics/Page17019.aspx) - an Alberta-based service where residents can text COVID19HOPE to the number 393939 and receive daily messages focused on healthy thinking and managing emotions.
+* [Bliss](https://cimhs.com/) - Free 8-week online therapy course for depression.
+* [Headspace](https://www.headspace.com/covid-19) - provides free meditation sessions. 
+* [BetterHealth](https://www.betterhelp.com/) - offers affordable online therapy. 
+* [The Centre for Addiction and Mental Health](https://www.camh.ca/en/health-info/mental-health-and-covid-19) - has a number of resources directed at COVID-19 anxiety and stress.
+* [Free Live Virtual Meditation Classes](https://peakwellnessco.com/free-live-meditations/) - offers free live virtual meditation every Wednesday.
 
 ## Childcare
 
@@ -54,7 +56,8 @@
 
 ### Income Relief
 
-* [Government introduces Canada Emergency Response Benefit to help workers and businesses](https://www.canada.ca/en/department-finance/news/2020/03/introduces-canada-emergency-response-benefit-to-help-workers-and-businesses.html)
+* [CERB Application](https://www.canada.ca/en/services/benefits/ei/cerb-application.html)
+* [Support for Students](https://www.canada.ca/en/department-finance/news/2020/04/support-for-students-and-recent-graduates-impacted-by-covid-19.html)
 
 ### Housing
 
@@ -64,13 +67,9 @@
 
 * [Directory of remote jobs](https://docs.google.com/spreadsheets/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview?fbclid=IwAR3ZaSqQPNqeGQSBgrcET629Zf5XJQqqg5P9Ry5EyAOgC2Ly5uPukF607Vk)
 
-### Disability Benefits/Paid Sick Leave
-
 ### Unemployment Benefits
 
 * [Application for Employment Insurance benefits online - Canada.ca](https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA)
-
-### Tax Assistance
 
 ### Small Business Assistance
 
@@ -86,7 +85,14 @@
 
 ## Elderly \(65+\)
 
+## **Legal Assistance**
+
+* [Torkin Manes Legal Resource Center](https://communications.torkinmanes.com/21/502/april-2020/newsletter%284%29.asp?sid=fe27d01c-3456-4516-8e86-5db304a77585&fbclid=IwAR1SSsMw-dzNS7u4Os3wRQnQa-HQRlBQ_Cr3g_3xvrkOux5rZ8V6nfsHfWU) - the law firm has written a number of articles to keep people informed of the legal implications related to this COVID-19 \(topics include insurance, real estate, employment, and cannabis law\). 
+* [Law Society Referral Service](https://lsrs.lso.ca/lsrs/welcome) - site for residents of Ontario to request a free 30 minute consultation with a legal professional.
+
 ## Safety for Survivors of Violence
+
+* [C](https://www.cbc.ca/news/politics/covid-19-coronavirus-pandemic-student-loans-1.5502179)[anadian Resource Centre for Victims for Violent Crimes: List of Links](https://crcvc.ca/links/)
 
 ## Entertainment
 
@@ -97,6 +103,7 @@
 
 * [Coursera](https://www.coursera.org/) offers thousands of free online courses
 * [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/home)- a library for technologists, civic organisations, public and private institutions, researchers, educators and specialists of all kinds to collaborate on an agile and sophisticated response to the coronavirus outbreak and sequential impacts.
+* [COVID-19 Research Resources Canada](https://covid19resources.ca/) - a site for scientists & researchers, that provides access to reagents, equipment, human resources, and expertise.
 
 ## Donate Your Items or Money
 
@@ -107,4 +114,8 @@
 
 * [Call for volunteers: Kids Help Phone Crisis Text Line](https://kidshelpphone.ca/get-involved/participate/call-volunteers-crisis-text-line/)
 * [Canadian Muslim Relief Network](https://covid19relief.ca/getinvolved/) - Volunteer to help with deliveries and procurement
+* [ComingTogether Vancouver - Give Help](https://www.comingtogethervancouver.org/give-help) - Vancouver-based site that is connecting neighbours looking for help to those giving help during the COVID-19 pandemic.
+* [Help Next Door Manitob](https://helpnextdoormb.ca/)a - Manitoba-based site that is connecting neighbours looking for help to those giving help during the COVID-19 pandemic.
+* [Share the Goods -](https://www.sharethegoods.ca.) Canada-wide site that brings food to those in need; the site connects people who want to help, with people who need food. 
+* Scientists to [Crowdfight COVID-19](https://crowdfightcovid19.org/) - If you have research/science experience, this group is looking for your help.
 
