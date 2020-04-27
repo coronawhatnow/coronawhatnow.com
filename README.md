@@ -6,7 +6,7 @@ description: >-
 
 # Home
 
-### [Live COVID19 numbers - World](https://www.bing.com/covid)
+### [Live COVID19 numbers - Worldwide](https://www.bing.com/covid)
 
 ### Select Your Country
 
