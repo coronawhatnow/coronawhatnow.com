@@ -19,6 +19,7 @@
   * [Ontario](canada/ontario/README.md)
     * [Toronto](canada/ontario/toronto.md)
 * [India](india.md)
+* [Japan](japan.md)
 * [New Zealand](new-zealand.md)
 * [Russia](russia.md)
 * [Turkey](turkey.md)
@@ -45,6 +46,5 @@
     * [Seattle](usa/washington/seattle.md)
   * [Wisconsin](usa/wisconsin/README.md)
     * [Milwaukee](usa/wisconsin/milwaukee.md)
-* [Japan](japan.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 
