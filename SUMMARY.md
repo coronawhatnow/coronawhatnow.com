@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Germany](germany.md)
 * [Australia](australia/README.md)
   * [Countrywide Resources](australia/countrywide-resources.md)
   * [Australian Capital Territory](australia/australian-capital-territory.md)
