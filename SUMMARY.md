@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [Germany](germany.md)
 * [Australia](australia/README.md)
   * [Countrywide Resources](australia/countrywide-resources.md)
   * [Australian Capital Territory](australia/australian-capital-territory.md)
@@ -19,6 +18,7 @@
     * [Winnipeg](canada/manitoba/winnipeg.md)
   * [Ontario](canada/ontario/README.md)
     * [Toronto](canada/ontario/toronto.md)
+* [Germany](germany.md)
 * [India](india.md)
 * [Japan](japan.md)
 * [New Zealand](new-zealand.md)
