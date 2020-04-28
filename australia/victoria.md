@@ -36,7 +36,7 @@ Victoria - [Victoria DHHS](https://www.dhhs.vic.gov.au/victorian-public-coronavi
 
  [Victoria Facebook page](https://www.facebook.com/VicGovDHHS/)
 
- [https://www.aboriginalvictoria.vic.gov.au/](https://www.aboriginalvictoria.vic.gov.au/)
+[Aboriginal Victoria](%20https://www.aboriginalvictoria.vic.gov.au/)
 
 ## Food
 
@@ -58,7 +58,7 @@ Food Bank Melbourne - [Food Bank Melbourne](https://askizzy.org.au/)
 
 [Woolworths Supermarket](https://www.woolworthsgroup.com.au/page/media/Latest_News/woolworths-to-introduce-a-dedicated-shopping-hour-for-the-elderly-and-people-with-disability/)
 
-### Specialised Health Resources for Communities
+## Specialised Health Resources for Communities
 
 Advice for health and aged care sector - [Health & Aged Care Sector](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-advice-for-the-health-and-aged-care-sector)
 
@@ -68,57 +68,57 @@ Health Services Victoria Covid 19 -[Victorian Health Services Links](https://www
 
 ### Disability
 
-[https://www.dss.gov.au/](https://www.dss.gov.au/)
+[Australian Government - Department of Social Services](https://www.dss.gov.au/)
 
-[https://www.servicesaustralia.gov.au/](https://www.servicesaustralia.gov.au/)
+[Services Australia](https://www.servicesaustralia.gov.au/)
 
-[https://www.ideas.org.au/](https://www.ideas.org.au/)
+[Ideas Org](https://www.ideas.org.au/)
 
-[https://www.chronicillness.org.au/](https://www.chronicillness.org.au/)
+[Chronic Illness Alliance](https://www.chronicillness.org.au/)
 
-[https://www.ndis.gov.au/](https://www.ndis.gov.au/)
+[NDIS - National Disability Insurance Scheme](https://www.ndis.gov.au/)
 
-## Family Violence Victoria
+### Family Violence Victoria
 
 [Domestic Violence Resource Centre](https://www.dvrcv.org.au/knowledge-centre/legal-protection-safety)
 
 [Family Violence Support](https://www.vic.gov.au/family-violence-support)
 
-[https://www.police.vic.gov.au/family-violence](https://www.police.vic.gov.au/family-violence)
+[Victoria Police - Family Violence Information Page](https://www.police.vic.gov.au/family-violence)
 
-[https://www.safesteps.org.au/](https://www.safesteps.org.au/)
+[24/7 Family Violence Support Service](https://www.safesteps.org.au/)
 
-[https://dvvic.org.au/understand/about-family-violence/](https://dvvic.org.au/understand/about-family-violence/)
+[Domestic Violence Victoria](https://dvvic.org.au/understand/about-family-violence/)
 
-[https://www.justice.vic.gov.au/safer-communities/protecting-children-and-families/family-violence](https://www.justice.vic.gov.au/safer-communities/protecting-children-and-families/family-violence)
+[Justice and Community Safety - Family Violence](https://www.justice.vic.gov.au/safer-communities/protecting-children-and-families/family-violence)
 
-Aboriginal Family Violence Prevention and Legal Service- [https://djirra.org.au/](https://djirra.org.au/)
+[Aboriginal Family Violence Prevention and Legal Service](https://djirra.org.au/)
 
-Northern Integrated Family Violence Services - [https://www.nifvs.org.au/](https://www.nifvs.org.au/)
+[Northern Integrated Family Violence Services](https://www.nifvs.org.au/)
 
-[https://www.legalaid.vic.gov.au/find-legal-answers/family-violence-intervention-orders/get-help](https://www.legalaid.vic.gov.au/find-legal-answers/family-violence-intervention-orders/get-help)
+[Legal Aid Victoria - Get Help for family violence](https://www.legalaid.vic.gov.au/find-legal-answers/family-violence-intervention-orders/get-help)
 
-[https://www.premier.vic.gov.au/tag/family-violence/](https://www.premier.vic.gov.au/tag/family-violence/)
+[Premier Victoria - Family Violence Page](https://www.premier.vic.gov.au/tag/family-violence/)
 
-[https://services.dhhs.vic.gov.au/family-violence](https://services.dhhs.vic.gov.au/family-violence)
+[DHHS - Family Violence Information Page](https://services.dhhs.vic.gov.au/family-violence)
 
-[https://www.lawreform.vic.gov.au/content/3-family-violence-community](https://www.lawreform.vic.gov.au/content/3-family-violence-community)
+[Victorian Law Reform Commission - Family Violence Page](https://www.lawreform.vic.gov.au/content/3-family-violence-community)
 
-## Aged Care
+### Aged Care
 
-[https://www.myagedcare.gov.au/find-a-provider/australian-home-care-services-vic-1](https://www.myagedcare.gov.au/find-a-provider/australian-home-care-services-vic-1)
+[Australian Home Care Services](https://www.myagedcare.gov.au/find-a-provider/australian-home-care-services-vic-1)
 
-[https://www2.health.vic.gov.au/ageing-and-aged-care](https://www2.health.vic.gov.au/ageing-and-aged-care)
+[Ageing and Aged Care - Victoria](https://www2.health.vic.gov.au/ageing-and-aged-care)
 
-[https://www.dhhs.vic.gov.au/news-media/news/aged-care](https://www.dhhs.vic.gov.au/news-media/news/aged-care)
+[DHHS - Aged Care - Info Centre](https://www.dhhs.vic.gov.au/news-media/news/aged-care)
 
-[https://www.agedcareguide.com.au/nursing-homes/vic](https://www.agedcareguide.com.au/nursing-homes/vic)
+[Aged Care Guide - Nursing Homes](https://www.agedcareguide.com.au/nursing-homes/vic)
 
-[https://www.betterhealth.vic.gov.au/servicesandsupport/aged-care-services](https://www.betterhealth.vic.gov.au/servicesandsupport/aged-care-services)
+[Better Health - Aged Care Services](https://www.betterhealth.vic.gov.au/servicesandsupport/aged-care-services)
 
-[https://www.worksafe.vic.gov.au/aged-care](https://www.worksafe.vic.gov.au/aged-care)
+[Work Safe Victoria - Aged Care](https://www.worksafe.vic.gov.au/aged-care)
 
-[https://www.vic.gov.au/health-and-social-support](https://www.vic.gov.au/health-and-social-support)
+[Victoria - Health and Social Support](https://www.vic.gov.au/health-and-social-support)
 
 ### Mental Health
 
@@ -146,37 +146,29 @@ Covid 19 - Comprehensive mental health resources and links -
 
 ### Homeless Community
 
-[https://www.homelessnessaustralia.org.au/are-you-experiencing-homelessness](https://www.homelessnessaustralia.org.au/are-you-experiencing-homelessness)
+[Are you experiencing homelessness?](https://www.homelessnessaustralia.org.au/are-you-experiencing-homelessness)
 
-[https://chp.org.au/homelessness/](https://chp.org.au/homelessness/)
+[Council to Homeless Persons - Fact Page](https://chp.org.au/homelessness/)
 
-[https://www.aihw.gov.au/reports/australias-welfare/homelessness-and-homelessness-services](https://www.aihw.gov.au/reports/australias-welfare/homelessness-and-homelessness-services)
+[Homelessness and Homeless Services](https://www.aihw.gov.au/reports/australias-welfare/homelessness-and-homelessness-services)
 
-[https://www.redcross.org.au/get-help/community-services/homelessness-services](https://www.redcross.org.au/get-help/community-services/homelessness-services)
+[Red cross - Homelessness Services](https://www.redcross.org.au/get-help/community-services/homelessness-services)
 
-[https://www.launchhousing.org.au/](https://www.launchhousing.org.au/)
+[Launch Housing - It's time to end homelessness](https://www.launchhousing.org.au/)
 
 ### Self-Care
 
-Managing Stress and Anxiety during Covid19
-
 [Stress & Anxiety - Covid-19](https://services.unimelb.edu.au/counsel/resources/wellbeing/coronavirus-covid-19-managing-stress-and-anxiety)
-
-Self-care during Covid19
 
 [Self Care Cover-19](https://www.orygen.org.au/About/Responding-to-the-COVID-19-outbreak/For-young-people-and-families/Self-care-during-the-COVID-19-outbreak)
 
-Self-care for GPs during Covid19 -
-
 [GP Self Care - Covid-19](https://westvicphn.com.au/about-us/latest-news/self-care-for-gps-in-the-time-of-covid-19/)
 
-Medical/Home Doctor
+#### Medical/Home Doctor
 
-[https://www.myemergencydr.com/emphn-promo](https://www.myemergencydr.com/emphn-promo)
-
-[https://homedoctor.com.au/locations/melbourne](https://homedoctor.com.au/locations/melbourne)
-
-[https://healthengine.com.au/medical-centre/vic/melbourne/13sick-national-home-doctor-service/s60897](https://healthengine.com.au/medical-centre/vic/melbourne/13sick-national-home-doctor-service/s60897)
+* [My Emergency Doctor](https://www.myemergencydr.com/emphn-promo)
+* [Home Doctor Locations - Melbourne](https://homedoctor.com.au/locations/melbourne)
+* [Health Engine - Home Doctor Services](https://healthengine.com.au/medical-centre/vic/melbourne/13sick-national-home-doctor-service/s60897)
 
 ## Childcare
 
@@ -184,7 +176,7 @@ Medical/Home Doctor
 
 [Federal Education Department](https://www.education.gov.au/)
 
-Victoria Resources - Education and Training
+#### Victoria Resources - Education and Training
 
 Advice for schools -
 
@@ -202,31 +194,31 @@ Victoria international students -
 
 [Victorian International Students](https://www.education.vic.gov.au/about/department/Pages/coronavirus-advice-international-students.aspx)
 
-### Housing
+## Housing
 
-Renting and Coronavirus - What you need to know -
+#### Renting and Coronavirus - What you need to know -
 
-[https://www.housing.vic.gov.au/](https://www.housing.vic.gov.au/)
+[Housing Victoria](https://www.housing.vic.gov.au/)
 
 [Victorian Tenants](https://www.tenantsvic.org.au/advice/coronavirus-covid-19/rent-arrears-and-covid-19/)
 
-[https://www.tenantsvic.org.au/advice/coronavirus-covid-19/rent-arrears-and-covid-19/](https://www.tenantsvic.org.au/advice/coronavirus-covid-19/rent-arrears-and-covid-19/)
+[Rent Arrears and Covid19](https://www.tenantsvic.org.au/advice/coronavirus-covid-19/rent-arrears-and-covid-19/)
 
-[https://www.consumer.vic.gov.au/housing/renting](https://www.consumer.vic.gov.au/housing/renting)
+[Consumer Victoria - Renting Information Centre](https://www.consumer.vic.gov.au/housing/renting)
 
-[https://www.consumer.vic.gov.au/resources-and-tools/advice-in-a-disaster/coronavirus-covid19-and-your-rights](https://www.consumer.vic.gov.au/resources-and-tools/advice-in-a-disaster/coronavirus-covid19-and-your-rights)
+[Covid19 and Your Rights](https://www.consumer.vic.gov.au/resources-and-tools/advice-in-a-disaster/coronavirus-covid19-and-your-rights)
 
-[https://www.housing.vic.gov.au/help-renting/rentrelief](https://www.housing.vic.gov.au/help-renting/rentrelief)
+[Housing - Rent Relief](https://www.housing.vic.gov.au/help-renting/rentrelief)
 
-[https://services.dhhs.vic.gov.au/housing](https://services.dhhs.vic.gov.au/housing)
+[DHHS - Housing](https://services.dhhs.vic.gov.au/housing)
 
-[http://www.housingregistrar.vic.gov.au/Information-for-tenants/Looking-for-housing](http://www.housingregistrar.vic.gov.au/Information-for-tenants/Looking-for-housing)
+[Looking for housing](http://www.housingregistrar.vic.gov.au/Information-for-tenants/Looking-for-housing)
 
-[https://www.legalaid.vic.gov.au/find-legal-answers/housing-and-tenancy/get-help](https://www.legalaid.vic.gov.au/find-legal-answers/housing-and-tenancy/get-help)
+[Legal Aid - Housing](https://www.legalaid.vic.gov.au/find-legal-answers/housing-and-tenancy/get-help)
 
-Aboriginal Services - [https://ahvic.org.au/](https://ahvic.org.au/)
+[Aboriginal Services](https://ahvic.org.au/)
 
-### Jobs and Employment - Who's hiring?
+## Jobs and Employment - Who's hiring?
 
 ### Australian Main Job Boards:
 
@@ -243,9 +235,9 @@ Aboriginal Services - [https://ahvic.org.au/](https://ahvic.org.au/)
 * [https://www.yellowjobs.com.au/jobseekers](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.yellowjobs.com.au%2Fjobseekers%3Ffbclid%3DIwAR1tdG0wmdwTYWtjQgXQMn4x7WlR6hOLSKcVjwYTW8yvPVIb9TafFvS0fDU&h=AT1QAwfFykLWggqm1BpgC7aPKLTl386YIDYS05ENuFuix_PK9B8v9YiGZrzJbq21c40_TjYzjjWrln8Kws3UbygxVF0RPxwXrXcn-ANY3btANyIUQfSlHUlw51j8YDTczg&__tn__=-UK-R&c%5B0%5D=AT2IjZ5LU9XhNzsZ_c_7gLVAXxogPqziinwBCg64egP66vJ1drngP2_e1-9br2CeLIDhRNcwYlaLfYSrxuTquXSR1CNGkuxwxnFxr0bhm2AgnrBDkCo8wL0m4iuP9zL91bQKq2lT3o2hTSTLs6Acq-5mssLdD1vwxLxON9bmW-UUbUx7CzRiKg)
 * [https://www.apsjobs.gov.au/](https://www.apsjobs.gov.au/)
 
-**Initiatives to help Job seekers:**
+### **Initiatives to help Job seekers:**
 
-### [https://joboutlook.gov.au/skills-match.aspx](https://joboutlook.gov.au/skills-match.aspx?fbclid=IwAR1C-CjC_Loa4Ds0v2OOUk3Tio9QkaOesZpXv8rghVYPNsyEeJR5QDQzXzg)
+[https://joboutlook.gov.au/skills-match.aspx](https://joboutlook.gov.au/skills-match.aspx?fbclid=IwAR1C-CjC_Loa4Ds0v2OOUk3Tio9QkaOesZpXv8rghVYPNsyEeJR5QDQzXzg)
 
 [http://www.jobsforaustralia.com/](http://www.jobsforaustralia.com/)
 
@@ -275,15 +267,15 @@ Covid-19 financial assistance resource -[Australian Financial Assistance](https:
 
 [ATO Covid-19](https://www.ato.gov.au/individuals/dealing-with-disasters/in-detail/specific-disasters/covid-19/)
 
-[https://www.sro.vic.gov.au/payroll-tax/covid-19-payroll-tax-relief-claim-reimbursement](https://www.sro.vic.gov.au/payroll-tax/covid-19-payroll-tax-relief-claim-reimbursement)
+[Payroll Tax Relief](https://www.sro.vic.gov.au/payroll-tax/covid-19-payroll-tax-relief-claim-reimbursement)
 
-[https://www.victorianchamber.com.au/business-support/crisis-information/covid-19-coronavirus-resources](https://www.victorianchamber.com.au/business-support/crisis-information/covid-19-coronavirus-resources)
+[Covid19 - Business Support](https://www.victorianchamber.com.au/business-support/crisis-information/covid-19-coronavirus-resources)
 
-[https://global.vic.gov.au/whatson/2020/april-2020/responding-to-coronavirus-covid19/summary-of-government-assistance-to-businesses-accessible](https://global.vic.gov.au/whatson/2020/april-2020/responding-to-coronavirus-covid19/summary-of-government-assistance-to-businesses-accessible)
+[Government assistance for Businesses](https://global.vic.gov.au/whatson/2020/april-2020/responding-to-coronavirus-covid19/summary-of-government-assistance-to-businesses-accessible)
 
-[https://www.commercialrealestate.com.au/news/victoria-announces-400-million-in-land-tax-relief-in-response-to-covid-19-downturn-948858/](https://www.commercialrealestate.com.au/news/victoria-announces-400-million-in-land-tax-relief-in-response-to-covid-19-downturn-948858/)
+[Land Tax Relief](https://www.commercialrealestate.com.au/news/victoria-announces-400-million-in-land-tax-relief-in-response-to-covid-19-downturn-948858/)
 
-[https://www.business.vic.gov.au/disputes-disasters-and-succession-planning/illness-and-business-management-plan/coronavirus-business-support](https://www.business.vic.gov.au/disputes-disasters-and-succession-planning/illness-and-business-management-plan/coronavirus-business-support)
+[Coronavirus Business Support](https://www.business.vic.gov.au/disputes-disasters-and-succession-planning/illness-and-business-management-plan/coronavirus-business-support)
 
 ### Small Business Assistance
 
@@ -327,5 +319,5 @@ Food Delivery to Vulnerable Communities Victoria
 
 ## Transport
 
-[Information and advice - Transport](https://www.ptv.vic.gov.au/more/coronavirus-covid-19/) Victoria
+[Information and advice - Transport Victoria](https://www.ptv.vic.gov.au/more/coronavirus-covid-19/)
 
