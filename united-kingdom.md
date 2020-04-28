@@ -1,5 +1,9 @@
 # United Kingdom
 
+{% hint style="info" %}
+**Help us make this page better.** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
+{% endhint %}
+
 * [Coronavirus in SCOTLAND](https://www.gov.scot/coronavirus-covid-19/)
 * [Coronavirus in WALES](https://gov.wales/coronavirus)
 * [Coronavirus in NORTHERN IRELAND](https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19)
@@ -47,16 +51,16 @@
 
 #### **Unemployment Benefits**
 
-* \*\*\*\*[**Unemployment - what to do if you’ve lost your job**](https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job)\*\*\*\*
-* \*\*\*\*[**On furlough - what to do if your employer has no work for you**](https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work)\*\*\*\*
-* \*\*\*\*[**Self-employed - what to do if you’re getting less or no work**](https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work)\*\*\*\*
+* [Unemployment - what to do if you’ve lost your job](https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job)
+* [On furlough - what to do if your employer has no work for you](https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work)
+* [Self-employed - what to do if you’re getting less or no work](https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work)
 
 #### **Tax Assistance**
 
 #### **Small Business Assistance**
 
-* \*\*\*\*[**Getting financial help and keeping your business safe - UK Gov site**](https://www.gov.uk/coronavirus/business-support)\*\*\*\*
-* \*\*\*\*[**Safety guidance for employers and employees**](https://www.gov.uk/government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19)\*\*\*\*
+* [Getting financial help and keeping your business safe - UK Gov site](https://www.gov.uk/coronavirus/business-support)
+* [Safety guidance for employers and employees](https://www.gov.uk/government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19)
 
 ### **Elderly \(65+\)**
 
@@ -64,13 +68,13 @@
 
 ### **Safety for Survivors of Violence**
 
-* \*\*\*\*[**Support for victims of domestic violence - UK gov site**](https://www.gov.uk/government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse)\*\*\*\*
+* [Support for victims of domestic violence - UK gov site](https://www.gov.uk/government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse)
 
 ### **Other Resources**
 
 ### **Donate Your Items or Money**
 
-* \*\*\*\*[**Donate to UNICEF to help children affected by COVID-19**](https://www.gov.uk/government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19)\*\*\*\*
+* [Donate to UNICEF to help children affected by COVID-19](https://www.gov.uk/government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19)
 
 ### **Volunteer Opportunities/How to Help**
 
