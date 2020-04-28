@@ -1,5 +1,9 @@
 # Georgia
 
+{% hint style="info" %}
+**Help us make this page better.** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
+{% endhint %}
+
 ## **Staying Informed** 
 
 * [Ga State Tax Deadline July 15th](https://www.ajc.com/news/state--regional-govt--politics/georgia-like-feds-will-move-tax-day-from-april-july/jjYrFFntaF7l76zNWIGA0I/)
