@@ -8,7 +8,7 @@
 
 Families, Children, and Youth \(0-17\)
 
-[Latest News / Resources for Families During School Closures](https://achieve.lausd.net/resources)- Info on LAUSD Grab'n Go meals for students
+* [Latest News / Resources for Families During School Closures](https://achieve.lausd.net/resources)- Info on LAUSD Grab'n Go meals for students
 
 ## Health
 
@@ -22,21 +22,20 @@ Families, Children, and Youth \(0-17\)
 
 ### Education
 
-[Latest News / Resources for Families During School Closures](https://achieve.lausd.net/resources)- Educational resources.
+* [Latest News / Resources for Families During School Closures](https://achieve.lausd.net/resources)- Educational resources.
 
 ## Finances
 
 ### Income Relief
 
-[COVID-19 Funds](https://lccf.org/covid-19-funds/)- Various COVID-19 Funds
-
-[Relief Fund for Hollywood Support Staff organized by Liz Alper](https://www.gofundme.com/f/44ndst-relief-fund-for-hollywood-support-staff)- Hollywood Support Staff COVID-19 Relief Fund
+* [COVID-19 Funds](https://lccf.org/covid-19-funds/)- Various COVID-19 Funds
+* [Relief Fund for Hollywood Support Staff organized by Liz Alper](https://www.gofundme.com/f/44ndst-relief-fund-for-hollywood-support-staff)- Hollywood Support Staff COVID-19 Relief Fund
 
 ### Housing
 
 ### Who's hiring?
 
-[LA Jobs Portal](https://lajobportal.com/)- Job leads and resources for the unemployed.
+* [LA Jobs Portal](https://lajobportal.com/)- Job leads and resources for the unemployed.
 
 ### Disability Benefits/Paid Sick Leave
 
@@ -50,11 +49,9 @@ Families, Children, and Youth \(0-17\)
 
 Food
 
-[Grocery Stores Open Early for Seniors](https://i.redd.it/xvnd2x5f5nn41.jpg)- Approx. Guide to "Seniors Only" Grocery Store Shopping Hours’
-
-[COVID-19 Information \| City of Los Angeles Department of Recreation and Parks](https://www.laparks.org/covid-19)- Info on Grab'n Go Meals for Seniors from LA Parks Dept.
-
-[Senior Nutrition Dining Sites](https://www.laparks.org/sites/default/files/pdf/press/Senior%20Nutrition%20Dining%20Sites.pdf)- Direct PDF link of LA Parks Grab'n Go meal locations
+* [Grocery Stores Open Early for Seniors](https://i.redd.it/xvnd2x5f5nn41.jpg)- Approx. Guide to "Seniors Only" Grocery Store Shopping Hours’
+* [COVID-19 Information \| City of Los Angeles Department of Recreation and Parks](https://www.laparks.org/covid-19)- Info on Grab'n Go Meals for Seniors from LA Parks Dept.
+* [Senior Nutrition Dining Sites](https://www.laparks.org/sites/default/files/pdf/press/Senior%20Nutrition%20Dining%20Sites.pdf)- Direct PDF link of LA Parks Grab'n Go meal locations
 
 ## Safety for Survivors of Violence
 
@@ -64,7 +61,6 @@ Food
 
 ## Volunteer Opportunities/How to Help
 
-[American Red Cross Faces Severe Blood Shortage As Coronavirus Outbreak Threatens Availability of Nation's Supply](https://www.redcross.org/about-us/news-and-events/press-release/2020/american-red-cross-faces-severe-blood-shortage-as-coronavirus-outbreak-threatens-availability-of-nations-supply.html)- Red Cross call for blood donors
-
-[VolunteerLA](https://volunteer.lamayor.org/)- General Los Angeles Volunteer opportunities portal
+* [American Red Cross Faces Severe Blood Shortage As Coronavirus Outbreak Threatens Availability of Nation's Supply](https://www.redcross.org/about-us/news-and-events/press-release/2020/american-red-cross-faces-severe-blood-shortage-as-coronavirus-outbreak-threatens-availability-of-nations-supply.html)- Red Cross call for blood donors
+* [VolunteerLA](https://volunteer.lamayor.org/)- General Los Angeles Volunteer opportunities portal
 
