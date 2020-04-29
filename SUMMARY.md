@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [Oceania - Countries/Territories](oceania-countries-territories.md)
 * [Australia](australia/README.md)
   * [Countrywide Resources](australia/countrywide-resources.md)
   * [Australian Capital Territory](australia/australian-capital-territory.md)
@@ -23,6 +22,7 @@
 * [India](india.md)
 * [Japan](japan.md)
 * [New Zealand](new-zealand.md)
+* [Oceania - Countries/Territories](oceania-countries-territories.md)
 * [Russia](russia.md)
 * [Turkey](turkey.md)
 * [United Kingdom](united-kingdom.md)
