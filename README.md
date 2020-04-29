@@ -1,12 +1,13 @@
 ---
 description: >-
-  Corona What Now is a hub of free resources that can help you, your family, and
-  your small business recover from the impact of coronavirus (COVID-19).
+  Corona What Now is a collection of free resources that can help you, your
+  family, and your small business recover from the impact of coronavirus
+  (COVID-19).
 ---
 
 # Home
 
-### Select Your Country
+## Select Your Country
 
 Recover from the impact of COVID-19 with these helpful resources.
 
