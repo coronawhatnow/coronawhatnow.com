@@ -143,6 +143,7 @@
 * [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/home)- a library for technologists, civic organisations, public and private institutions, researchers, educators and specialists of all kinds to collaborate on an agile and sophisticated response to the coronavirus outbreak and sequential impacts.
 * [COVID-19 Research Resources Canada](https://covid19resources.ca/) - a site for scientists & researchers, that provides access to reagents, equipment, human resources, and expertise.
 * [Ontario Beer Finder](https://www.beerfinder.ca/?fbclid=IwAR2sf77aZ3BekFfEGnErE257i1nhPf3gcuW2HDf8a6bk2WTgQPdr3MO6i7M) - connects you to Ontario breweries that will deliver, helping you to support independent businesses and stay home. 
+* [COVID Waiting Time](https://covid19-waiting-time.thejoin.tech/) - this online map calculates wait times for grocery stores, LCBOs, and pharmacies in Toronto. 
 
 ## Entertainment
 
