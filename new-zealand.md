@@ -137,7 +137,7 @@ Small Business - [Guidance for Employers](https://www.business.govt.nz/covid-19/
 
 [Helping Hand](https://helpinghand.nz/) - Volunteer initiative connecting people who need help with people who can help
 
-[Meat the Need](http://www.meattheneed.org) -  New Zealand's Farmers, Feeding New Zealand's Families - minced meat direct from farmers donated to those needing food supplies after loosing jobs.
+[Meat the Need](http://www.meattheneed.org) -  New Zealand's Farmers, Feeding New Zealand's Families - minced meat direct from farmers donated to those needing food supplies after losing jobs.
 
 ## Donate Your Items or Money
 
