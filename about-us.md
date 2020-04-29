@@ -1,8 +1,8 @@
 # About Us
 
-## Our Team
-
 Corona What Now \(CWN\) helps people and small business impacted by COVID-19 by connecting them with helpful resources. We are a volunteer-run effort that is focused on helping everyone globally. If we can help, we will.
+
+## Our Team
 
 <table>
   <thead>
