@@ -92,11 +92,11 @@ description: >-
       <td style="text-align:left">
         <p><b>Karthik Subbaiah | </b><a href="https://www.linkedin.com/in/karthiksubbaiah/">LinkedIn</a>
         </p>
-        <p>Leads Australia. Imagine wrapping a decade of your life into one bag and
-          move hemispheres? Well that&#x2019;s me moving from USA to Australia. Other
-          than that, not much has changed. I manage IT Projects for a living, love
-          bringing people together for a cause, golf when I can and stay loyal to
-          Cincinnati Bengals, come what may. Who Dey!</p>
+        <p>Leads Australia and New Zealand. Imagine wrapping a decade of your life
+          into one bag and move hemispheres? Well that&#x2019;s me moving from USA
+          to Australia. Other than that, not much has changed. I manage IT Projects
+          for a living, love bringing people together for a cause, golf when I can
+          and stay loyal to Cincinnati Bengals, come what may. Who Dey!</p>
       </td>
     </tr>
     <tr>
