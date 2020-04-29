@@ -81,4 +81,5 @@
 * [Offer the help of your business](https://www.gov.uk/coronavirus-support-from-business)
 * [How to help others safely](https://www.gov.uk/government/publications/coronavirus-how-to-help-safely--2)
 * [Tackle false information spread online](https://sharechecklist.gov.uk/)
+* [Helping Hand UK](www.hhand.org.uk)
 
