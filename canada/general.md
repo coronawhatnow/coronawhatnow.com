@@ -18,6 +18,7 @@
 
 * [Coronavirus in Canada: how to get tested, what the symptoms are, where to get help](https://www.macleans.ca/society/health/coronavirus-in-canada-how-to-get-tested-what-the-symptoms-are-where-to-get-help/?fbclid=IwAR2DU2ER4axgdowHLdz4aV2fGwLvyIds1OVmXC0JJbmYOQGzjWSgMXR2Rvw)
 * [Babylon by TELUS Health](https://www.telus.com/en/on/health/personal/babylon) -  A free healthcare mobile app that allows you to check symptoms, consult with doctors, and access your health records \(only available for Alberta and BC\).
+* [Pandemic Pregnancy Guide](https://www.instagram.com/pandemicpregnancyguide/) - a virtual hub focused on pregnancy and COVID-19 related information on Instagram. 
 
 ### Physical Health
 
