@@ -102,9 +102,10 @@
 
 ## Other Resources
 
-* [Coursera](https://www.coursera.org/) offers thousands of free online courses
+* [Coursera](https://www.coursera.org/) - offers thousands of free online courses.
 * [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/home)- a library for technologists, civic organisations, public and private institutions, researchers, educators and specialists of all kinds to collaborate on an agile and sophisticated response to the coronavirus outbreak and sequential impacts.
 * [COVID-19 Research Resources Canada](https://covid19resources.ca/) - a site for scientists & researchers, that provides access to reagents, equipment, human resources, and expertise.
+* [Offers for Essential Workers](https://docs.google.com/spreadsheets/d/1v3ktrvxXaClgrbD1KUzKomceFWV3jAw_H7rk7N51Lt4/edit?usp=sharing) - excel sheet with a list of discounts for healthcare and front-line workers.  
 
 ## Donate Your Items or Money
 
