@@ -34,7 +34,7 @@ description: >-
         <img src=".gitbook/assets/circle-cropped-3.png" alt/>
       </td>
       <td style="text-align:left">
-        <p><b>Nick Gamero</b>
+        <p><b>Nick Gamero | </b><a href="https://www.linkedin.com/in/nicholasgamero/">LinkedIn</a>
         </p>
         <p>Co-founder of CoronaWhatNow and leads New York. Cats, cooking, cards,
           and of course, Covid. These are Nick&apos;s 4 C&#x2019;s of quarantine.
