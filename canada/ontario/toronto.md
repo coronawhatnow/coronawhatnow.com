@@ -9,6 +9,7 @@
 * [Coronavirus disease \(COVID-19\): Outbreak update](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) - Government of Canada website. 
 * [Ontario List of Essential Workplaces](https://www.ontario.ca/page/list-essential-workplaces)
 * [Ontario Ministry of Health COVID-19 Information Updates](https://www.ontario.ca/page/2019-novel-coronavirus?_ga=2.83869855.888435990.1585183989-418767691.1583958102)
+* [COVID Chatbot](https://covidchatbot.com/) - this chatbot has a wide-range of info on COVID, including info on finding the closest services, mental health support, staying safe, and CERB qualifications. 
 
 ## Education
 
