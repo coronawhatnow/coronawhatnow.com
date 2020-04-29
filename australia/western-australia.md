@@ -72,15 +72,9 @@ Advice for food businesses - [Public Health - Food Industry](https://www2.health
 
 ### Self-Care
 
-Managing Stress and Anxiety during Covid19
+[Managing Stress & Anxiety - Covid-19](https://services.unimelb.edu.au/counsel/resources/wellbeing/coronavirus-covid-19-managing-stress-and-anxiety)
 
-[Stress & Anxiety - Covid-19](https://services.unimelb.edu.au/counsel/resources/wellbeing/coronavirus-covid-19-managing-stress-and-anxiety)
-
-Self-care during Covid19
-
-[Self Care Cover-19](https://www.orygen.org.au/About/Responding-to-the-COVID-19-outbreak/For-young-people-and-families/Self-care-during-the-COVID-19-outbreak)
-
-Self-care for GPs during Covid19 -
+[Self Care Covid-19](https://www.orygen.org.au/About/Responding-to-the-COVID-19-outbreak/For-young-people-and-families/Self-care-during-the-COVID-19-outbreak)
 
 [GP Self Care - Covid-19](https://westvicphn.com.au/about-us/latest-news/self-care-for-gps-in-the-time-of-covid-19/)
 
@@ -140,9 +134,9 @@ WA: [WA Resources](https://www.dvrcv.org.au/talk-someone/services-other-states/w
 
 ## Other Resources
 
-Utility and Tradie services
+### Utility and Tradie services
 
-24 hour services
+#### 24 hour services
 
 [Plumbing, water and drainage services](https://www.ontapplumbinggas.com.au/24-hour-emergency-plumber-perth/)
 
