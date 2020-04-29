@@ -26,15 +26,15 @@
 
 [Coronavirus New Caledonia](https://www.newcaledonia.travel/au/coronavirus)
 
+## Micronesia
+
+[Micronesia - Official Website with Covid19 Info](https://www.fsmgov.org/)
+
 ## Papua New Guinea
 
 [Official Covid19 Website](https://covid19.info.gov.pg/)
 
 [Coronavirus awareness - Videos and Posters](https://covid19.info.gov.pg/index.php/covid-19-awareness/)
-
-## Micronesia
-
-[Micronesia - Official Website with Covid19 Info](https://www.fsmgov.org/)
 
 ## Palau
 
