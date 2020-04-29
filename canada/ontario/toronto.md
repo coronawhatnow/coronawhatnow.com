@@ -140,6 +140,7 @@
 
 * [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/home)- a library for technologists, civic organisations, public and private institutions, researchers, educators and specialists of all kinds to collaborate on an agile and sophisticated response to the coronavirus outbreak and sequential impacts.
 * [COVID-19 Research Resources Canada](https://covid19resources.ca/) - a site for scientists & researchers, that provides access to reagents, equipment, human resources, and expertise.
+* [Ontario Beer Finder](https://www.beerfinder.ca/?fbclid=IwAR2sf77aZ3BekFfEGnErE257i1nhPf3gcuW2HDf8a6bk2WTgQPdr3MO6i7M) - connects you to Ontario breweries that will deliver, helping you to support independent businesses and stay home. 
 
 ## Entertainment
 
@@ -156,6 +157,7 @@
 * [Better Toronto Coalition Fund](https://torontofoundation.ca/better-toronto-coalition-fund) - A site to pool donations with other donors to support organizations on the front lines. 
 * [Good Shepherd](http://www.goodshepherd.ca/caring-for-the-homeless-during-covid-19/) - Donate supplies for making sandwiches, toiletries, men’s socks & jocks \(new only\).
 * [Operation Ramzieh : Crisis Relief Team](https://www.gofundme.com/f/operationramzieh) - Donate money to help a local group provide free food boxes to the elderly
+* [Presto Card Donations](https://docs.google.com/forms/d/e/1FAIpQLSdT8eSr33kfvzZAKooY5ww37-52ThVTeKfb2Ft3fFuGk0r2Uw/viewform?edit_requested=true&fbclid=IwAR0SX2-R2XC9TVoQN1pZ1S78VO6wyGblt9_hEokfpJTJqDG0jYLnN2LxV6k) - a group is collecting presto cards to donate to essential workers. If you are an essential worker, you can also sign-up via this link. [Donate Your Items or Money](https://app.gitbook.com/@coronavirus-what-now/s/main/~/drafts/-M66kIQhSWJZx71He45R/canada/ontario/toronto#donate-your-items-or-money)
 
 ## Volunteer Opportunities/How to Help
 
