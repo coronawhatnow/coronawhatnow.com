@@ -26,7 +26,7 @@ description: >-
         </p>
         <p>Co-founder of CoronaWhatNow. While sheltering in place in Oakland, he&apos;s
           currently donating most of his time to organizations fighting COVID-19
-          while figuring out how to keep a two-year old entertained.</p>
+          while figuring out how to keep his two-year old son entertained.</p>
       </td>
     </tr>
     <tr>
