@@ -129,6 +129,7 @@ Elderly \(65+\)
 * [Gig Workers Collective](https://www.gigworkerscollective.org/covid-19-resources?fbclid=IwAR1d5se9mwxufqPzan9g2ttqinMtU01cD7L8USsLf5HmZErYLQldwt6P3oU)- Gig Workers Collective - National & State resources
 * [Mutual Aid Hub](https://www.mutualaidhub.org/) - find community resources in your area
 * [InStok](https://www.instok.org/search) - See if items are in stock at local stores
+* [Offers for Essential Workers](https://docs.google.com/spreadsheets/d/1v3ktrvxXaClgrbD1KUzKomceFWV3jAw_H7rk7N51Lt4/edit?usp=sharing) - list of discounts being offered for healthcare and front line workers in the US
 
 ## Donate Your Items or Money
 
