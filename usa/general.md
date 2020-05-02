@@ -25,6 +25,7 @@
 * [Samhsa Crisis Hotline](https://www.samhsa.gov/find-help/disaster-distress-helpline)-Disaster Distress Helpline
 * [Samhsa Social Distancing ](https://www.samhsa.gov/sites/default/files/tips-social-distancing-quarantine-isolation-031620.pdf)- Tips for social Distancing
 * [Mental Health Services](https://docs.google.com/document/d/1mcmuJralTP_oPB-PF3siEeJV8yiG6vuXtjHx1_4mu48/edit?fbclid=IwAR0-_pk9tRrGZdrSz9ZNWDz-D1hMYyNnNNBZ9ZeegVld4Xk6tFyZK7uwaSg)
+* [Mental Health Screening Online](https://www.helpyourselfhelpothers.org/) - Resources if you are concerned with someone being suicidal, and online assessment resource for your own mental health - will direct to next steps and resources.
 
 ### Self-Care
 
@@ -38,6 +39,8 @@
 * [A Prompt a Day \(arts and crafts for Families\)](https://www.artbarblog.com/)
 * [Mo Willems, Lunchtime Doodles everyday at 1pm EST](https://www.facebook.com/events/2544781839094130/)
 * [Free Resources for Schools](https://thejournal.com/articles/2020/03/13/free-resources-ed-tech-companies-step-up-during-coronavirus-outbreak.aspx)
+* [Talking to Children About Stressful Events ](http://riversidetraumacenter.org/wp-content/uploads/2020/03/Managing-Reactions-to-the-Coronavirus.pdf?fbclid=IwAR006DoUSn1mgkIto9ojyBMzpQ87gkte7NLbhjT6lQS1Dg3nbH_xL3haFsk)
+* [Tips for Helping Homebound Children](https://www.cstsonline.org/assets/media/documents/CSTS_FS_Helping_Homebound_Children_during_COVID19_Outbreak.pdf) 
 
 ## Finances
 
