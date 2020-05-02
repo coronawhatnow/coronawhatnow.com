@@ -1,22 +1,15 @@
 # Alabama
 
-
-
-
-
 {% hint style="info" %}
 **Help us make this page better.** [Suggest links](https://forms.gle/ykTSst9uoWceo5fn8%20) or [sign up as a volunteer](https://forms.gle/8z7yuJyz1m76y4Hi8).
 {% endhint %}
 
 ## Food
 
-* [Colorado Children Emergency Feeding](http://www.cde.state.co.us/nutrition/nutriemergencyfeeding) - Free lunch meal program directory for local areas, food access programs, etc.
-* [Onward CO](https://onwardco.org/) - Connect to essential life services resources \(income relief, food, shelter, etc.\)
-* [Food Assistance State-wide Resource Links](https://www.colorado.gov/pacific/cdhs/colorado-food-assistance-and-covid-19)
+* [Break for a Plate](http://www.breakforaplate.com/) - State child food assistance in Alabama
+* See Other Resources
 
 ## Health
-
-* [Colorado find health care and insurance](https://www.colorado.gov/pacific/cdphe/categories/services-and-information/health/find-health-care-and-health-insurance)
 
 ### Specialized Health Resources for Communities
 
@@ -50,12 +43,11 @@
 
 ### Education
 
-* [Colorado School Resources](http://www.cde.state.co.us/safeschools) - Learning at home links, emergency feeding info, and other guidance.
+* [Born Ready](https://bornready.org/covid19resources/) - Resources for learning and activities for children
 
 ## Finances
 
 * [Social Security Administration COVID-19 Resources](https://www.ssa.gov/coronavirus/)
-* See Onward CO link throughout - one stop resource for CO.
 
 ### Income Relief
 
@@ -65,16 +57,17 @@
 
 ### Housing
 
-* [Colorado Tenant's Guide to COVID 19 ](https://docs.google.com/document/d/e/2PACX-1vQABJuY4-YZmSk_OEYKOaWD4Vmw1_7wiDHmEoIjTqoBnqPsfQgNXDQgYf5_hT9zJjejaIfAfMnVBJZn/pub)\(Updated Periodically\)
+* [Alabama HUD Info](https://www.hud.gov/states/alabama) - Avoid foreclosure, get rental help, talk to a counselor
 * [COVID-19 Information and Resources \| HUD.gov / US Department of Housing and Urban Development](https://www.hud.gov/coronavirus)
 
 ### Who's hiring?
 
-* [Onward CO](https://onwardco.org/) - Get matched to resources and jobs in Colorado
+* [Alabama Works](https://alabamaworks.alabama.gov/vosnet/Default.aspx) - Search for jobs through state wide services
 
 ### Unemployment Benefits
 
-* [Colorado Unemployment](https://www.colorado.gov/cdle/unemployment) - File for regular unemployment, pandemic assistance or extension of existing benefits.
+* [File a claim in Alabama](https://continuedclaims.labor.alabama.gov/)
+* [Apply for Pandemic Unemployment Assistance](https://www.labor.alabama.gov/newsfeed/news_covid19/how%20to%20apply%20for%20pua.pdf)
 
 ### Tax Assistance
 
@@ -84,6 +77,7 @@
 ### Small Business Assistance
 
 * [Federal Support for Small Businesses](https://www.coronavirus.gov/smallbusiness)
+* [Atlas Alabama ](https://atlasalabama.gov/)- Small Business resources and funds
 
 ## Elderly \(65+\)
 
@@ -92,14 +86,13 @@
 
 ## Safety for Survivors of Violence
 
-* [Violence Free Colorado](https://www.violencefreecolorado.org/2020/03/covid-19-coronavirus-information/) - State wide resources in both English and Spanish.
+* [Help in Alabama during COVID 19](https://www.alarise.org/blog-posts/how-to-get-help-in-alabama-during-the-covid-19-crisis/)
 * National Domestic Violence Hotline - 800-799-SAFE \(7233\)
 
 ## Other Resources
 
-* [Colorado 211](https://www.211colorado.org/covid-19/) - List of resource links for specific counties in Colorado.  Text your zip code to 898-211 to ask for additional resources, or chat through the website.
-* See Onward CO link throughout - one stop resource for CO.
-* [Colorado Resiliency](https://www.coresiliency.com/covid19) - State run website with links related to COVID 19 guidelines, resources, etc.
+* [Alabama COVID Resource Hub](https://www.servealabama.gov/covid19) - Contains food assistance links, homeless shelters, and other resource links.
+* [211 Connects Alabama](http://www.211connectsalabama.org/) - United Way resources for Alabama
 * [COVID-19 Resources for Family Caregivers](https://www.caregiver.org/coronavirus-covid-19-resources-and-articles-family-caregivers)
   * [Resources specifically for caregivers](https://www.caregiving.org/resources/covid-19-resources-for-caregivers)
 * [National Council on Independent Living](https://ncil.org/covid-19/)
@@ -107,11 +100,11 @@
 ## Donate Your Items or Money
 
 * [Feeding America](https://www.feedingamerica.org/take-action/coronavirus?s_onsite_promo=lightbox)
-* [Colorado COVID Relief Fund](https://helpcoloradonow.org/)
+* [Altogether Alabama](https://altogetheralabama.org/) - Both to find help or lend a hand to those needing help.
 
 ## Volunteer Opportunities/How to Help
 
-* [Colorado Volunteer Registration](https://coloradoresponds.communityos.org/volunteer-registration) - Connect with organizations in need based on your availability.  Can be virtual or in-person.
-* [Healthcare Volunteers and Facilities](https://cohealthvol.nationbuilder.com/) - Sign up to be a volunteer or connect your facility to volunteers in Colorado.
-* [Blood or Plasma Donation](https://www.vitalant.org/Home.aspx)
+* [Community Blood Donation](https://donors.lifesouth.org/donor/schedules/zip)
+* [Find Plasma Donation Center](https://www.donatingplasma.org/donation/find-a-donor-center)
+* [Alabama ReadyOp](https://www.servealabama.gov/alabamareadyop) - Sign up to register to be a volunteer for both medical and non-medical personnel.
 
