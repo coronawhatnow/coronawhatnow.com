@@ -8,15 +8,26 @@
 
 [Australian Government WhatsApp for Mobile Information](http://aus.gov.au/whatsapp)
 
-[COVID19 - Current Situation and Case Numbers](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers) - Australian Government, Department of Health Website
+[COVIDSafe app Download](https://www.health.gov.au/resources/apps-and-tools/covidsafe-app)
 
 [Australian Government Coronavirus \(Covid-19\)](https://www.australia.gov.au/?fbclid=IwAR1COwNeE_R1-IIlGFaLPFu0RQLDmefFrwvkTtD3pJpRNKxzLAA2WsrZ6VY)
 
 [ABC News Coronavirus Stream](https://www.abc.net.au/news/story-streams/coronavirus/)
 
-South Australia -[South Australia](https://www.sa.gov.au/covid-19)
+[COVID19 - Current Situation and Case Numbers](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers)
+
+[Current Status - Coronavirus \(COVID-19\) at a glance](https://www.health.gov.au/resources/publications/coronavirus-covid-19-at-a-glance)
+
+### **South Australia COVID19 Information:** 
+
+[South Australia Health](https://www.sa.gov.au/covid-19)
+
+[South Australia Facebook page](https://www.facebook.com/sahealth/)
 
 [South Australia Government councils](https://www.ecsa.sa.gov.au/council-links)
+
+ South Australia -  [COVID-19 Cases and Community Profile](https://www.covid-19.sa.gov.au/home/dashboard)  
+
 
 ## Food
 
@@ -28,47 +39,79 @@ What is causing food shortages - Distribution, not production.
 
 [Cause of Food Shortages](https://www.abc.net.au/news/2020-03-18/coronavirus-sees-surge-in-seed-sales-and-country-shopping/12065776)
 
+[FoodBank South Australia](https://www.foodbank.org.au/SA/?state=sa)
+
+[Public Health - Food Industry](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/protecting+public+health/food+standards/food+standards)
+
+[Meals on Wheels](https://www.mealsonwheelssa.org.au)
+
 ## Health
 
 ### Specialized Health Resources for Communities
 
-Advice for health and aged care sector - [Health & Aged Care Sector](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+services/health+services+by+group/older+people)
+[Australian Health](https://www.health.gov.au/resources/collections/novel-coronavirus-2019-ncov-resources)
 
-Health Alert Covid 19 - Australia [Covid-19 News](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/latest+updates+-+covid-19)
+[Health Services](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/)
 
-Health Services [South Australian Health Services Links](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+services)
+[Aboriginal Community Controlled Health Services](https://ahcsa.org.au)
 
-[South Australia - COVID -Test centers](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/covid-19+response/covid-19+clinics+and+testing+centres)
+[Search Health Services](https://www.healthdirect.gov.au/australian-health-services)
+
+[SoNG: Health Advice](https://www1.health.gov.au/internet/main/publishing.nsf/Content/cdna-song-novel-coronavirus.htm)
+
+[Rural SA Doctors Support](https://www.ruraldoc.com.au)
+
+[South Australia -  COVID -Test centers](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/covid-19+response/covid-19+clinics+and+testing+centres)
+
+### Aged Care
+
+[Health & Aged Care Sector](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+services/health+services+by+group/older+people)
+
+[Guidance for Residential Aged Care Facilities](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+services/health+services+by+group/older+people)
+
+General Aged care quality and safety - [Aged Care](https://www.myagedcare.gov.au/)
+
+[Aged care guide](https://www.agedcareguide.com.au/) - For all states
 
 ### Mental Health
 
-Covid 19 - Comprehensive mental health resources and links -
+[Aged care and dementia support](https://www.carerssa.com.au)
 
-[Mental Health Covid-19](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/community/covid-19+mental+health+support)
+[Mental Health Information and Tips](https://samentalhealthcommission.com.au)
 
-[Heads Up: Work & Your Mental Health During Covid-19](https://www.headsup.org.au/your-mental-health/work-and-your-mental-health-during-the-coronavirus-outbreak?fbclid=IwAR3U2c0c9u7gJUYTu0naeDoKC9vT2luyinfD2Sg0cl96-Yl-Pk8fQnt8Jf8)
+[Mental Health at Work](https://www.safework.sa.gov.au)
 
-[Beyond Blue](https://www.beyondblue.org.au/)
+[Mental Health Skills Training](https://www.safework.sa.gov.au/workers/health-and-wellbeing/mental-health)
 
-[Life Line](https://www.lifeline.org.au/)
+[Primary Health Network](https://adelaidephn.com.au)
 
-[Domestic Violence](http://whiteribbon.org.au/)
+[Health SA - Mental Health Information](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/community/covid-19+mental+health+support)
 
-[Help Lines](https://www.sa.gov.au/topics/family-and-community/safety-and-health/domestic-violence-and-sexual-assault/support-services)
+[SA Health Alert - Covid 19 news](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/latest+updates+-+covid-19)
+
+#### Urgent support for Mental ill-Health
+
+* [Lifeline Australia](https://www.lifeline.org.au/)
+* [Kids Helpline](https://kidshelpline.com.au/)
+* [MensLine Australia](https://mensline.org.au/)
+* [Suicide Call Back Service](https://www.suicidecallbackservice.org.au/)
+* [Beyond Blue](https://www.beyondblue.org.au/)
+* [Service Centres-SA](https://service.sa.gov.au)
+* [ClubsSA](https://www.clubssa.com.au)
+* [Homeless Support - SA](https://www.sa.gov.au/topics/housing/emergency-shelter-and-homelessness/homelessness-service-providers) 
 
 ### Self-Care
 
-Managing Stress and Anxiety during Covid19
+[Managing Stress & Anxiety - Covid-19](https://www.sahealth.sa.gov.au/wps/wcm/connect/f584ac43-db54-44d5-a5df-82c6415f18d7/20200409+Mental+Health+and+COVID-19+Fact+Sheet+-+Information+for+the+community.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f584ac43-db54-44d5-a5df-82c6415f18d7-n5tcme3)  
 
-[Stress & Anxiety - Covid-19](https://www.sahealth.sa.gov.au/wps/wcm/connect/f584ac43-db54-44d5-a5df-82c6415f18d7/20200409+Mental+Health+and+COVID-19+Fact+Sheet+-+Information+for+the+community.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f584ac43-db54-44d5-a5df-82c6415f18d7-n5tcme3)
 
-Self-care during Covid19
-
-[Self Care Covid-19](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/community/self-isolation+and+quarantine+advice+for+covid-19+%28coronavirus%29)
-
-Self-care for GPs during Covid19 -
+[Self Care Covid-19](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/community/self-isolation+and+quarantine+advice+for+covid-19+%2528coronavirus%2529)
 
 [GP Self Care - Covid-19](http://emergencydepartments.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/health+professionals)
+
+[Self- Quarantine](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/how-to-protect-yourself-and-others-from-coronavirus-covid-19/self-isolation-self-quarantine-for-coronavirus-covid-19)
+
+[CoronaVirus Information For General Practitioner](https://adelaidephn.com.au/covid-19-provider-update)
 
 ## Childcare
 
@@ -78,33 +121,19 @@ Self-care for GPs during Covid19 -
 
 **South Australia Resources - Education and Training**
 
-Advice for schools -
+Advice for schools - [SA Schools](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus)
 
-[SA Schools](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus)
+Advice for early childhood services - [SA Early Learning Centres](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus/school-and-preschool-closures-and-reopenings)
 
-Advice for early childhood services -
+Advice for parents, carers and guardians - [SA Parents & Guardians](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus/frequently-asked-questions-about-covid-19-parents-and-carers)
 
-[SA Early Learning Centres](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus/school-and-preschool-closures-and-reopenings)
+Advice for international students - [SA International Students](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus)
 
-Advice for parents, carers and guardians -
+Support for Students - [University of Adelaide](https://www.adelaide.edu.au/covid-19/student-information/student-support-package)
 
-[SA Parents & Guardians](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus/frequently-asked-questions-about-covid-19-parents-and-carers)
+Kids Helpline - [Kids Helpline Number](https://kidshelpline.com.au/)
 
-Advice for international students -
-
-[SA International Students](https://www.education.sa.gov.au/supporting-students/health-e-safety-and-wellbeing/covid-19-coronavirus)
-
-Support for Students
-
-[University of](https://www.adelaide.edu.au/covid-19/student-information/student-support-package) Adelaide
-
-Kids Helpline
-
-[Kids Helpline Number](https://kidshelpline.com.au/)
-
-TAFE: Students Services
-
-[https://www.tafesa.edu.au/services/health-advice](https://www.tafesa.edu.au/services/health-advice)
+TAFE - [Students Services](https://www.tafesa.edu.au/services/health-advice)
 
 ## Finances
 
@@ -117,6 +146,12 @@ Covid-19 financial assistance resource -[Australian Financial Assistance](https:
 If you need a payment - Covid19 - Youth allowance, Jobseeker, Parent
 
 [CentreLink](https://www.servicesaustralia.gov.au/individuals/subjects/affected-coronavirus-covid-19/if-you-need-payment-coronavirus-covid-19)
+
+[SA services for primary industries](https://www.pir.sa.gov.au)
+
+[How job seekers can access $1500 during coronavirus crisis](https://7news.com.au/lifestyle/health-wellbeing/covid-cash-how-job-seekers-can-access-1500-during-coronavirus-crisis-c-962995)
+
+[Bank Help: Personal, Small business](https://www.ausbanking.org.au/covid-19/the-personal-relief-package/)
 
 ### Housing
 
