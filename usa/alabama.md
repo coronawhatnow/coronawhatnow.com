@@ -7,7 +7,7 @@
 ## Food
 
 * [Break for a Plate](http://www.breakforaplate.com/) - State child food assistance in Alabama
-* See Other Resources
+* See Other Resources area for link hubs
 
 ## Health
 
