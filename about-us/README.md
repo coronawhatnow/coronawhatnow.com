@@ -173,7 +173,7 @@ description: >-
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p><b>Kachina Gosselin</b>
+        <p><b>Kachina Gosselin | </b><a href="https://www.linkedin.com/in/kachinagosselin/">LinkedIn</a>
         </p>
         <p>Leads Texas.</p>
       </td>
