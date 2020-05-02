@@ -147,7 +147,7 @@ description: >-
         <img src="../.gitbook/assets/circle-cropped-9-1.png" alt/>
       </td>
       <td style="text-align:left">
-        <p><b>Bilal Azonobi</b>
+        <p><b>Bilal Azonobi | </b><a href="https://www.linkedin.com/in/bilal-azonobi-82929733/">LinkedIn</a>
         </p>
         <p>Leads Georgia. Bilal studied in Damascus and taught languages in fifteen
           countries on five continents. He currently helps communities avoid foreclosures
