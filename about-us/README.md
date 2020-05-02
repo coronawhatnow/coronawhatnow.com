@@ -129,6 +129,18 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
+        <img src="../.gitbook/assets/circle-cropped-1.png" alt/>
+      </td>
+      <td style="text-align:left">
+        <p><b>Ali Croft</b> | <a href="www.skirvenandcroft.com">www.skirvenandcroft.com</a>
+        </p>
+        <p>I&apos;m a graphic designer focused on working with mission-driven organizations
+          &amp; businesses to increase efficiency, reach, and results through strategic
+          visual storytelling.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
         <img src="../.gitbook/assets/circle-cropped-10-1.png" alt/>
       </td>
       <td style="text-align:left">
