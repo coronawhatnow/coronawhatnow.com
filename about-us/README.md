@@ -1,8 +1,8 @@
 ---
 description: >-
   Corona What Now (CWN) helps people and small business impacted by COVID-19 by
-  connecting them with helpful resources. We are a volunteer-run effort that is
-  focused on helping everyone globally.
+  connecting them with helpful resources. We are a volunteer-run, global effort
+  focused on helping everyone, everywhere.
 ---
 
 # About Us
@@ -19,7 +19,7 @@ description: >-
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-8.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-8.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Matt Kelly </b>| <a href="https://www.linkedin.com/in/mattwkelly">LinkedIn</a>
@@ -31,7 +31,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-3.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-3.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Nick Gamero | </b><a href="https://www.linkedin.com/in/nicholasgamero/">LinkedIn</a>
@@ -45,7 +45,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped (1).png" alt/>
+        <img src="../.gitbook/assets/circle-cropped (1).png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Jill VerDow</b> | <a href="https://www.linkedin.com/in/jillian-verdow-1979a9bb/">LinkedIn</a>
@@ -58,7 +58,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-2.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-2.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Lily Merritt </b>| <a href="https://www.linkedin.com/in/lily-gedney-merritt-3995327/">LinkedIn</a>
@@ -73,7 +73,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-6.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-6.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Chantel Kowalchuk </b>| <a href="https://www.linkedin.com/in/chantel-kowalchuk/">LinkedIn</a>
@@ -87,7 +87,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-7.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-7.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Karthik Subbaiah | </b><a href="https://www.linkedin.com/in/karthiksubbaiah/">LinkedIn</a>
@@ -101,7 +101,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-4.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-4.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Emily Powell</b>
@@ -114,7 +114,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-5.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-5.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Soujanya Jammalamadaka</b> | <a href="https://www.linkedin.com/in/soujanya-jammalamadaka-45969482/">LinkedIn</a>
@@ -128,7 +128,9 @@ description: >-
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/circle-cropped-10-1.png" alt/>
+      </td>
       <td style="text-align:left">
         <p><b>Sinem Urgurdag</b>
         </p>
@@ -138,6 +140,18 @@ description: >-
           I believe everyone is responsible for their own body and then for the creatures
           around them, and that every individual who is aware of this should create
           awareness.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/circle-cropped-9-1.png" alt/>
+      </td>
+      <td style="text-align:left">
+        <p><b>Bilal Azonobi</b>
+        </p>
+        <p>Leads Georgia. Bilal studied in Damascus and taught languages in fifteen
+          countries on five continents. He currently helps communities avoid foreclosures
+          and evictions.</p>
       </td>
     </tr>
     <tr>
@@ -162,14 +176,6 @@ description: >-
         <p><b>Kachina Gosselin</b>
         </p>
         <p>Leads Texas.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p><b>Bilal Azonobi</b>
-        </p>
-        <p>Leads Georgia.</p>
       </td>
     </tr>
     <tr>
