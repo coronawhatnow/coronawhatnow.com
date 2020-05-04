@@ -34,7 +34,7 @@
 
 [The Staple Bag](https://www.thestaplesbag.ssi.org.au/)
 
-Free Food for Intl.Students - [https://www.ozbargain.com.au/node/527144](https://www.ozbargain.com.au/node/527144)
+[Free Food for International Students](https://www.ozbargain.com.au/node/527144)
 
 ## Health
 
@@ -48,7 +48,7 @@ Free Food for Intl.Students - [https://www.ozbargain.com.au/node/527144](https:/
 
 [SoNG: Health Advice](https://www1.health.gov.au/internet/main/publishing.nsf/Content/cdna-song-novel-coronavirus.htm)
 
-Rural NSW Doctors Support - [https://www.nswrdn.com.au/covid-19](https://www.nswrdn.com.au/covid-19)
+[Rural NSW Doctors Support](https://www.nswrdn.com.au/covid-19)
 
 [NSW- COVID -Test centers](https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus-clinics.aspx)
 
@@ -80,7 +80,7 @@ General Aged care quality and safety [Aged Care](https://www.myagedcare.gov.au/)
 
 ### Managing Stress and Anxiety during Covid19
 
-[Stress & Anxiety - Covid-19](https://services.unimelb.edu.au/counsel/resources/wellbeing/coronavirus-covid-19-managing-stress-and-anxiety) - TODO - Find links for NSW
+[Stress & Anxiety - Covid-19](https://services.unimelb.edu.au/counsel/resources/wellbeing/coronavirus-covid-19-managing-stress-and-anxiety)
 
 ### Self-care during Covid19
 
@@ -122,23 +122,20 @@ Advice for international students -
 
 [NSW International Students](https://www.service.nsw.gov.au/guide/support-international-students)
 
-Support for Students
+Support for Students - 
 
 [University of Sydney](https://www.sydney.edu.au/study/coronavirus-infection-university-of-sydney-advice/support.html)
 
-Kids Helpline
+Kids Helpline - 
 
 [Kids Helpline Number](https://kidshelpline.com.au/)
 
-TAFE: Students Services
+TAFE: Students Services - 
 
-[https://www.tafensw.edu.au/urgent-updates](https://www.tafensw.edu.au/urgent-updates)
+* [Urgent Updates](https://www.tafensw.edu.au/urgent-updates)
+* [Fee Free Short Courses](https://www.tafensw.edu.au/fee-free-short-courses)
 
-[https://www.tafensw.edu.au/fee-free-short-courses](https://www.tafensw.edu.au/fee-free-short-courses)
-
-Trainings -
-
-[Trainings and Internships](https://www.training.nsw.gov.au/apprenticeships_traineeships/employers/roles_responsibilities.html)
+[Training and Internships](https://www.training.nsw.gov.au/apprenticeships_traineeships/employers/roles_responsibilities.html)
 
 ## Finances
 
@@ -226,15 +223,10 @@ NSW: [NSW Women's DV](https://www.women.nsw.gov.au/strategies-and-resources/nsw-
 
 #### Donations:
 
-[https://www.foodbank.org.au/covid-19-nswact/?state=nsw-act](https://www.foodbank.org.au/covid-19-nswact/?state=nsw-act)
-
-[https://www.vinnies.org.au/page/News/NSW/](https://www.vinnies.org.au/page/News/NSW/)
-
-[https://www.salvationarmy.org.au/about-us/news-and-stories/stories/salvos-respond-to-novel-coronavirus-covid-19/](https://www.salvationarmy.org.au/about-us/news-and-stories/stories/salvos-respond-to-novel-coronavirus-covid-19/)
-
-NSW Donations Links:
-
-[https://www.service.nsw.gov.au/campaign/bushfire-customer-care-service/donations](https://www.service.nsw.gov.au/campaign/bushfire-customer-care-service/donations)
+* [Foodbank](https://www.foodbank.org.au/covid-19-nswact/?state=nsw-act)
+* [Vinnies](https://www.vinnies.org.au/page/News/NSW/)
+* [Salvation Army](https://www.salvationarmy.org.au/about-us/news-and-stories/stories/salvos-respond-to-novel-coronavirus-covid-19/)
+* [NSW Donations Link](https://www.service.nsw.gov.au/campaign/bushfire-customer-care-service/donations)
 
 ## Transport
 

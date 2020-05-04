@@ -51,7 +51,7 @@
     * [Seattle](usa/washington/seattle.md)
   * [Wisconsin](usa/wisconsin/README.md)
     * [Milwaukee](usa/wisconsin/milwaukee.md)
-* [About Us](about-us/README.md)
-  * [Frequently Asked Questions](about-us/frequently-asked-questions.md)
+* [About Us](about-us.md)
 * [Data Resources](data-resources.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 
