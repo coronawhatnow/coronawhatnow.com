@@ -109,7 +109,7 @@ Kiwi Health Jobs - Covid19 - [Expression of Interest](https://www.kiwihealthjobs
 
 ### Tax Assistance
 
-[Inland Revenue Homepage](https://www.ird.govt.nz/covid-19/tax-relief)
+[Inland Revenue Homepage](https://www.ird.govt.nz/covid-19)
 
 [Commercial property - Renting, Buying and Selling](https://www.ird.govt.nz/property/commercial-property-renting-out-buying-and-selling)
 
