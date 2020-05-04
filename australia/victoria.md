@@ -176,8 +176,6 @@ Covid 19 - Comprehensive mental health resources and links -
 
 [Federal Education Department](https://www.education.gov.au/)
 
-[International Student Emergency Relief Fund](https://www.studymelbourne.vic.gov.au/news-updates/international-student-emergency-relief-fund)
-
 #### Victoria Resources - Education and Training
 
 Advice for schools -

@@ -78,9 +78,7 @@ Self-care for GPs during Covid19 -
 
 [Federal Education Department](https://www.education.gov.au)
 
-**Victoria Resources - Education and Training**
-
-Advice for schools -
+#### Advice for schools -
 
 [Victorian Schools](https://www.education.vic.gov.au/school/Pages/coronavirus-advice-schools.aspx)
 
