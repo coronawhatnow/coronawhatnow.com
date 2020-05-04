@@ -1,3 +1,7 @@
+---
+description: Actionable resources for people affected by Coronavirus in New Zealand
+---
+
 # New Zealand
 
 {% hint style="info" %}
