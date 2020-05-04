@@ -44,6 +44,7 @@
 
 * [General FAQ from Workers Regarding COVID-19](https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Frequently-Asked-Questions-from-Workers-Regarding-COVID-19.pdf) - What to do if you’ve lost a job, are sick, etc. \(All VA\)
 * [Loudoun County Utilities Help](https://www.loudoun.gov/5325/COVID-19-Utilities) - Contains listing of utilities companies and their COVID help website links and contact info. \(Loudoun County\)
+* [Covid-19 Financial Guide](http://annuity.org/financial-literacy/covid-19-financial-guide/) - Annuity.org
 
 ### Income Relief
 
