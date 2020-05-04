@@ -64,7 +64,7 @@
 
 [Guidance on Education](https://covid19.govt.nz/individuals-and-households/parents-caregivers-whanau-and-teachers/education/)
 
-[COVID-19](http://www.education.govt.nz/covid-19/) - Information and advice for students, whānau, and the education sector
+[COVID-19 - Information and advice for students, whānau, and the education sector](http://www.education.govt.nz/covid-19/)
 
 [Information for International Students](https://enz.govt.nz/news-and-research/ed-news/covid-19-novel-coronavirus-information-for-students-agents-and-peak-bodies/)
 
