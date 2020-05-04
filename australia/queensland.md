@@ -102,7 +102,7 @@ Advice for international students -
 
 ## Finances
 
-### Income Relief - [Centrelink](https://www.centrelink.gov.au/)
+Income Relief - [Centrelink](https://www.centrelink.gov.au/)
 
 Covid-19 financial assistance resource -[Australian Financial Assistance](https://moneysmart.gov.au/covid-19-financial-assistance)
 
