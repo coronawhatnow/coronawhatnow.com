@@ -12,6 +12,14 @@ description: Actionable resources for people affected by Coronavirus in New Zeal
 
 [Live COVID19 Numbers](https://www.bing.com/covid/local/newzealand)
 
+[NZ Covid-19 Dashboard](https://nzcoviddashboard.esr.cri.nz/)
+
+[Ping Insights Covid-19 Cases in NZ](https://pinginsights.nz/covid-19-cases-in-new-zealand/)
+
+[Ministry of Health Current Cases](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases)
+
+[Corona Tracker New Zealand](https://www.coronatracker.com/country/new-zealand/)
+
 [Covid19 National Information Page](https://covid19.govt.nz/)
 
 [Latest updates from NZ Government](https://covid19.govt.nz/latest-updates/)
@@ -30,7 +38,13 @@ description: Actionable resources for people affected by Coronavirus in New Zeal
 
 [Restaurant Association of NZ](https://www.restaurantnz.co.nz/2020/03/12/advice-for-members-on-the-coronavirus-outbreak/) - Information Page
 
+[PDF of Foodbanks in NZ](https://lookaside.fbsbx.com/file/FOOD%20BANK%20DIRECTORY.pdf) - compiled by [Friends in Need NZ](https://www.facebook.com/groups/565915170941737/)
+
+[PDF of Foodbanks in Auckland](https://static1.squarespace.com/static/5cca54599e483d0001fff53b/t/5e97bbeb6c3087496bd8dd9c/1587002347256/Updated+13+April_List+of+Free+Food+Parcels+and+Food+Support+in+Auckland.pdf)
+
 ## Health
+
+[Ministry of Health Advice](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public)
 
 ### Specialised Health Resources for Communities
 
@@ -131,9 +145,17 @@ Small Business - [Guidance for Employers](https://www.business.govt.nz/covid-19/
 
 [COVID-19: Disability, aged care and hospice providers](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-resources-health-professionals/covid-19-disability-aged-care-and-hospice-providers#disability)
 
+[Hospice New Zealand - Find a Hospice](https://www.hospice.org.nz/what-is-hospice/find-your-local-hospice/)
+
+## Kids Lockdown Activities
+
+[Colour Our Story](https://www.colourourstory.com/)
+
 ## Safety for Survivors of Violence
 
 [Family violence and sexual violence prevention](https://covid19.govt.nz/individuals-and-households/health-and-wellbeing/family-violence-and-sexual-violence-prevention/#helplines-are-available)
+
+[Safe Bubble](https://safebubble.org.nz/)
 
 ## Other Resources
 
@@ -159,3 +181,6 @@ Volunteering New Zealand - [Information Page](https://www.volunteeringnz.org.nz/
 
 [Contact Local Civil Defence Group](https://covid19.govt.nz/individuals-and-households/shopping/if-you-cant-get-essential-supplies/#contact-your-local-civil-defence-group)
 
+## Other Covid-19 Directories
+
+[Belong Aotearoa Covid-19 Resources](https://www.belong.org.nz/covid19-resources)
