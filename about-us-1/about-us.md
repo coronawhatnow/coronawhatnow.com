@@ -5,9 +5,7 @@ description: >-
   focused on helping everyone, everywhere.
 ---
 
-# About Us
-
-## Our Team
+# Our Team
 
 <table>
   <thead>
@@ -19,7 +17,7 @@ description: >-
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-8.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-8.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Matt Kelly </b>| <a href="https://www.linkedin.com/in/mattwkelly">LinkedIn</a>
@@ -31,7 +29,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-3.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-3.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Nick Gamero | </b><a href="https://www.linkedin.com/in/nicholasgamero/">LinkedIn</a>
@@ -45,7 +43,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped (1).png" alt/>
+        <img src="../.gitbook/assets/circle-cropped (1).png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Jill VerDow</b> | <a href="https://www.linkedin.com/in/jillian-verdow-1979a9bb/">LinkedIn</a>
@@ -58,7 +56,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-2.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-2.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Lily Merritt </b>| <a href="https://www.linkedin.com/in/lily-gedney-merritt-3995327/">LinkedIn</a>
@@ -73,7 +71,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-6.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-6.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Chantel Kowalchuk </b>| <a href="https://www.linkedin.com/in/chantel-kowalchuk/">LinkedIn</a>
@@ -87,7 +85,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-7.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-7.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Karthik Subbaiah | </b><a href="https://www.linkedin.com/in/karthiksubbaiah/">LinkedIn</a>
@@ -101,7 +99,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-4.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-4.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Emily Powell</b>
@@ -114,7 +112,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-5.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-5.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Soujanya Jammalamadaka</b> | <a href="https://www.linkedin.com/in/soujanya-jammalamadaka-45969482/">LinkedIn</a>
@@ -129,7 +127,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-1.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-1.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Ali Croft</b> | <a href="www.skirvenandcroft.com">www.skirvenandcroft.com</a>
@@ -141,7 +139,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-10-1.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-10-1.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Sinem Urgurdag</b>
@@ -156,7 +154,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/circle-cropped-9-1.png" alt/>
+        <img src="../.gitbook/assets/circle-cropped-9-1.png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Bilal Azonobi | </b><a href="https://www.linkedin.com/in/bilal-azonobi-82929733/">LinkedIn</a>
