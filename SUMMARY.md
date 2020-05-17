@@ -5,6 +5,7 @@
 ## Help by Location
 
 * [USA](usa/README.md)
+  * [Texas](usa/texas.md)
   * [Countrywide Resources](usa/general.md)
   * [Alabama](usa/alabama.md)
   * [California](usa/california/README.md)
