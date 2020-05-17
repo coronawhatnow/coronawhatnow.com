@@ -5,7 +5,6 @@
 ## Help by Location
 
 * [USA](usa/README.md)
-  * [Texas](usa/texas.md)
   * [Countrywide Resources](usa/general.md)
   * [Alabama](usa/alabama.md)
   * [California](usa/california/README.md)
@@ -25,6 +24,8 @@
     * [New York City](usa/newyork/newyork.md)
   * [Ohio](usa/ohio.md)
   * [Pennsylvania](usa/pennsylvania.md)
+  * [Texas](usa/texas/README.md)
+    * [Houston](usa/texas/houston.md)
   * [Virginia](usa/virginia.md)
   * [Washington](usa/washington/README.md)
     * [Seattle](usa/washington/seattle.md)
