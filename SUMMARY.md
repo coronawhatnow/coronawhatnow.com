@@ -43,6 +43,8 @@
   * [Western Australia](australia/western-australia.md)
   * [Other Territories](australia/other-territories.md)
 * [Canada](canada/README.md)
+  * [British Columbia](canada/british-columbia/README.md)
+    * [Vancouver](canada/british-columbia/vancouver.md)
   * [Countrywide Resources](canada/general.md)
   * [Manitoba](canada/manitoba/README.md)
     * [Winnipeg](canada/manitoba/winnipeg.md)
