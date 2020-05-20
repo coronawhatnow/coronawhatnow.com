@@ -17,6 +17,7 @@
 
 * [Coursera](https://www.coursera.org/) offers thousands of free online courses.
 * [Harvard University online courses](https://online-learning.harvard.edu/catalog) \(many are free\)
+* [Free Vancouver Online Resources for Children](https://vancouversun.com/health/covid-19-bored-kids-check-out-these-free-vancouver-online-resources/) - includes colouring, online STEM classes for K-12, e-books etc.
 
 ## **Food**
 
@@ -31,6 +32,10 @@
 
 * [Coronavirus in Canada: how to get tested, what the symptoms are, where to get help](https://www.macleans.ca/society/health/coronavirus-in-canada-how-to-get-tested-what-the-symptoms-are-where-to-get-help/?fbclid=IwAR2DU2ER4axgdowHLdz4aV2fGwLvyIds1OVmXC0JJbmYOQGzjWSgMXR2Rvw)
 * [How and where to get tested in BC](http://www.vch.ca/covid-19/about-covid-19/covid-19-testing)
+* BC Health Questions: If you have symptoms related to COVID-19 \(or another other health issue\) and want to talk to a health professional, call 8-1-1.
+* [Self-Assessment Tool Provided by BC](https://bc.thrive.health/)
+* [BC Centre for Disease Control ](http://www.bccdc.ca/health-info/diseases-conditions/covid-19)- provides information on testing, prevention, symptoms etc.
+* **Test results hotline:** Call 1-833-707-2792 or 1-866-370-8355 \(Vancouver Island only\) from 8:30 AM to 4:30 PM, seven days a week. It may be easier to get through to someone on the line in the afternoon when the call volume is generally lower.
 
 ### **Mental Health**
 
@@ -59,8 +64,6 @@
 * [BC Government childcare information and resources ](https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children)
 * [Temporary emergency childcare and in-school support for essential workers](https://vancouver.ca/home-property-development/access-emergency-childcare.aspx)
 
-#### **Education**
-
 ## **Finances**
 
 ### **Debt Repayment**
@@ -80,6 +83,8 @@
 
 ### **Housing**
 
+* [BC Tenants Rights ](https://www.tapsbc.ca/renters-factsheet)
+
 ### **Who's hiring?**
 
 * [Directory of remote jobs](https://docs.google.com/spreadsheets/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview?fbclid=IwAR3ZaSqQPNqeGQSBgrcET629Zf5XJQqqg5P9Ry5EyAOgC2Ly5uPukF607Vk)
@@ -89,6 +94,7 @@
 ### **Unemployment Benefits**
 
 * [Application for Employment Insurance benefits online - Canada.ca](https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA)
+* [BC Welfare Benefits During COVID-19](https://www.tapsbc.ca/income-assistance-1)
 
 ### **Tax Assistance**
 
@@ -107,6 +113,8 @@
 * [Canada suspends federal student loan payments during COVID-19 crisis](https://www.cbc.ca/news/politics/covid-19-coronavirus-pandemic-student-loans-1.5502179). Students will be automatically enrolled into the six-month loan holiday program
 
 ## **Elderly \(65+\)**
+
+* Seniors in BC ****can call 2-1-1 for information on support services including meal delivery, help with cooking, delivery of groceries and medications, wellness calls and visits.
 
 ## **Safety for Survivors of Violence**
 
@@ -129,10 +137,11 @@
 * [Netflix Party](https://www.netflixparty.com/) is a Chrome extension that lets you have long distance movie nights
 * [MOA \(Museum of Anthropology\) From Home](https://moa.ubc.ca)
 * [Dan Mangan Saturday Concert Series](https://sidedooraccess.com/shows/ga6rjcs3mSouqU6MyzNI) 
-
-## **Donate Your Items or Money**
+* 
+## **Donate Your Items or Money** 
 
 * [Give a Hand Vancouver](https://shapeyourcity.ca/giveahand?_ga=2.109232262.2083326057.1590004720-1414497996.1590004720) - looking for businesses or organizations with large quantities of medical supplies, cleaning products, food, or services that they can donate or provide at reduced cost, to support vulnerable populations.
+* [Vancouver Foundation Community Response Fund](https://www.vancouverfoundation.ca/covid19) - The Vancouver Foundation, Vancity, United Way of the Lower Mainland, and the City of Vancouver have created this fund, to  help fund services to those in need. 
 
 ## **Volunteer Opportunities/How to Help**
 
