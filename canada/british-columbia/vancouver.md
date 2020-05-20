@@ -33,7 +33,7 @@
 * [Coronavirus in Canada: how to get tested, what the symptoms are, where to get help](https://www.macleans.ca/society/health/coronavirus-in-canada-how-to-get-tested-what-the-symptoms-are-where-to-get-help/?fbclid=IwAR2DU2ER4axgdowHLdz4aV2fGwLvyIds1OVmXC0JJbmYOQGzjWSgMXR2Rvw)
 * [How and where to get tested in BC](http://www.vch.ca/covid-19/about-covid-19/covid-19-testing)
 * BC Health Questions: If you have symptoms related to COVID-19 \(or another other health issue\) and want to talk to a health professional, call 8-1-1.
-* [Self-Assessment Tool Provided by BC](https://bc.thrive.health/)
+* [Self-Assessment Tool ](https://bc.thrive.health/)
 * [BC Centre for Disease Control ](http://www.bccdc.ca/health-info/diseases-conditions/covid-19)- provides information on testing, prevention, symptoms etc.
 * **Test results hotline:** Call 1-833-707-2792 or 1-866-370-8355 \(Vancouver Island only\) from 8:30 AM to 4:30 PM, seven days a week. It may be easier to get through to someone on the line in the afternoon when the call volume is generally lower.
 
@@ -137,7 +137,7 @@
 * [Netflix Party](https://www.netflixparty.com/) is a Chrome extension that lets you have long distance movie nights
 * [MOA \(Museum of Anthropology\) From Home](https://moa.ubc.ca)
 * [Dan Mangan Saturday Concert Series](https://sidedooraccess.com/shows/ga6rjcs3mSouqU6MyzNI) 
-* 
+
 ## **Donate Your Items or Money** 
 
 * [Give a Hand Vancouver](https://shapeyourcity.ca/giveahand?_ga=2.109232262.2083326057.1590004720-1414497996.1590004720) - looking for businesses or organizations with large quantities of medical supplies, cleaning products, food, or services that they can donate or provide at reduced cost, to support vulnerable populations.
