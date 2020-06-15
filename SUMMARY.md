@@ -62,6 +62,7 @@
 ## More Resources
 
 * [Statistics](more-resources/data-resources.md)
+* [Global](more-resources/global.md)
 
 ## About Us <a id="about-us-1"></a>
 
